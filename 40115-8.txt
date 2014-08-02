@@ -1,0 +1,5809 @@
+The Project Gutenberg EBook of Henrik Kuudes II, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Henrik Kuudes II
+
+Author: William Shakespeare
+
+Translator: Paavo Cajander
+
+Release Date: July 1, 2012 [EBook #40115]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HENRIK KUUDES II ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+HENRIK KUUDES II
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi v. 1907.
+
+
+
+N‰ytelm‰n henkilˆt:
+
+ Kuningas HENRIK KUUDES.
+ HUMPHREY, GLOSTERin herttua, h‰nen set‰ns‰.
+ Kardinaali BEAUFORT, Winchesterin piispa.
+ RICHARD PLANTAGENET, Yorkin herttua.
+ EDWARD,   |  h‰nen poikansa.
+ RICHARD,  |
+ SOMERSETin herttua,               |
+ SUFFOLKin herttua,                |  kuninkaan puoluetta.
+ BUCKINGHAMin herttua,             |
+ Lord CLIFFORD ja h‰nen poikansa,  |
+ SALISBURYn kreivi,  |  Yorkin puoluetta.
+ WARWICKin kreivi,   |
+ Lord SCALES, Towerin p‰‰llikkˆ.
+ Lord SAY.
+ Sir HUMPHREY STAFFORD ja h‰nen veljens‰.
+ Sir JOHN STANLEY.
+ Laivankapteeni, per‰mies, alaper‰mies ja VALTER MEREINEN.
+ Kaksi ylimyst‰, Suffolkin vankeuskumppaneita.
+ VAUX.
+ HUME ja SOUTHWELL, kaksi pappia.
+ BOLINGBROKE, loitsija. H‰nen kutsumansa henki.
+ THOMAS HORNER, asesepp‰.
+ PIETARI, h‰nen oppipoikansa.
+ Chattamin kirjuri.
+ Sanct Albansin majori.
+ SIMPCOX, petturi.
+ Kaksi murhaajaa.
+ JAC CADE, kapinoitsija.
+ YRJ÷ BEVIS, JUHO HOLLAND, DICK, teurastaja, SMITH,
+   verkakankuri, MIKKO, y.m. Caden liittolaisia.
+ ALEKSANDER IDEN, kentil‰inen ylimys.
+ MARGAREETA, kuningas Henrikin puoliso.
+ LEONOORA, Glosterin herttuatar.
+ KREETA JOURDAIN, noita.
+ Simpcoxin vaimo.
+ Loordeja, ladyj‰ ja seuralaisia; airut; anojia, ammatinvanhimpia,
+   pyˆveli, sheriffi ja palvelijoita; porvareita, oppipoikia,
+   haukkamiehi‰, vartijoita, sotureita, sanansaattajia y.m
+
+Tapaus Englannissa.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Lontoo. Loistohuone kuninkaanlinnassa.
+
+    (Torventoitauksia; sitten hoboijan soittoa. Toiselta sivulta
+    tulevat kuningas Henrik, Glosterin herttua, Salisbury, Warwick
+    ja kardinaali Beaufort; toiselta kuningatar Margareeta, Suffolkin
+    taluttamana, York, Somerset, Buckingham y.m.)
+
+SUFFOLK.
+Niinkuin ma teid‰n majesteetiltanne
+Sain Ranskaan l‰hteiss‰ni toimeksi
+Kuninkaan sijassa ja puolest' ottaa
+Avioksenne kauniin Margareetan;
+Niin kuuluisassa Toursin kaupungissa,
+Sisilian ja Ranskan kuninkaan,
+Orleansin, Calabrian, Bretagnen
+Ja Alenconin herttuan, kuuden kreivin,
+Kahdentoista paroonin ja kahdenkymmenen
+Arvoisan piispan l‰sn‰ollessa,
+Ma t‰ytin tyˆn ja vihille vein h‰net,
+Nyt nˆyr‰sti ja notkistetuin polvin,
+Englannin ja sen suurten loordein n‰hden,
+T‰ss' oikeuteni h‰neen luovutan
+Ma kuninkaalle, joka olemus on
+Sen suuren varjon, jota edustin.
+Parahin lahja, mink‰ antanut
+On mik‰‰n kreivi: kaunein kuningatar,
+Mi millek‰‰n on kuninkaalle tuotu.
+
+KUNINGAS HENRIK.
+Sa nouse! -- Tervetullut, kuningatar!
+En hellemp‰‰ voi lemmen n‰ytett' antaa
+Kuin t‰m‰n hell‰n muiskun. -- Elon herra,
+Suo mulle hurskas, kiitollinen syd‰n!
+N‰iss' ihanissa kasvoiss' annoit mulle
+Maailman t‰yden maallist' onnea,
+Jos lemmen sopu yhteen liitt‰‰ mielet.
+
+KUNINGATAR MARGAREETA.
+Englannin valtias, armas puolisoni,
+Mun aatosteni harras seurustelu --
+÷in, p‰ivin, maatessa ja valvoessa,
+Hoviseuroissa ja rukousnauhan luona --
+Kanssanne, kaikkein rakkain majesteetti,
+Mua rohkaisuttaa tervehtim‰‰n teit‰
+N‰in suorin sanoin, niinkuin ‰ly neuvoo
+Ja ylenriemullinen syd‰n k‰skee.
+
+KUNINGAS HENRIK.
+Jo n‰kˆ hurmas mun, mut sanain somuus
+Ja puheen viisas majesteettisuus
+Nyt ihmettelyn ilon itkuks muuttaa;
+Niin riemua on syd‰n t‰ynn‰. -- Loordit,
+Iloinen tervehdys nyt armaalleni!
+
+KAIKKI.
+El‰kˆˆn kuningatar Margareeta,
+Englannin onni!
+
+    (Torventoitaus.)
+
+KUNINGATAR MARGAREETA.
+Kiitos teille kaikin!
+
+SUFFOLK.
+Mylord protektori, jos suvaitsette,
+Niin t‰ss‰ ois se rauhansopimus,
+Mik' Englannin ja Ranskan v‰lill‰
+Puoleksitoista vuodeksi on tehty.
+
+GLOSTER (lukee).
+"_Imprimis_, ovat Ranskan kuningas
+Kaarle ja William de la Poole, Suffolkin markkreivi, Englannin
+kuninkaan Henrikin l‰hettil‰s, sopineet, ett‰ mainittu Henrik ottaa
+aviokseen neiti Margareetan, Napolin, Sisilian Ja Jerusalemin kuninkaan
+Reignier'n tytt‰ren, ja kruunaa h‰net Englannin kuningattareksi ennen
+ensintulevan toukokuun kolmattakymmenett‰ p‰iv‰‰. -- _Item_, ett‰
+Anjoun herttuakunta ja Mainen kreivikunta ovat luovutettavat ja
+j‰tett‰v‰t kuninkaalle, h‰nen is‰lleen" --
+
+KUNINGAS HENRIK.
+No, mik' on, set‰?
+
+GLOSTER.
+                   Anteeks, majesteetti!
+Vain ‰kkikohtaus joka mielt‰ k‰‰nt‰‰
+Ja silm‰‰ h‰m‰rt‰‰, ett'en voi jatkaa.
+
+KUNINGAS HENRIK.
+Winchester set‰, pyyd‰n, jatkakaa.
+
+WINCHESTER.
+"_Item_, on lis‰ksi sovittu, ett‰ Anjoun ja Mainen herttuakunnat ovat
+luovutettavat ja j‰tett‰v‰t kuninkaalle, h‰nen is‰lleen, ja ett‰ h‰n on
+l‰hetett‰v‰ perille Englannin kuninkaan omalla kustannuksella, ilman
+mit‰‰n myˆt‰j‰isi‰."
+
+KUNINGAS HENRIK.
+Hyv' on. -- Markkreivi, polvistu: sun teemme
+Suffolkin ensimm‰iseks herttuaksi
+Ja miekan vyˆlles sidomme. -- York lanko,
+Me Ranskan hallinnosta vapautamme
+Nyt teid‰t, kunnes puolitoista vuotta
+On umpeen mennyt. -- Kiitos, set‰ Winchester,
+Gloster, York, Buckingham, Somerset,
+Salisbury ja Warwick! Teit‰ kaikkia
+Kiit‰mme t‰st‰ suosiosta, mill‰
+Otitte vastaan kuningattaremme.
+Pois tulkaa pit‰m‰‰n nyt tointa siit‰,
+Ett' aikaan saadaan joutuin kruunaus,
+
+    (Kuningas, kuningatar ja Suffolk menev‰t.)
+
+GLOSTER.
+Te uljaat p‰‰rit, maamme pylv‰‰t, teille
+Nyt Humphreyn t‰ytyy purkaa tuskansa,
+Ja teid‰n tuska, koko maamme tuska.
+Mit‰? Henrik-veljenikˆ sotiin uhras
+Nuoruuttaan, voimaansa ja rahaa kanssa?
+Niin usein lep‰sikˆ taivasalla
+Kes‰helteess‰ ja talvipakkasessa
+Perimysmaansa, Ranskan, voittaakseen?
+Ja veljenikˆ Bedford vaivaa n‰ki
+ƒlyll‰ s‰ilytt‰‰ min Henrik voitti?
+York-urho, Salisbury, Somerset, Buckingham
+Ja uljas Warwick, syv‰t naarmunneko
+Te saitte Ranskassa ja Normandiessa?
+Ja set‰ Beaufortko, ja min‰ itse,
+Ja valtakunnan viisas neuvoskunta,
+N‰in kauan mietimme ja neuvospˆyd‰ss'
+Yˆt p‰iv‰t sinne t‰nne tuumailimme,
+Mitenk‰ pit‰‰ Ranska kurissa?
+Ja kuningasko lasna Pariisissa
+Kruunattiin vihollisen uhallakin?
+N‰‰ vaivat, t‰m‰ kunniako tyhj‰‰?
+Henrikin voitot, valppaus Bedfordin
+Ja teid‰n tyˆt ja meid‰n neuvot tyhj‰‰?
+Englannin p‰‰rit, h‰pe‰llinen
+On rauha t‰‰ ja turmaks t‰m‰ liitto:
+Nimenne aikakirjoista se pyyhkii,
+Pois raapii kunnianne kirjoitukset,
+Kukistaa Ranskan valloituksen muistot,
+H‰vitt‰‰ kaikki olemattomiin.
+
+KARDINAALI.
+Mit‰, lanko, t‰m‰ kiivas puhe tiet‰‰
+Ja t‰m‰ laajan laaja todistelu?
+Ranska on meid‰n ja se pidet‰‰n.
+
+GLOSTER.
+Niin kyll‰, herttua, pidet‰‰n, jos voidaan;
+Mut nyt se mahdotonta on. Tuo Suffolk,
+Tuo vasta-tehty herttua, joll' on ohjat,
+Anjoun ja Mainen antaa pois Reignier'lle,
+R‰sykuninkaalle tuolle, jonka arvoon
+Ei hyvin sovi hoikka kukkaronsa.
+
+SALISBURY.
+Niin, kautta Sen, jok' edest‰mme kuoli,
+Ne oli Normandian avaimet! --
+Mut Warwick, uljas poika, miksi itket?
+
+WARWICK.
+Surusta, ett' on ij‰ksi ne menneet;
+Jos viel' ois toivoa, niin miekka verta
+Nyt vuotais, eik‰ silm‰ kyyneleit‰.
+Anjou ja Maine! Ne itse valloitin,
+Omalla tuolla k‰dell‰ ne otin
+Ja kaupungitko, jotka voitin haavoin,
+Takaisin annetaan nyt rauhankaavoin?
+_Mort Dieu!_
+
+YORK.
+Tuo Suffolk herttua l‰k‰‰n tukehtukoon,
+Kun t‰m‰n sankar-saaren maineen raiskas!
+Syd‰mmen multa Ranska raastaa saisi,
+Ennenkuin moiseen liittoon suostuisin.
+Englannin kuninkaat on, tiet‰‰kseni,
+Vaimoillaan aina saaneet suuret perut,
+Ja meid‰n Henrik omaans' antaa pois
+Saadakseen vaimon, jok' on tyhj‰n tyhj‰.
+
+GLOSTER.
+Somapa sutkaus, ennen kuulumaton,
+Ett' oli koko viidestoista osan
+Kuletuskuluiks Suffolk vaatinut!
+Ois j‰‰nyt Ranskaan, n‰lk‰‰n kuollut Ranskaan,
+Ennenkuin --
+
+KARDINAALI.
+Lord Gloster, kiivastutte liiaksi;
+Se oli majesteetin oma tahto.
+
+GLOSTER.
+Lord Winchester, ma hyvin teid‰t tunnen;
+Puheeni se ei teit‰ harmita,
+Vaan l‰sn‰-oloni on haitaks teille.
+Viha pyrkii maalle; kiukkus, pˆyhk‰ pappi,
+Se kuultaa kasvoistasi; jos j‰‰n t‰nne,
+Niin alkaa j‰lleen vanha toramme. --
+Hyv‰sti, loordit! Muistakaa mun sanoneeni,
+Ett' ennen pitk‰‰ mennytt‰ on Ranska.
+
+    (Menee.)
+
+KARDINAALI.
+Noin protektori poistuu kiukusp‰iss‰‰n.
+H‰n vihamieheni on, tied‰tte,
+Niin, jopa teid‰n kaikkein vihamies,
+Ja hyv‰ ei lie liioin kuninkaalle.
+Aatelkaa, ett' on valtaverta h‰n
+Ja kruunun otaksuttu perillinen;
+Keisarikunnan vaikk' ois Henrik saanut
+Ja kaikki l‰nnen vallat naimisellaan,
+Niin olis sittenkin h‰n tyytym‰tˆn.
+Varokaa, loordit, ettei mairesanoin
+H‰n teit‰ hurmaa; viisaat olkaa, valppaat.
+Jos kansa h‰nt‰ suosiikin ja kutsuu
+Nimell‰ "Humphrey, hyv‰ herttua Gloster"
+Taputtain k‰si‰‰n ja huutain ‰‰neen:
+"Jes siunatkoon sit' armollista herraa!
+Jumala hyv‰‰ Humphreyt auttakoon!"
+Niin t‰m‰n suosin uhallakin varon,
+Ett' on h‰n holhoojana vaarallinen.
+
+BUCKINGHAM.
+Ja miksi kuningasta holhotaan,
+T‰ysik‰inen kun on h‰n hallitsemaan?
+Somerset lanko, minuun yhtyk‰‰,
+Ja Suffolk herttuaan kaikki yksin miehin,
+Niin pian Humphrey sijaltaan on syˆsty.
+
+KARDINAALI.
+T‰‰ asia ei sied‰ viivytyst‰;
+Suffolkin herttuan luokse heti l‰hden.
+
+    (Menee.)
+
+SOMERSET.
+Buckingham lanko, vaikka Humphreyn korska
+Ja ylh‰ asema on kiusaks meille,
+Niin tuota pˆyhk‰‰ piispaa varokaamme.
+Sen julkeus on siet‰m‰ttˆm‰mpi
+Kuin kaikkein maamme prinssein; jos Gloster
+Viralta pannaan, niin h‰n tulee sijaan.
+
+BUCKINGHAM.
+Tai sin‰ taikka min‰ tullaan sijaan,
+Humphreyn ja kardinaalin kiusalla.
+
+    (Buckingham ja Somerset menev‰t.)
+
+SALISBURY.
+Kopeus k‰y vallanhimon edell‰.
+Kun noilla huolena on oma etu,
+Maan paras meid‰n olkoon huolenamme.
+Ain' olen n‰hnyt, ett‰ Humphrey-herttua
+On k‰ytt‰ynyt kuin jalo ylimys;
+Mut usein n‰in tuon pˆyhk‰n kardinaalin --
+Jok' enemm‰n on soturi kuin pappi,
+Ja kopea kuin ois h‰n kaikkein herra --
+Kiroovan, m‰ss‰‰v‰n ja el‰mˆiv‰n,
+Niin kuin ei sovi esivallan miehen. --
+Sa, Warwick poika, vanhuuteni lohtu,
+Maineesi, suoruutesi, tarkkuutesi
+Suurimman kansansuosion sulle hankki,
+L‰hinn‰ hyv‰‰ Humphrey-herttuaa. --
+Ja, veli York, sun tekos Irlannissa,
+Kun siell‰ suistit kapinalliset,
+Ja viime tyˆsi Ranskan syd‰mmess‰,
+Miss' olit kuninkaamme sijaisena,
+Sun saattoi kansan suosioon ja arvoon. --
+Me yhteishyv‰n puolest' yhtyk‰‰mme
+Ja suistain ehk‰isk‰‰mme kaikin voimin
+Niin Suffolkin kuin kardinaalin korskat,
+Somersetin ja Buckinghamin pyyteet,
+Ja Humphreyt' auttakaamme mink‰ voimme,
+Niin kauan kuin maan hyv‰ksi h‰n toimii.
+
+WARWICK.
+Niin totta kuin mua Jumal' auttakoon,
+Niin kansani ja maani parast' etsin!
+
+YORK (syrj‰‰n).
+York samaa sanoo, syyll‰ suurimmalla.
+
+SALISBURY.
+Nyt joutua! On maine muuten mennyt.
+
+WARWICK.
+Maineko mennyt? Is‰, Maine on mennyt,
+Se Maine, jonk' omin mainein Warwick voitti
+Ja puoltaa aikoi henkeen, kuolemaan.
+Ei maine mennyt, is‰; Maine se meni;
+Mut taas sen voitan, vaikka surmakseni.
+
+    (Warwick ja Salisbury menev‰t.)
+
+YORK.
+Anjou ja Maine on myˆty Ranskalle;
+Pariisi mennyt; koko Normandia
+On turvatonna nyt, kun nuo on poissa.
+Suffolk on tehnyt rauhanpyk‰l‰t;
+Ne p‰‰rit hyv‰ksyi, ja hyvill‰‰n
+On Henrik, kun sai kaksi herttuakuntaa
+Pois vaihtaa yhteen herttuan herttatyttˆˆn.
+En heit‰ moiti; mit‰ heid‰n siihen?
+Ei omaans' antaneet he, vaan sun omaas,
+Halvasta saaliinsa voi rosvo myyd‰,
+Portoille antaa, yst‰vi‰ ostaa
+Ja herroiks el‰‰, kunnes kaikki loppuu;
+Mut' syytˆn omistaja syrj‰ss' itkee
+Ja onnetonna v‰‰nt‰‰ k‰si‰‰n
+Ja p‰‰t‰‰n pudistaa ja v‰rjˆttelee,
+Kun saalis jaetaan ja vied‰‰n pois;
+Ei tohdi omaans' ottaa, vaikk' on n‰lk‰.
+Niin York'kin istuu, purren hammasta,
+Kun h‰nen maitaan kaupitaan ja myyd‰‰n.
+Englanti, Ranska, Irlanti ne ovat
+Lihaani, vereeni niin liittyneet
+Kuin syd‰mmehen Calydonin prinssin[1]
+Althaean turmiokas kek‰le.
+Anjou ja Maine siis myyty Ranskalle!
+Kirous! Ranskaa itselleni toivoin,
+Samoin kuin vehmast' Englanninkin maata.
+York viel‰ kerran vaatii omaansa,
+Ja siksi pid‰n Nevillen puolta
+Ja olen mielin kielin Humphreyn kanssa,
+Ja kun n‰en ajan tulleen, vaadin kruunun:
+Se on se kultapilkka, johon t‰ht‰‰n.
+Lancaster ei saa oikeuttani ryˆst‰‰,
+Ei lapsenk‰sin kantaa valtikkaa,
+Ei pit‰‰ valtadiadeemaa p‰‰ss‰‰n,
+Min pappis-oikut eiv‰t kruunuun sovi.
+Siis, hiljaa, York, siks kunnes aika kypsyy;
+Varuillas ole, valvo, muut kun nukkuu,
+Ja valtakunnan salaisuudet urki,
+Siks kunnes, lemmen iloon kyll‰yneen‰,
+Henrik on nuoren morsionsa kanssa,
+Englannin kalliin kuningattaren,
+Ja Humphrey p‰‰rein kanssa riitaan tullut;
+Korkeelle silloin nostan valkoruusun,
+Jonk' armas tuoksu t‰ytt‰v‰ on ilman,
+Ja, Yorkin sukukilpi lipussa,
+K‰yn painiin Lancasterin suvun kanssa:
+Vien h‰lt‰ kruunun, potkikoon min voi;
+Englannin halventaa se kirjakoi.
+
+                        (Menee.)
+
+
+Toinen kohtaus.
+
+    Sama paikka. Huone Glosterin herttuan asunnossa.
+
+    (Gloster ja herttuatar tulevat.)
+
+HERTTUATAR.
+Miks alas painuu puolisoni p‰‰
+Kuin t‰hk‰ Cereen raskaan painon alla?
+Miks otsaans' suuri Humphrey rypist‰‰,
+Kuin valtain lemmet h‰nt‰ vihoittaisi?
+Miks katseesi sa mustaan maahan luot
+Ja tuijotat, kuin huikeneisi silm‰s?
+Mit‰ s‰ n‰et? Kuninkaanko kruunun,
+Jot' ymp‰rˆitsee mailman koko kiilto?
+No, tuijota, ja kasvoillasi ryˆmi,
+Siks kunnes p‰‰h‰s saat sen kultarenkaan!
+Ojenna k‰tes, tartu hohtokultaan!
+Liianko lyhyt? Jatkoks ota minun.
+Kun kahden olemme sen k‰sitt‰neet,
+Niin kahden p‰‰mme pilviin nostamme,
+Eik' en‰‰ silm‰mme niin alas painu,
+Ett' edes vilkaisemme halpaan maahan.
+
+GLOSTER.
+Oi, rakas Noora, miest‰si jos lemmit,
+Tuo vallanhimon syˆp‰ karkoita!
+Ja olkoon aatoskin, jos aattelen
+Hurskaalle Henrik-kuninkaalle pahaa,
+Mun viime huokaukseni p‰‰ll‰ maan!
+Mua viimeˆinen julma uni painaa.
+
+HERTTUATAR.
+Mik' uni? Sano, niin ma palkinnoksi
+Myˆs kerron kauniin aamu-uneni.
+
+GLOSTER.
+T‰‰ virkamerkki kahdeks katkaistiin,
+T‰‰ sauvani; ken teki sen, en muista,
+Mut, luulemma, se oli kardinaali,
+Ja sauvan katkennaisiin nostettiin
+Suffolkin herttuan, William de la Poolen,
+Ja herttuan Edmund Somersetin p‰‰t.
+Se uneni; ties Herra, mit‰ tiet‰‰!
+
+HERTTUATAR.
+Pah! Sit‰ vain se tiet‰‰, ett‰ se,
+Ken Humphreyn huvipuistost' oksan taittaa,
+Saa p‰‰ll‰‰n julkeutensa sovittaa.
+Mun untani nyt kuule, rakas Humphrey:
+Ma istuin majesteetin paikalla
+Westminster-kirkoss' istuimella, miss‰
+Kuningas kruunataan ja kuningatar;
+Ja Henrik polvistui, ja Margareeta,
+Ja kruunun panivat mun p‰‰h‰ni.
+
+GLOSTER.
+Leonoora, nyt mun nuhdella sua t‰ytyy:
+Kopea vaimo, paha Leonoora!
+Olethan valtakunnan toinen rouva
+Ja protektorin oma rakas vaimo;
+Iloa maallist' enemm‰n on sulla,
+Kuin mit‰ ajatukses aavistaa.
+Yh‰kˆ noita juoniasi haudot,
+Syˆst‰kses miehesi ja itsesi
+H‰pe‰n lokaan arvon kukkuloilta?
+Pois, pois! En sua en‰‰ tahdo kuulla.
+
+HERTTUATAR.
+Mit‰, puolisoni! Noinko Leonooraan
+Sa kiivastut, kun uniaan h‰n kertoo?
+Vast'edes pid‰n salass' uneni,
+Niin v‰lt‰n nuhteet.
+
+GLOSTER.
+Oi, ‰l‰ suutu, leppynyt jo olen.
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Lord protektori, kuninkaan on tahto,
+Ett' oiti Sanct Albansiin hankkiutte
+Kuninkaallisten kanssa haukanjahtiin.
+
+GLOSTER.
+Kyll', oiti. -- Noora, haluatko mukaan?
+
+HERTTUATAR.
+Kyll', armas. -- Kohta tulen j‰lest‰.
+
+    (Gloster ja sanansaattaja menev‰t.)
+
+J‰less‰ kuljen; eell‰ en voi k‰yd‰,
+Kun Gloster on noin alhainen ja nˆyr‰.
+Jos min‰ oisin mies ja herttua
+Ja l‰hin kuninkaasta, niin nuo h‰ijyt
+Kompastuskivet raivaisin, ja tieni
+Se p‰‰ttˆmien niskain yli kulkis.
+Mut vaimonakin tahdon n‰ytell‰
+Osaani onnettaren n‰ytelm‰ss‰. --
+Sir John, miss' olet? ƒl‰ pelk‰‰, mies:
+Ei muita t‰‰ll‰, sin‰ vain ja min‰.
+
+    (Hume tulee.)
+
+HUME.
+Kies'auksi teid‰n majesteetillenne!
+
+HERTTUATAR.
+Majesteetillenne? Olen armo vain.
+
+HUME.
+Mut taivaan armosta ja Humen neuvost'
+On armon arvonimi suureneva.
+
+HERTTUATAR.
+Mit‰ sanot, mies? Oletko neuvotellut
+Ovelan noidan, Kreeta Jourdanin,
+Ja velhon, Roger Bolingbroken, kanssa?
+He suostuvatko mua auttamaan?
+
+HUME.
+Luvanneet ovat -- n‰ytt‰‰ teille hengen,
+Manalan mailta esiin loihditun
+Jok' antaa vastuun kaikkiin kysymyksiin,
+Joit' armon rouva tehd‰ suvaitsee.
+
+HERTTUATAR.
+Hyv' on. Ma mietin valmiiks kysymykset;
+Ja kun Sanct Albansista palaamme,
+Niin toivon ett' on kaikki toimitettu.
+Tuoss', ota palkkas; pid‰ lysti‰,
+Hume, noiden toimikumppanies kanssa.
+
+    (Menee.)
+
+HUME.
+Siis Humen tulee pit‰‰ lysti‰
+Tuon armon kullalla; no, se on varma!
+Mut kuules, sir John Hume, sa luki suusi,
+Siit' ‰l‰ muuta p‰‰st‰ kuin vain -- hm!
+T‰‰ toimi vaatii suurta salaisuutta.
+Leonoora rouva antaa mulle kultaa,
+Ett' toimittaisin h‰nen luokseen noidan;
+No, kulta kelpaa, vaikka antais piru.
+Kyll' uhraa mulle kultaa monet muutkin:
+En v‰itt‰‰ tohdi, ett‰ kardinaali
+Ja suur' mies tuo, tuo uusi herttua Suffolk;
+Mut silt‰ n‰ytt‰‰; ovat, totta puhein,
+Kun armon suuret tuumat tiet‰v‰t,
+Palkanneet minut kukistamaan h‰net
+Ja taioill' aivot h‰lt‰ hurmaamaan.
+Sanotaan: kelpo konna itsens' auttaa;
+Mut minun t‰ytyy auttaa kumpaakin,
+Niin kardinaalia kuin Suffolkia.
+Hume, pid‰ varas, muuten heit‰ loukkaat,
+Kun sanot heit‰ kelpo konniksi.
+Niin on nyt laita: konnan Humen kautta
+Lopulta, varon, herttuatar kaatuu;
+Ja jos h‰n kaatuu, Humphreyn perii pahat;
+Mut sama se, kun min‰ vain saan rahat.
+
+                              (Menee.)
+
+
+Kolmas kohtaus.
+
+    Huone kuninkaanlinnassa.
+
+    (Pietari ynn‰ muita armon-anojia tulee, anomuskirjat k‰dess‰.)
+
+1 ARMON-ANOJA.
+Hyv‰t herrat, pysyk‰‰ esill‰; lord protektori kulkee heti kohta t‰st‰
+ohi, ja silloin me voimme antaa supliikkimme kirjallisesti.
+
+2 ARMON-ANOJA.
+Niin, Herra h‰nt‰ varjelkoon, h‰n on hyv‰ mies! Jessus h‰nt‰
+siunatkoon!
+
+    (Suffolk ja kuningatar Margareeta tulevat.)
+
+1 ARMON-ANOJA.
+Tuossa h‰n tulee, luulemma, ja kuningatar h‰nen kanssaan. Min‰ olen
+ensimm‰inen, se on varma.
+
+2 ARMON-ANOJA.
+Takaisin, narri! Seh‰n on herttua Suffolk, eik‰ protektori.
+
+SUFFOLK.
+Mit‰, mies? Tahdotko mit‰ minusta?
+
+1 ARMON-ANOJA.
+Suokaa anteeksi, mylord, luulin teit‰ protektoriksi.
+
+KUNINGATAR MARGAREETA (lukee otsakirjoituksen).
+"Mylord protektorille!" Ovatko anomuksenne h‰nen ylh‰isyydelleen?
+N‰ytt‰k‰‰ minulle: mit‰ sinun koskee?
+
+1 ARMON-ANOJA.
+Minun on, teid‰n armonne luvalla, John Goodmania vastaan, lord
+kardinaalin palvelijaa, joka pid‰tt‰‰ minulta taloni, maani, vaimoni ja
+kaikki.
+
+SUFFOLK.
+Vaimosikin? Sep‰ jotenkin likentelev‰‰, totta tosiaankin. -- Ent‰
+teid‰n? -- Mit‰ on t‰m‰? (Lukee.) Herttua Suffolkia vastaan, joka on
+aidalla sulkenut Melfordin yhteismaan. -- Mit‰ t‰m‰ tiet‰‰, herra
+konna?
+
+2 ARMON-ANOJA.
+Voi, herra hyv‰, min‰ olen vain kˆyh‰ anoja koko meid‰n porvariston
+puolesta.
+
+PIETARI (tarjoten anomuskirjaansa).
+Mestariani Thomas Horneria vastaan, joka sanoi, ett‰ Yorkin herttua on
+kruunun oikea perillinen.
+
+KUNINGATAR MARGAREETA.
+Mit‰ sanot? Onko herttua York sanonut, ett‰ h‰n on kruunun oikea
+perillinen?
+
+PIETARI.
+Ett‰kˆ mestarini on? Ei, totta totisesti; mutta  mestarini se sanoi,
+ett‰ h‰n on, ja ett‰ kuningas on vallan-anastaja.
+
+SUFFOLK.
+Onko siell‰ ket‰‰n?
+
+    (Palvelijoita tulee.)
+
+Ottakaa talteen t‰m‰ mies, ja pankaa heti oikeudenpalvelija noutamaan
+h‰nen is‰nt‰‰ns‰. -- Kuulustelemme teit‰ l‰hemmin t‰ss‰ asiassa,
+kuninkaan l‰sn‰ollessa.
+
+    (Palvelijat viev‰t pois Pietarin.)
+
+KUNINGATAR MARGAREETA.
+Ja te, jotk' armon turvaa etsitte
+Lord protektorin armon siipein alta,
+Uus tehk‰‰ anomus ja h‰lle viek‰‰.
+
+    (Repii palasiksi anomuskirjan.)
+
+Pois, roistot! -- Suffolk, antaa heid‰n menn‰.
+
+KAIKKI.
+No, menn‰‰n; tulkaa pois!
+
+    (Anojat menev‰t.)
+
+KUNINGATAR MARGAREETA.
+Sanokaa, Suffolk, t‰m‰kˆ on tapa,
+T‰m‰kˆ meno hoviss' Englannin?
+T‰‰ Britteinkˆ on saaren hallitus,
+T‰‰ Albionin kuninkaanko valta?
+Mit‰? Henrikinkˆ t‰ytyy ij‰t kaiket
+Tuon jˆrˆn Humphreyn holholainen olla?
+Mull' onko arvo kuningattaren
+Vain ollakseni herttuan alamainen?
+Oi, tied‰s, Poole, kun sin‰ Toursiss' olit
+Mun rakkauteni t‰hden keih‰isill‰
+Ja Ranskan naisten voitit syd‰mmet,
+Niin luulin, ett' on Henrikill‰ myˆs
+Sun kaltaisesi miehuus, muoto, k‰ytˆs.
+Mut hurskaus vain mieless‰ on h‰ll‰
+Ja is‰meid‰t, helmirukoukset;
+Uroinaan profeetat ja apostolit,
+Aseinaan pyh‰t lauseet raamatusta,
+Lukuhuone h‰ll‰ turnauskentt‰n‰
+Ja pyh‰in vaskikuvat lemmittyin‰.
+Vois kardinaalikokous hyvin tehd‰
+H‰nest‰ paavin, vied‰ h‰net Roomaan,
+Ja panna p‰‰h‰n kolminaisen kruunun:
+Se h‰nen pyhyydelleen sopisi.
+
+SUFFOLK.
+Huoletta, armo; niinkuin min‰ teid‰t
+Toin t‰nne Englantiin, niin min‰ laitan
+Myˆs niin, ett' Englannissa viihdytte.
+
+KUNINGATAR MARGAREETA.
+Pait ylv‰‰ Glosteria meill' on Beaufort,
+Tuo pˆyhk‰ pappa, Somerset, Buckingham
+Ja juro York; ja noista halvin mahtaa
+Englanniss' enemm‰n kuin kuningas.
+
+SUFFOLK.
+Ja se, ken n‰ist‰ kaikkein enin mahtaa,
+Ei mahda enemp‰‰ kuin Nevilit:
+Ei pelkki‰ ne ole p‰‰rej‰
+Nuo Salisbury ja Warwick.
+
+KUNINGATAR MARGAREETA.
+                          Kaikki loordit
+Ei puoleksikaan niin mua suututa
+Kuin protektorin suurellinen vaimo.
+H‰n hoviss' ylv‰stelee yhten‰‰n,
+Naisliuta h‰nn‰ss‰, kuin keisarinna
+H‰n oisi eik‰ herttua Humphreyn vaimo;
+H‰nt' outo luulee kuningattareksi;
+Hameissaan herttuan tuloja h‰n kantaa
+Ja syd‰mmess‰‰n meid‰n kˆyhyytt' ilkkuu.
+H‰nt' eikˆ el‰iss‰ni kosto tapaa?
+Tuo alhaissyntyinen ja halpa ruosa
+Kehaisi taannoin mielitietyilleen,
+Ett' arkeisimman leninkins‰ laahus
+Isompi oli arvoinen kuin kaikki
+Is‰ni maat, siks kunnes Suffolk antoi
+Kaks herttuakuntaa h‰nen tytt‰rest‰‰n.
+
+SUFFOLK.
+Min' olen itse h‰lle ansan pannut
+Ja asettanut vietelintusia;
+Kun n‰iden ‰‰nt‰ kuulemaan h‰n laskee,
+Niin siit' ei en‰‰ nouse teille kiusaks.
+H‰nt' ‰lk‰‰ aatelko. Mua kuulkaa, armo,
+Ja sallikaa mun antaa t‰ss‰ neuvo:
+Vaikk' emme k‰rsi kardinaalia,
+Tok' yhtyk‰‰mme loordeihin ja h‰neen,
+Siks ett' on Humphreyn p‰‰h‰n vihat saatu.
+Mit‰ Yorkiin tulee, niin tuo viime kanne
+Ei ole h‰lle varsin eduksi.
+N‰in v‰hitt‰in ne kaikki juuritamme,
+Ja onnell' itse vallan johtoon k‰ytte.
+
+    (Kuningas Henrik, York, Somerset, Glosterin herttua
+    ja herttuatar, kardinaali Beaufort, Buckingham,
+    Salisbury ja Warwick tulevat.)
+
+KUNINGAS HENRIK.
+En, loordit, v‰lit‰, ken siihen tulee,
+Somerset taikka York, se mulle yht‰.
+
+YORK.
+York Ranskassa jos k‰ytt‰ynyt on v‰‰rin,
+Niin h‰net hallituksest' ev‰tk‰‰.
+
+SOMERSET.
+Jos Somerset ei siihen arvokas,
+York tulkoon hallitsijaks; min‰ v‰istyn.
+
+WARWICK.
+Te arvokasko olette vai ette,
+Ei siit‰ riitaa; York on arvokkain.
+
+KARDINAALI.
+Vait, pˆyhk‰ Warwick, paremmat kun haastaa!
+
+WARWICK.
+Sodass' ei Beaufort mua parempi.
+
+BUCKINGHAM.
+Sua paremmat on t‰‰ll‰ kaikki, Warwick.
+
+WARWICK.
+Voi Warwick tulla parhaaks kaikista.
+
+SALISBURY.
+Vait, poika! -- Sano mulle, Buckingham,
+Miks Somerset ois siihen parempi.
+
+KUNINGATAR MARGAREETA.
+Siks, tieten, ett‰ kuningas niin tahtoo.
+
+GLOSTER.
+Kuningas kyllin vanha on, ett' itse
+Voi ‰‰nest‰‰; t‰‰ ei lie naisten tointa.
+
+KUNINGATAR MARGAREETA.
+Jos kyllin vanha on h‰n, miksi, herttua,
+Olette h‰nen protektorinsa?
+
+GLOSTER.
+Min' olen valtakunnan protektori;
+Ja paikastani luovun, kun h‰n tahtoo.
+
+SUFFOLK.
+No, luovu siis, ja rˆyhkeytesi heit‰.
+Siit' asti kun sa tulit kuninkaaksi --
+Ja kuka muu on kuningas kuin sin‰? --
+On yhteiskunta yh‰ h‰vinnyt.
+Dauphin sai voiton tuolla puolen merta,
+Ja maamme p‰‰rit on ja ylimykset
+Sun valtiutes alla orjina.
+
+KARDINAALI.
+Kidutit kansaa; kiskomisillasi
+Papiston kukkarotkin tyhjensit.
+
+SOMERSET.
+Rakennuskiihkosi ja vaimos korut
+On valtiolta vienyt suuret summat.
+
+BUCKINGHAM.
+Julmuutes, rikoksia rangaistessas,
+On sivuuttanut lain ja sinut itses
+Lain valtaan j‰tt‰nyt.
+
+KUNINGATAR MARGAREETA.
+                       Jos tiedett‰isiin,
+Niinkuin sit' ep‰ill‰‰n, kuink' olet myynyt
+Maan virkoja ja Ranskan kaupungeita,
+Niin pian p‰‰ttˆm‰n‰ saisit juosta.
+
+    (Gloster menee. Kuningatar pudottaa viuhkansa.)
+
+Viuhkani t‰nne! Etkˆ kuule, nukke?
+
+    (Antaa herttuattarelle korvapuustin.)
+
+Ah! Tekˆ, rouva? Suokaa anteeksi!
+
+HERTTUATAR.
+Niin, min‰, niin, sa pˆyhk‰ ranskatar!
+Jos kauniit kasvos saisin kynsiini,
+Niin kymmenet mun k‰skyni ne tiet‰is.
+
+KUNINGAS HENRIK.
+Oi, t‰ti, tyyntyk‰‰; se oli erhe.
+
+HERTTUATAR.
+Vai erhe! Katso etees, kuningas;
+H‰n viettelee sua, hypitt‰‰ kuin lasta.
+Vaikk' onkin miehet t‰‰ll‰ housuttomat,
+Niin ei Leonooraa kostamatta lyˆd‰.
+
+    (Menee.)
+
+BUCKINGHAM.
+Lord kardinaali, Leonooraa seuraan,
+Ja tarkkaan, miten Humphrey k‰ytt‰ytyy.
+Nyt eukko ‰ksy on; ei piiskaa tarvis.
+H‰n ilmankin jo perikatoon laukkaa.
+
+    (Menee.)
+
+    (Gloster palaa.)
+
+GLOSTER.
+Nyt, loordit, vihaani kun lauhdutin
+K‰velem‰ll‰ linnan pihamaalla,
+Puhumaan tulen valta-asioista.
+Mit‰ tulee v‰‰riin ilkisyytˆksiinne,
+Ne todistakaa, laki tuomitkoon.
+Niin Jumal' olkoon mulle armias,
+Kuin kuningas ja maa on mulle rakas!
+Mut asiaan nyt k‰sill' olevaan, --
+Ma sanoin, majesteetti, ett‰ York on
+Sopivin Ranskan hallitsijaksi.
+
+SUFFOLK.
+Mut ennen vaalia mun suokaa n‰ytt‰‰
+Kylliksi p‰tevill‰ todisteilla,
+Miks York on kaikkein sopimattomin.
+
+YORK.
+Miks olen sopimaton, sanon sen:
+Siks ensinkin, ett'en sua imartele;
+Ja sitten, ett‰, jos saan paikan min‰,
+Niin Somerset mua t‰‰ll‰ viivytt‰‰,
+Pid‰tt‰in ohjeet, rahat, sotatarpeet,
+Siks ett' on Dauphin j‰lleen saanut Ranskan.
+Niin viimeinkin sain odottaa, siks kunnes
+Pariisi saarrettiin ja n‰lk‰ytettiin.
+
+WARWICK.
+Sen min‰ todistan; niin rumaa tyˆt‰
+Ei ole petturikaan maassa tehnyt.
+
+SUFFOLK.
+Vait, visap‰‰!
+
+WARWICK.
+               S‰, ylpeyden kuva,
+Miks oisin vait?
+
+    (Suffolkin palvelijat tuovat Hornerin ja Pietarin.)
+
+SUFFOLK.
+                 Siks ett‰ tuoss' on mies,
+Jok' on maanpetoksesta syytettyn‰.
+Jumala suokoon, ett‰ York ois syytˆn!
+
+YORK.
+Ken sanoo petturiksi Yorkia?
+
+KUNINGAS HENRIK.
+Mit' aiot, Suffolk? Sano, keit‰ nuo?
+
+SUFFOLK.
+Kuningas armollinen, t‰m‰ mies
+Maanpetoksesta mestariaan syytt‰‰.
+N‰in kuului sanat: Richard, Yorkin herttua,
+Englannin laillinen on kruunup‰‰,
+Ja teid‰n armonne vain anastaja.
+
+KUNINGAS HENRIK.
+Mies, sano, nuoko oli sanasi?
+
+HORNER.
+Teid‰n majesteettinne luvalla en ole koskaan sellaista sanonut enk‰
+ajatellut; Jumala on todistajani, ett‰ tuo konna on tehnyt v‰‰r‰n
+kanteen minua vastaan.
+
+PIETARI.
+N‰iden kymmenen luuntynk‰n nimess‰, hyv‰t loordit, vannon ett‰ h‰n niin
+sanoi minulle ullakkokamarissa er‰‰n‰ iltana, kun paraikaa kirkastimme
+Yorkin herttuan asevaruksia.
+
+YORK.
+Katala, kurja ryˆtys, palkkaorja,
+Ma petospuheistasi p‰‰si vaadin. --
+Rukoilen, armollinen majesteetti:
+Lain ankaruuden tuntea h‰n saakoon.
+
+HORNER.
+Ah, mylord, hirtt‰k‰‰ vaikka minut, jos semmoista olen sanonut.
+Syytt‰j‰ni on oppipoikani; ja kun h‰nt‰ t‰ss‰ taannoin rankaisin
+rikoksesta, vannoi h‰n polvillaan, ett‰ h‰n sen minulle kostaisi;
+siihen minulla on hyv‰t vieraat miehet. Armollinen majesteetti, ‰lk‰‰
+rehellist‰ miest‰ syˆskˆ perikatoon konnan syytˆksest‰.
+
+KUNINGAS HENRIK.
+Kuink' oikein t‰ss‰ tuomittaisi, set‰?
+
+GLOSTER.
+N‰in tuomitaan, jos tuomita saan min‰:
+Somerset tulkoon hallitsijaks Ranskaan,
+Kosk' ep‰luuloon joutunut on York;
+Ja noille aika m‰‰r‰tk‰‰ ja paikka,
+Miss' aseill' asiansa ratkaiskoot,
+Sill' ilmeinen on oppipojan h‰ijyys.
+N‰in Humphrey tuomitsee ja se on oikein.
+
+SOMERSET.
+Ma nˆyrimm‰sti kiit‰n, majesteetti.
+
+HORNER.
+Ja min‰ suostun kaksintaisteluun.
+
+PIETARI.
+Voi, armollinen herra, min‰ en osaa taistella; Herran t‰hden,
+armahtakaa minua! Ihmisten pahuus nousee voimallisena minua vastaan.
+Jumala, ole minulle armollinen! En osaa pistoakaan pist‰‰. Jesta
+varjele sent‰‰n!
+
+GLOSTER.
+Sun t‰ytyy taistella, tai joudut hirteen.
+
+KUNINGAS HENRIK.
+Pois, tyrm‰‰n nuo! Ja kaksintaistelu
+On ens kuun viimeisen‰ tapahtuva. --
+Somerset, tule valmistaumaan matkaan.
+
+                           (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Glosterin herttuan puutarha.
+
+    (Kreeta Jourdain, Hume, Southwell ja Bolingbroke tulevat.)
+
+HUME.
+Tulkaa, hyv‰t ihmiset! tiet‰k‰‰, ett‰ herttuatar odottaa lupauksienne
+t‰ytt‰mist‰.
+
+BOLINGBROKE.
+Olemme siihen valmiit, herra Hume. Tahtooko h‰nen ylh‰isyytens‰ n‰hd‰
+ja kuulla loihtujamme?
+
+HUME.
+Tietysti; kuinkas muuten? H‰n ei ole arkalasta kotoisin, h‰n.
+
+BOLINGBROKE.
+Olen kuullut sanottavan, ett‰ siin‰ naisessa on voittamaton henki;
+mutta paras olisi, herra Hume, jos pit‰isitte seuraa h‰nelle tuolla
+ylh‰‰ll‰, sill'aikaa kuin me puuhaamme t‰‰ll‰ alhaalla; siis pyyd‰n,
+ett‰ nyt menette Herran nimeen ja j‰t‰tte meid‰t. (Hume menee) Muori
+Jourdain, kyyristyk‰‰ maahan ryˆmillenne. -- John Southwell, lue sin‰;
+ja niin ryhtyk‰‰mme tyˆhˆmme.
+
+    (Herttuatar ilmestyy ulkoparvelle.)
+
+HERTTUATAR.
+Hyvin tehty, yst‰v‰t; tervetulleet, kaikki. Toimeenne vain! Mit‰
+pikemmin, sen parempi.
+
+BOLINGBROKE.
+Huoletta, rouva! Noita aikans' arvaa.
+Yˆ synkk‰, musta, kammottava yˆ,
+Yˆ, jolloin tuleen sytytettiin Troja,
+Yˆ, jolloin huuhka huutaa, halli haukkuu
+Ja aaveet liikkuu, haamut hautans' avaa,
+Se aika paras meid‰n askareille.
+Ei, istukaa! Pois pelko! Pyh‰‰n piiriin
+Me loihtimamme aaveet kiinnit‰mme.
+
+    (He toimittavat noitatemppunsa ja piirustavat loitsupiirin.
+    Bolingbroke tai Southwell lukee: _conjuro te_ etc.
+    Hirvitt‰v‰‰ ukkosenjylin‰‰ ja salamoimista; sitten nousee
+    henki maasta.)
+
+HENKI.
+_Adsum_.
+
+KREETA JOURDAIN.
+        Asmath!
+Jumalan kautta ijankaikkisen,
+Min nime‰ ja voimaa vapiset,
+Nyt vastaa kyselmiini; t‰‰lt' et p‰‰se,
+Ennenkuin puhut.
+
+HENKI.
+                 Kysy mit‰ tahdot. --
+Oi, ett‰ kaikki t‰‰ jo lopuss' oisi!
+
+BOLINGBROKE (lukee paperista).
+Kuninkaast' ensin. Miten h‰nen k‰y?
+
+HENKI.
+Viel' el‰‰ herttua, Henrik, kukistajas[2]
+Ja j‰lkees eloon j‰‰ ja miekkaan kaatuu.
+
+    (Sit‰ myˆten kuin henki puhuu, kirjoittaa
+    Southwell vastauksen paperille.)
+
+BOLINGBROKE.
+Ja mik' on Suffolk-herttuan kohtalo?
+
+HENKI.
+H‰n kuolee vesill‰ ja veteen hukkuu.
+
+BOLINGBROKE.
+No, ent‰ herttua Somersetin vaiheet?
+
+HENKI.
+Varokoon linnoja;
+H‰n hiekkakedolla on turvatumpi,
+Kuin miss‰ linnat pilviin nousee.
+Heretk‰‰! Min' en kest‰ kauempaa.
+
+BOLINGBROKE.
+Pimeyteen vaivu, j‰rveen palavaan!
+Pois t‰‰lt‰, inha henki!
+
+    (Ukkosenjylin‰‰ ja leimauksia. Henki vaipuu maahan.)
+
+    (York ja Buckingham tulevat kiireell‰, mukana vartijoita.)
+
+YORK.
+Kiinni nuo petturit ja niiden roskat!
+Haa! noita-muori, sainko sinut kiikkiin? --
+Te t‰‰ll‰, rouva? Kuningas ja maa
+T‰st' ovat puuhast' ylen kiitolliset.
+Lord protektori hyvin varmaan korvaa
+N‰in kauniin tyˆn.
+
+HERTTUATAR.
+                   Ei puolinkaan niin ruma,
+Kuin sinun tyˆsi kuningasta kohtaan;
+Kopea herttua, sa syytt‰ uhkaat.
+
+BUCKINGHAM.
+Vai syytt‰, rouva? Tunnetteko t‰t‰?
+
+    (N‰ytt‰‰ h‰nelle paperin.)
+
+Pois tyrm‰‰n nuo ja kukin erikseen! --
+Te, rouva, tulette nyt meid‰n kanssa.
+Sa, Stafford, ota h‰net huostaasi. --
+
+    (Herttuatar astuu alas parvekkeelta.)
+
+Nyt tulee armon pikkuvehkeet ilmi. --
+Pois kaikki viek‰‰!
+
+    (Vartijat viev‰t pois Bolingbroken, Southwellin y.m.)
+
+YORK.
+Buckingham, hyvin h‰nt‰ peijasitte.
+Soma juoni! Sille kelpaa rakentaa.
+Mut katsokaamme pirun k‰sialaa.
+Mit‰ h‰n kirjoittaa?
+
+    (Lukee.)
+
+"Viel' el‰‰ herttua, Henrik, kukistajas,
+Ja j‰lkees eloon j‰‰ ja miekkaan kaatuu."
+Niin, ihan oikein:
+_Aio te, Aeacida, Romanos vincere posse_.
+No niin, ja sitte:
+"Ja mik' on Suffolk herttuan kohtalo?" --
+"H‰n kuolee vesill‰ ja veteen hukkuu." --
+"No, ent‰ herttua Somersetin vaiheet?" --
+"Varokoon linnoja:
+H‰n hiekkakedolla on turvatumpi,
+Kuin miss‰ linnat pilviin nousee."
+Pois tulkaa, hyv‰t herrat!
+On ennuksia tyˆl‰s saada irti,
+Ja tyˆl‰s niit' on k‰sitt‰‰.
+Nyt Henrik matkall' on Sanct Albansiin,
+Ja t‰m‰n arvon-rouvan mies on myˆt‰.
+N‰‰ sanomat on sinne saatava
+Niin nopeaan kuin ratsu voi ne vied‰:
+Protektorille harmittava suurus.
+
+BUCKINGHAM.
+Mun suokaa, armollinen herttua.
+Se viesti vied‰, palkan toiveessa.
+
+YORK.
+Mielt‰nne myˆten, loordi. -- T‰nne, hoi!
+
+    (Palvelija tulee.)
+
+Mies, kutsu loordit Salisbury ja Warwick
+Huomenna illanviettoon luokseni.
+
+                      (Menev‰t.)
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Sanct Albans.
+
+    (Kuningas Henrik, kuningatar Margareeta, Gloster,
+    kardinaali ja Suffolk tulevat, haukkamiesten seuraamina,
+    jotka kajahuttavat ajohuudon.)
+
+KUNINGATAR MARGAREETA.
+En ole, loordit, moneen vuoteen n‰hnyt
+Parempaa vesilinnun ajoa.
+Mut, anteeks, myrskyn t‰hden vanha Hannu,
+Lyˆn vetoa, ei olis lentoon noussut.
+
+KUNINGAS HENRIK.
+Mut, mylord, teid‰n haukall' oli vauhti,
+Se kiiti korkealle yli muiden. --
+Oi, suur' on Luoja luoduissaan! Niin lintu
+Kuin ihminenkin pyrkii pilvihin.
+
+SUFFOLK.
+Ei ihme ole, majesteetti, ett‰
+Noin hyvin nousee protektorin haukat:
+Ne tiet‰‰ is‰nt‰ns‰ lentomielen,
+Jonk' aatos kiit‰‰ haukkaa ylemm‰.
+
+GLOSTER.
+Mylord, vain alhainen ja halpa mieli
+Se ylemm‰ ei lent‰‰ voi kuin lintu.
+
+KARDINAALI.
+Sen kyll‰ n‰en: h‰n tahtoo pilviin nousta.
+
+GLOSTER.
+Niin kardinaali; eikˆ oisi hyv‰,
+Jos taivaaseen te lent‰‰ voisitte?
+
+KUNINGAS HENRIK.
+Ikuisen ilon aarrekammioon!
+
+KARDINAALI.
+Sun taivaasi on maassa; syd‰n, silm‰,
+Vain kruunuun palaa, se on sielus aarre.
+Tuhoinen protektori, viekas p‰‰ri,
+Sa, kavaltaja kuninkaan ja maan!
+
+GLOSTER.
+Ai, kardinaali, miss' on pappeutesi?
+_Tantaene animis coelestibus irae_?
+Noin pappi kiivas? Peit‰ vihas, set‰!
+Vai voiko sen noin hurskas mies?
+
+SUFFOLK.
+Ei vihaa t‰ss', ei enemp‰‰ kuin vaatii
+Niin hyv‰ riita ja niin huono p‰‰ri.
+
+GLOSTER.
+Kuin ken, mylord?
+
+SUFFOLK.
+                  Kuin te, lord protektori,
+Jos ei lord protektori pahastu.
+
+GLOSTER.
+Julkeutes, Suffolk, Englanniss' on tuttu.
+
+KUNINGATAR MARGAREETA.
+Sun vallanhimos, Gloster, myˆs.
+
+KUNINGAS HENRIK.
+                                Vait, vaiti!
+Kiihkeit‰ p‰‰rej‰ ‰l' ‰rryttele;
+Siunattu maassa rauhantekij‰!
+
+KARDINAALI.
+Siis min‰ siunattu, kun miekallani
+Lord protektorin rauhaan taivutan.
+
+GLOSTER (syrj‰‰n kardinaalille).
+Oi, hurskas set‰, jospa niiksi tulis!
+
+KARDINAALI (syrj‰‰n).
+No, niin, jos sin‰ tohdit.
+
+GLOSTER (syrj‰‰n).
+                           T‰t‰ varten
+Ei laumaas tarvis koota; oma ruumis
+Sanoistas vastatkoon.
+
+KARDINAALI (syrj‰‰n).
+                      Kyll', miss‰ sin‰
+Et tohdi hiiskahtaakaan; vaan jos tohdit.
+Niin illaks saavu puiston it‰kulmaan.
+
+KUNINGAS HENRIK.
+Mit‰ nyt, loordit?
+
+KARDINAALI.
+                   Usko mua, Gloster,
+Sun miehes liian joutuin haukan k‰tki,
+Ois muuten ajo k‰ynyt paremmin.
+
+    (Syrj‰‰n.)
+
+Mukaasi ota miekkas.
+
+GLOSTER.
+                     Kyll‰, set‰.
+
+KARDINAALI (syrj‰‰n).
+Tied‰th‰n paikan? Puiston it‰kulma.
+
+GLOSTER (syrj‰‰n).
+Tulen, kardinaali.
+
+KUNINGAS HENRIK.
+                   Mist‰ puhe, Gloster?
+
+GLOSTER.
+Vain haukan ajosta; ei muusta mist‰‰n. --
+
+    (Syrj‰‰n.)
+
+Pyh‰n ‰idin kautta, pappi, p‰‰si kalin,
+Jos mit‰‰n maksaa taistotaitoni!
+
+KARDINAALI (syrj‰‰n).
+_Medice, te ipsum_. --
+Niin, protektori, suojaa itse‰si!
+
+KUNINGAS HENRIK.
+S‰‰ julmaks yltyy, niinkuin vihannekin.
+Tuo soitto kuinka syd‰nt‰ni vihloo!
+Kun moiset kielet sorahtaa, niin miss‰
+On en‰‰ sopusointaa? Suokaa, loordit,
+Mun sovittaa t‰‰ riita.
+
+    (Muuan Sanct Albansin porvari tulee huutaen: "ihme!")
+
+GLOSTER.
+                        Mik‰ melu?
+Mies, mit‰ ihmett‰ sa julki huudat?
+
+PORVARI.
+Ihme, ihme!
+
+SUFFOLK.
+            K‰y esiin, ihme kerro kuninkaalle.
+
+PORVARI.
+Aatelkaas, sokea kun n‰kˆns ‰sken
+Sanct Albansin sai pyh‰narkun luona,
+Mies, jok' on ennen ollut umpisokko.
+
+KUNINGAS HENRIK.
+Kiitetty Herra, joka uskovilleen
+Pimeyteen valon tuo ja h‰t‰‰n lohdun!
+
+   (Sanct Albansin majori virkaveljineen, Simpcox, jota kaksi miest‰
+   kantaa tuolissa, h‰nen vaimonsa ja suuri kansanjoukko tulee.)
+
+KARDINAALI.
+T‰ss' astuu kulkueessa porvaristo;
+He tuovat miehen teille n‰ht‰v‰ksi.
+
+KUNINGAS HENRIK.
+Suur' h‰ll' on t‰ss‰ surun laaksoss' ilo,
+Vaikk' enent‰‰kin n‰kˆ kiusausta.
+
+GLOSTER.
+Pois, syrj‰‰n! Majesteetin eteen viek‰‰;
+Kuningas tahtoo h‰nt‰ puhutella.
+
+KUNINGAS HENRIK.
+Mies hyv‰, kerro meille tapaus,
+Ett' edest‰si Herraa kiitt‰isimme.
+Kauanko sokea? Ja nytkˆ n‰et?
+
+SIMPCOX.
+Sokea syntym‰st‰, majesteetti.
+
+VAIMO.
+Niin, se on toden totta.
+
+SUFFOLK.
+Ken nainen tuo?
+
+VAIMO.
+T‰‰n miehen vaimo, teid‰n luvallanne.
+
+GLOSTER.
+Parempi todistajaks olis ‰iti.
+
+KUNINGAS HENRIK.
+Miss' olet syntynyt s‰?
+
+SIMPCOX.
+                        Berwickiss‰,
+Pohjoiseen t‰‰lt‰, teid‰n luvallanne.
+
+KUNINGAS HENRIK.
+Sait, sielu parka, Herralt' armon suuren.
+Nyt yˆt ja p‰iv‰t h‰lle pyhit‰
+Ja muista, mit' on Herra sulle tehnyt.
+
+KUNINGATAR MARGAREETA.
+Mies, sano, sattumaltako sa jouduit
+Tuon pyh‰n arkun luo, vai hurskaudesta?
+
+SIMPCOX.
+Sulasta hurskaudesta, tietkˆˆn Herra!
+Sadasti ainakin Sanct Albans hyv‰
+Unessa mulle huusi: "Tule, Simpcox,
+Rukoile arkullani, niin sua autan."
+
+VAIMO.
+Niin, toden totta, monta, monta kertaa
+Ma kuulin ‰‰nen h‰nt‰ kutsuvan.
+
+KARDINAALI.
+Mut oletko sa rampa?
+
+SIMPCOX.
+                     Olen niin,
+Mua Jumal' auttakoon!
+
+SUFFOLK.
+                      Kuin siksi tulit?
+
+SIMPCOX.
+Putosin puusta.
+
+VAIMO.
+                Luumupuusta, herra.
+
+GLOSTER.
+Oletko kauan ollut sokea?
+
+SIMPCOX.
+Oi, syntym‰st‰ni.
+
+GLOSTER.
+                  Ja kiivit puuhun?
+
+SIMPCOX.
+Sen yhden kerran; olin silloin nuori.
+
+VAIMO.
+Niin totta, ja sai siit‰ kalliin maksaa.
+
+GLOSTER.
+Siis sin‰ pid‰t paljon luumuista?
+
+SIMPCOX.
+Ei, eukko tahtoi pari v‰skyn‰‰
+Ja hengen uhalla mun ajoi puuhun.
+
+GLOSTER.
+Kavala kettu! Vaan se ei sua auta. --
+N‰yt‰pp‰ silm‰s: -- ummista ne, -- avaa, --
+Minusta, n‰kˆsi ei ole hyv‰.
+
+SIMPCOX.
+On, herra hyv‰, kirkas niinkuin p‰iv‰,
+Jumalan kiitos ja Sanct Albansin!
+
+GLOSTER.
+Vai niin! No mit‰ karvaa on t‰‰ viitta?
+
+SIMPCOX.
+Punainen, herra, punainen kuin veri.
+
+GLOSTER.
+Niin oikein. Ent‰ t‰m‰ takki?
+
+SIMPCOX.
+                              Musta,
+Niin, musta niinkuin korppi.
+
+KUNINGAS HENRIK.
+Siis tied‰t, mink‰ v‰rinen on korppi.
+
+SUFFOLK.
+Ja korppia ei koskaan ole n‰hnyt.
+
+GLOSTER.
+Mut monta kurttaa, vaippaa t‰t‰ ennen.
+
+VAIMO.
+Ei t‰t‰ ennen koskaan el‰iss‰‰n.
+
+GLOSTER.
+Sanohan, mies, mik' on mun nimeni?
+
+SIMPCOX.
+Ah, herra, sit' en tied‰.
+
+GLOSTER.
+                          Ent‰ t‰m‰n?
+
+SIMPCOX.
+En tied‰.
+
+GLOSTER.
+Etkˆ t‰m‰nk‰‰n?
+
+SIMPCOX.
+                En, totta.
+
+GLOSTER.
+No, mik‰ sitte oma nimesi?
+
+SIMPCOX.
+Santeri Simpcox, teid‰n luvallanne.
+
+GLOSTER.
+No, istu sitten siin‰, Santeri,
+Sa kristikunnan valheellisin konna.
+Jos oisit sokeana syntynyt,
+Niin yht‰ hyvin kaikkein meid‰n nimet,
+Kuin vaatteittemme v‰rit, oisit tiennyt.
+N‰kev‰ v‰rit erottaa, mut ‰kin
+Noin kaikki nimitt‰‰ on mahdotonta. --
+Sanct Albans, herrat, t‰ss' on ihmeen tehnyt;
+Ja eikˆ suuri oisi taito sill‰,
+Ken vois tuon ramman saada jaloille?
+
+SIMPCOX.
+Oi, herra, jospa sen te voisitte!
+
+GLOSTER.
+Hyv‰t Sanct Albansin miehet, eikˆ teid‰n kaupungissanne ole piiskuria
+ja semmoista asetta, jota sanotaan ruoskaksi?
+
+Maj.
+On, teid‰n armonne, jos suvaitsette.
+
+GLOSTER.
+No, haettakaa yksi t‰nne heti.
+
+MAJORI.
+Mies, hae t‰nne heti piiskuri.
+
+    (Yksi seurueesta menee.)
+
+GLOSTER.
+Nyt tuokaa mulle heti tuoli t‰nne.
+
+    (Tuoli tuodaan.)
+
+No, lurjus, jos tahdot p‰‰st‰ selk‰saunasta, niin hypp‰‰ tuon tuolin
+yli ja juokse tiehesi.
+
+SIMPCOX.
+Ah, herra, en voi omin voimin seist‰;
+N‰in minua vain turhaan kidutatte.
+
+    (Sananviej‰ palaa tuoden mukanaan piiskurin.)
+
+GLOSTER.
+No, meid‰n t‰ytyy sitten auttaa sinua jaloille. Kas niin, piiskuri,
+piekse h‰nt‰, kunnes h‰n hypp‰‰ tuon tuolin yli.
+
+PIISKURI.
+Kyll‰, herra. -- Kas niin, lurjus; takki ylt‰si joutuin!
+
+SIMPCOX.
+Ah, herra, mit‰ tehd‰? Min‰h‰n en pysy seisomassa.
+
+    (Kun piiskuri on h‰nt‰ kerran lyˆd‰ sivahuttanut,
+    niin h‰n hypp‰‰ tuolin yli ja juoksee tiehens‰;
+    kansa seuraa huutaen: "ihme!")
+
+KUNINGAS HENRIK.
+Ah, herra, kuinka kauan t‰t‰ k‰rsit?
+
+KUNINGATAR MARGAREETA.
+Hupaista n‰hd‰, kuin se lurjus juoksi.
+
+GLOSTER.
+Ajakaa konnaa takaa; pois tuo luuska!
+
+VAIMO.
+Sulasta tarpeesta sen teimme, herra.
+
+GLOSTER.
+Ajakaa piesten heit‰ markkinapaikasta toiseen, kunnes tulevat
+Berwickiin, mist‰ l‰htiv‰tkin.
+
+    (Majori, piiskuri, vaimo y.m. menev‰t.)
+
+KARDINAALI.
+Lord Humphrey t‰n‰‰n teki ihmeen kai.
+
+SUFFOLK.
+Niin kyll‰: juoksemaan kun ramman sai.
+
+GLOSTER.
+Viel' ihmeemp‰‰ te teitte: saitte vaan
+H‰th‰t‰‰ kaupungitkin juoksemaan.
+
+    (Buckingham tulee.)
+
+KUNINGAS HENRIK.
+Mit uutisia, lanko Buckingham?
+
+BUCKINGHAM.
+Vapisee syd‰n sit‰ ilmi tuoda.
+Katala, renttuileva roistojoukko
+On Leonooran, protektorin vaimon, --
+T‰‰n koko liittokunnan p‰‰n ja johdon --
+Avustamana sek‰ suojaamana,
+Vehkeillyt salaa kruunuanne vastaan
+Yhdess‰ loitsijain ja noitain kanssa.
+Olemme teossa ne tavanneet,
+Maan alta pahoja kun henki‰
+He nostivat ja n‰ilt‰ tiedustivat
+Kuninkaan el‰m‰‰ ja kuolemaa
+Ja samoin muiden neuvoskunnan herrain,
+Jost' oiti saatte laajemmalta tiet‰‰.
+
+KARDINAALI.
+Protektori, n‰in ollen vaimollanne
+Lie pian matka Lontooseen. Tuo tieto
+Aseenne k‰rjen k‰‰nt‰‰, luulemma;
+Nyt varmaan ette saavu m‰‰r‰-aikaan.
+
+GLOSTER.
+Kopea pappi, mielt‰n' ‰l‰ riko!
+Suru ja murhe multa voiman murtaa,
+Ja, murrettuna n‰in, ma tielt‰s v‰istyn
+Ja halvimmankin palkkalaisen tielt‰.
+
+KUNINGAS HENRIK.
+Oi, Herra, min saa turman h‰ijyt aikaan,
+N‰in kooten koston omaan p‰‰h‰ns‰!
+
+KUNINGATAR MARGAREETA.
+Nyt, Gloster, tahran omaan pes‰‰s sait;
+Jos syytˆn liet, niin turvass' olet kait.
+
+GLOSTER.
+Rakastin maatani ja kuningasta,
+Siit' otan taivaan todistajakseni.
+Kuin vaimoni on laita, sit' en tied‰;
+Surettaa kuulla mit‰ olen kuullut.
+H‰n jalo on, mut kunnian ja kunnon
+H‰n unhotti, kun moista piti seuraa,
+Jok' aatelisen tahraa niinkuin piki;
+H‰n ‰lkˆˆn en‰‰ tulko mua liki.
+Lain kouriin h‰net annan ankariin,
+Kun Humphreyn puhtaan nimen raiskas niin.
+
+KUNINGAS HENRIK.
+No, hyv‰; t‰ksi yˆksi j‰‰mme t‰nne;
+Huomenna palaamme taas Lontooseen;
+Ja siell‰ t‰t‰ seikkaa tutkitaan
+Ja tilille nuo ilkimykset vied‰‰n;
+Oikeuden vaakaa tulee t‰ss‰ k‰ytt‰‰,
+Se toden osoittaa ja tarkan n‰ytt‰‰.
+
+    (Torventoitaus. Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Lontoo. Yorkin herttuan puutarha.
+
+    (York, Salisbury ja Warwick tulevat.)
+
+YORK.
+Nyt kun on halpa illallinen syˆty,
+Niin suokaa, loordit Salisbury ja Warwick,
+Mun t‰‰ll‰ puistoss' omaks varmuudeksi
+Vakaata tiedustella mielt‰nne,
+Mik' oikeus mulla Englannin on kruunuun.
+
+SALISBURY.
+Haluan saada tarkalleen sen kuulla.
+
+WARWICK.
+No, ala, York; jos oikeus on sulla,
+Niin Nevilit on k‰skett‰viss‰si.
+
+YORK.
+Siis, kuulkaa, hyv‰t herrat: -- poikia
+Ol' Edward kolmannella seitsem‰n:
+Ensiksi Edward, Walesin musta prinssi;
+Ja toinen William Hatfield; kolmas oli
+Clarencen herttua Lionel; ja nelj‰s
+Juhana Gaunt, Lancasterin herttua;
+Sen j‰lkeen Edmund Langley, Yorkin herttua;
+Glosterin herttua, Thomas Woodstock, kuudes;
+Ja William Windsor vihdoin seitsem‰s.
+Is‰‰ns‰ ennen kuoli musta prinssi,
+Ja h‰nelt‰ j‰i yksi poika, Richard,
+Jok' Edward kolmannelta peri kruunun,
+Siks kunnes Bolingbroke, Lancasterin herttua,
+Juhana Gauntin poika, kuninkaana
+Nimelt‰ Henrik nelj‰s, otti vallan,
+Vei viran lailliselta kuninkaalta,
+Ja kuningatar-raukan Ranskaan laittoi,
+Jost' oli tullutkin, ja Pomfretiin
+Kuninkaan salpas, miss‰, kuten tietty,
+Tuo hyv‰ Richard salaa murhattiin.
+
+WARWICK.
+Niin, totta puhuu herttua: n‰in kruunun
+Sai Lancasterin suku.
+
+YORK.
+                      Ja sen pit‰‰
+Nyt v‰kivallall' eik‰ oikeudella:
+N‰et, vanhimman kun pojan poika kuoli,
+Ois toisen pojan suku vuoross' ollut.
+
+SALISBURY.
+Mut William Hatfield kuoli lapsetonna.
+
+YORK.
+Mut kolmannella, Clarencella, -- josta
+Ma polveudun -- Philippa oli tyt‰r,
+Jonk' Edmund Mortimer, Marchin kreivi, nai;
+H‰nest‰ l‰hti Roger, Marchin kreivi,
+Ja t‰st‰ Edmund, Anna ja Leonoora.
+
+SALISBURY.
+Tuo Edmund, Bolingbroken hallitessa,
+Niin olen kuullut, pyrki kuninkaaksi,
+Ja oisi p‰‰ssytkin, mut Flandower
+Piti h‰nt‰ vankeudessa kuolinp‰iv‰‰n.
+Vaan jatkakaa.
+
+YORK.
+               T‰‰n vanhin sisar Anna,
+Mun ‰itini ja kruunun perillinen,
+Cambridgen Richardille meni vaimoks,
+Joka Richard oli Edward kolmannen
+Viidennen pojan, Edmund Langleyn, poika.
+Tuost' oikeuteni johdan; Marchin kreivin
+H‰n tyt‰r oli, Rogerin, jonk' is‰
+Ol' Edmund Mortimer, mi nai Philippan,
+Clarencen herttuan ainon tytt‰ren.
+Siis, vanhemman jos pojan oikeus eell‰
+On nuoremman, niin kuninkuus on minun.
+
+WARWICK.
+Ei selvink‰‰n voi t‰t‰ selvemp' olla.
+Juhana Gauntin j‰lkeinen on Henrik,
+Nelj‰nnen pojan; York taas kolmannen.
+Siks kunnes Lionelin suku sammuu,
+H‰lt' oikeus puuttuu; mut se viel‰ el‰‰,
+Sinussa kukkii se ja pojissasi,
+Tuon rungon ihanissa aaluvissa.
+Siis, is‰ Salisbury, nyt polvistumme
+Ja t‰‰ll‰ syrj‰ss' ensimm‰isin‰
+Laillista valtiasta tervehdimme
+Ja kruunun perij‰n‰ kunnioimme.
+
+MOLEMMAT.
+Kuningas Richard kauan el‰kˆˆn!
+
+YORK.
+Suur' kiitos! Kuningas vain viel' en ole:
+En ole kruunattu, ei t‰t‰ miekkaa
+Viel' Lancasterin syd‰nveri punaa.
+Mut ‰kisti t‰t' ei saa toimeen panna.
+Vaan hiljaa, salaa, varoen. Niin tehk‰‰,
+Kuin min‰, n‰in‰ vaaran aikoina:
+ƒlk‰‰tte olko huomaavinannekaan
+Suffolkin uhkaa, korskaa Beaufortin
+Ja Somersetin vallan-ahneutta
+Ja Buckinghamia ja koko laumaa,
+Siks kunnes karjan paimenen he pauloo,
+Sive‰n prinssin tuon, tuon hyv‰n Humphreyn.
+Sit' etsiv‰t he, ja sit' etsiess‰‰n
+Surmansa lˆyt‰v‰t, jos York ei pety.
+
+SALISBURY.
+Jo riitt‰‰, York; nyt meill' on t‰ysi tieto.
+
+WARWICK.
+Syd‰n sanoo mulle, ett‰ Warwick-kreivi
+York-herttuan kerran tekee kuninkaaksi.
+
+YORK.
+Ja, Nevil, min‰ sanon itselleni:
+Richard se kerran tekee Warwick-kreivin
+Kuninkaast' ensi-mieheks Englannissa.
+
+                           (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Lontoo. Oikeussali.
+
+    (Torventoitauksia. Kuningas Henrik, kuningatar Margareeta,
+    Gloster, York, Suffolk ja Salisbury tulevat; kreivinna Gloster,
+    Kreeta Jourdain, Southwell, Hume ja Bolingbroke tuodaan
+    vartioittuina sis‰‰n.)
+
+KUNINGAS HENRIK.
+Glosterin vaimo, Leonoora Cobham, esiin!
+Suur' syntis Herran on ja meid‰n n‰hden;
+Lain tuomio siis kuule rikoksistas,
+Jotk' ovat, sanan j‰lkeen, kuolon omat. --
+Nuo nelj‰ viek‰‰ tyrm‰‰n takaisin
+Ja sielt‰ mestauspaikkaan. Noita tuo
+Tuhaksi Smithfieldiss' on poltettava,
+Ja muut nuo kolme hirteen hirtett‰v‰t. --
+Te, rouva, aatelista verta ollen,
+Ik‰nne saatte kunniaton olla
+Ja kolmen p‰iv‰n julkiripin j‰lkeen
+Omassa maassa maanpaossa el‰‰,
+Sir Stanleyn kanssa Manin saaressa.
+
+HERTTUATAR.
+Maanpako hyv‰; hyv‰ oisi kuolo.
+
+GLOSTER.
+Sun laki tuominnut on, Leonoora;
+Min' en voi p‰‰st‰‰, mink‰ laki sitoo. --
+
+    (Herttuatar ja muut vangit poistuvat vartioittensa kanssa.)
+
+Suru syd‰mmen ja itku silm‰n valtaa.
+Ah, Humphrey, t‰m‰ h‰pe‰ se hautaan
+Sun vanhan p‰‰si murehella painaa! --
+Ma pyyd‰n, kuningas, mun suokaa menn‰:
+Ik‰ni rauhaa kaipaa, suru hoivaa.
+
+KUNINGAS HENRIK.
+Seis, Humphrey, herttua Gloster! Sauvas ensin
+Minulle anna; oma holhoojansa
+On Henrik nyt; mun v‰keni on Herra,
+Ja tuki, sauva, jalkain kynttil‰.
+Mene rauhaan, Humphrey, yht‰ rakkaana
+Kuin olit kuninkaasi holhoojana.
+
+KUNINGATAR MARGAREETA.
+En tied‰ syyt‰, miksi holhotaan,
+Kuin lasta, vallan voipaa kuningasta. --
+Jumalan avulla nyt Henrik maan
+On yksinvaltias. -- Pois sauvas vaan!
+
+GLOSTER.
+Vai sauvani; -- T‰ss' on se, jalo Henrik,
+Sen yht‰ mielisti ma annan sulle,
+Kuin ennen is‰si sen antoi mulle;
+Ja yht‰ mielist' etees lasken sen,
+Kuin toiset sit‰ halaa riidellen.
+Hyv‰sti! Mun kun peitt‰‰ manan laine,
+Sun valtaas rauha tukekoon ja maine!
+
+    (Menee.)
+
+KUNINGATAR MARGAREETA.
+Kas niin, nyt kuninkaana Henrik on,
+Ja kuningattarena Margareeta,
+Ja Humphrey tuskin ennallaan; h‰n pahoin
+On silvottu; kaks iskua yht'aikaa:
+Maanpaossa on vaimo, j‰sen poikki
+Ja sauva poissa: -- tuo sen paikka vain.
+Kuninkaan k‰teen se on soveliain.
+
+SUFFOLK.
+Maan puoleen noin tuo ylv‰ honka taipuu,
+Noin Leonooran korska tyhj‰‰n haipuu.
+
+YORK.
+H‰n rauhaan menkˆˆn! -- Teid‰n armonne,
+T‰‰ kaksintaistelun on m‰‰r‰p‰iv‰.
+Ja kantaja ja vastaaja -- tuo sepp‰
+Ja oppipoikansa -- on valmiit taistoon.
+Jos majesteetilla on halu n‰hd‰.
+
+KUNINGATAR MARGAREETA.
+Tietysti, Henrik; hovista ma saavuin
+Vaseti t‰t‰ taistelua varten.
+
+KUNINGAS HENRIK.
+No, Herran nimeen, kaikki kuntoon siis!
+Se t‰h‰n j‰‰kˆˆn; Herran k‰teen oikeus!
+
+YORK.
+En koskaan, loordit, ole n‰hnyt miest‰
+Niin neuvotonta ja niin taiston-arkaa,
+Kuin t‰m‰n asesep‰n oppipoika.
+
+    (Toiselta taholta tulee Horner ja t‰m‰n naapurit, jotka
+    juottavat h‰nt‰ humalaan; h‰nell‰ on sauva, jonka p‰‰ss‰
+    on hiekkapussi,[3] ja h‰nen edell‰‰n k‰y rumpali; toiselta
+    taholta tulee Pietari, jolla on samanlainen sauva ja samoin
+    rumpali edell‰; h‰nt‰ seuraa joukko oppipoikia, jotka juovat
+    h‰nen maljansa.)
+
+1 NAAPURI.
+Kas t‰ss‰, naapuri Horner, lasillinen sekti‰, maljasi! ƒl‰ pelk‰‰,
+naapuri, kyll‰ kaikki k‰y hyvin.
+
+2 NAAPURI.
+Ja t‰ss‰, naapuri, lasillinen charnecoa.[4]
+
+1 NAAPURI.
+Ja t‰ss‰, naapuri, sarkallinen hyv‰‰ tupultti-olutta; juo, ‰l‰k‰
+oppipoikaasi pelk‰‰.
+
+HORNER.
+Antakaa t‰nne vain! Min‰ teid‰n kaikkien maljaan vastaan; ja Pietarille
+n‰yt‰n pitk‰‰ nen‰‰.
+
+1 OPPIPOIKA.
+Saas t‰st‰, Pietari; ‰l‰ pelk‰‰.
+
+2 OPPIPOIKA.
+Ole hyv‰ll‰ tuulella, Pietari, ‰l‰ mestariasi pelk‰‰: taistele
+oppipoikain arvon puolesta.
+
+PIETARI.
+Kiitoksia vain, kiitoksia! Juokaa ja rukoilkaa minun puolestani, sill‰
+luulenpa ett‰ nyt olen ryyp‰nnyt viimeisen ryyppyni t‰ss‰ maailmassa.
+-- Tuossa, Roopetti, jos kuolen, niin saat sin‰ tuon esiliinani, ja
+sin‰, Ville, sin‰ saat vasarani; ja sin‰, Tommi, sin‰ saat kaikki
+rahani. -- Jesta siunaa ja varjele! Min‰ en mitenk‰‰n piisaa
+mestarilleni, sill‰ h‰n on jo niin n‰pp‰r‰ miekkailemisessa.
+
+SALISBURY.
+Kas niin, heretk‰‰ juomasta ja alkakaa taistella. -- Poika sin‰, mik‰
+on nimesi?
+
+PIETARI.
+Pietari, kaiketi.
+
+SALISBURY.
+Pietari! Ja mik‰ viel‰?
+
+PIETARI.
+Puusti.
+
+SALISBURY.
+Puusti! Ho, katso sitten, ett‰ mestarillesi annat kelpo puustin.
+
+HORNER.
+Hyv‰t ihmiset ja kyl‰nmiehet, olen tullut t‰nne, niin sanoakseni,
+oppipoikani yllytyksest‰, n‰ytt‰‰kseni ett‰ h‰n on konna ja min‰ itse
+kunnon mies; ja mit‰ Yorkin herttuaan tulee, niin menen vaikka
+kuolemaan siit‰, etten koskaan ole aikonut h‰nelle mit‰‰n pahaa, enk‰
+kuninkaalle, enk‰ kuningattarelle liioin. Siis, Pietari, varo nyt
+kalloasi!
+
+YORK.
+Pian! Sopertaa jo alkaa konnan kieli.
+Nyt, torvettaja, anna taiston merkki.
+
+    (Torventoitaus. Taistelevat, ja Pietari paiskaa mestarin alleen.)
+
+HORNER.
+Seis, Pietari, seis! Tunnustan, tunnustan petokseni.
+
+    (Kuolee.)
+
+YORK.
+Ottakaa pois h‰nelt‰ ase. -- Poikaseni, kiit‰ sin‰ Jumalaa ja hyv‰‰
+viini‰ mestarisi p‰‰ss‰.
+
+PIETARI.
+Hyv‰ Jumala, olenko min‰ voittanut viholliseni t‰ss‰ ylh‰isess‰
+seurassa? Oi, Pietari, olet nyt n‰ytt‰nyt toteen asiasi oikeuden.
+
+KUNINGAS HENRIK.
+Pois silmist‰mme viek‰‰ petturi.
+Kuolostaan n‰hd‰‰n, ett‰ oli syyp‰‰;
+Ja oikeuden Herra osoitti
+Vakaaksi, syyttˆm‰ksi poikaparan,
+Jok' oli v‰‰ryydell‰ surman saada. --
+Pois, tule, poika, saamaan palkkasi.
+
+                          (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Lontoo. Katu.
+
+    (Gloster tulee palvelijoineen, kaikki surupuvussa.)
+
+GLOSTER.
+Noin pilvi kirkkaimmankin p‰iv‰n peitt‰‰,
+Ja kes‰n j‰lkeen tulee kolkko talvi
+Ja kovat, tuimat pakkaset. N‰in vaihtuu,
+Kuin vuoden ajat, ilot myˆs ja murheet. --
+Mies, mit' on kello?
+
+PALVELIJA.
+                     Kymmenen, mylord.
+
+GLOSTER.
+Niin, kymmenelt‰ oli minun m‰‰r‰
+Tavata katuvaista vaimoani.
+Lie tyˆl‰s h‰nen kovaan kivikatuun
+Hienoista, herkk‰‰ jalkaans' astua.
+Oi, Noora, vaivoin jalo mieles siet‰‰
+Ett' ilkikatsein roistokansa silmiin
+Sua tˆllist‰‰ ja nauraa h‰pe‰lles,
+Tuo, joka ennen vaunus j‰lkeen juoksi,
+Kun riemusaatoss' ajoit katuja.
+Mut vait! H‰n tulee. Kyyneleisin silmin
+Mun t‰ytyy n‰hd‰ h‰nen kurjuuttaan.
+
+    (Herttuatar Gloster tulee, puettuna valkoiseen katumuspaitaan,
+    paperihelyj‰ sel‰ss‰, avojaloin ja palava vahakynttil‰ k‰dess‰;
+    Sir John Stanley, sheriffi, ja oikeudenpalvelijoita.)
+
+PALVELIJA.
+Me h‰net ryˆst‰mme, jos tahdotte,
+Sheriffin k‰sist‰.
+
+GLOSTER.
+                   Ken h‰neen koskee,
+On surman oma. Anna olla!
+
+BERTTUATAR.
+                          Gloster,
+Tuletko h‰pe‰‰ni katsomaan?
+Nyt sin‰kin teet katumusta. Katsos,
+Kuin tˆllist‰v‰t! Kas, kuin tyhm‰ kansa
+Osoittaa sormellaan ja p‰‰t‰‰n nyˆkk‰‰
+Ja tiukasti sua silmiin katsoo! Gloster,
+Oi, piile noita vihan katseita,
+Sulkeudu suojaas, h‰pe‰‰ni itke,
+Ja kiroo vihamiehes, sun ja mun!
+
+GLOSTER.
+Leonoora, tyynny; tuskas unhota!
+
+HERTTUATAR.
+Mua neuvo unhottamaan itse‰ni!
+Kun muistan, ett‰ vaimos olen, Gloster,
+Ja sin‰ prinssi, maamme protektori,
+Niin n‰ytt‰‰ minusta, ett'ei mua pit‰is
+N‰in pilkkaan puettuna kuljettaa,
+Paperit selj‰ss‰, ja kintereill‰
+Tuo roskajoukko, jolle kyyneleeni
+Ja syv‰t huokaukseni vain on huviks.
+Jalkaani hell‰‰ kivi julma leikkaa,
+Ja kun se sattuu, nauraa kade kansa
+Ja ilkkuu: "Katso etees, mihin astut".
+Oi, Humphrey, voinko kest‰‰ t‰t‰ herjaa?
+Kuink' en‰‰ maailmaa voin katsella,
+Ja p‰iv‰n ihailua onneks luulla?
+Ei, pimeys valoni, yˆ p‰iv‰ni,
+Ja komeuteni muisto kauhuni!
+Sanonpa joskus: olen Humphreyn vaimo,
+Ja h‰n maan hallitsija on ja prinssi;
+Mut moinen prinssi, moinen hallitsija,
+Ett' oheen j‰i, kun vaimo-raukkansa
+Ivaksi tehtiin, kummitukseks, jota
+Jokainen joutojortti sormin n‰ytti.
+S‰vyinen ole vain, mua ‰l‰ h‰pee,
+ƒl‰ huoli mist‰‰n, kunnes surman s‰il‰
+Sun tapaa, niinkuin pian k‰y. N‰et, Suffolk,
+Tuo, joka kaikki kaikessa on h‰lle,
+Min vihoiss' olet sin‰ ja me kaikki,
+Ja York, ja jumalaton pappi Beaufort,
+Ne kaikk' on sulle paulan pauloneet,
+Ja siihen istut, liehu miten tahdot.
+Mut ‰l‰ pelk‰‰, kunnes kiinn' on siipes,
+ƒl‰k‰ vihamiest‰s est‰‰ koita.
+
+GLOSTER.
+Ah, Noora, vaiti! Harhaan ihan t‰ht‰‰t.
+Ei syytˆn kaula kesken katkea.
+Sadasti suurempikin vainojoukko,
+Ja vaikk' ois jokaisella sadan voima,
+Ei mit‰‰n vaaraa tuottaa vois, niin kauan
+Kuin vakaa olen, vilpitˆn ja syytˆn.
+Mun pilkastako pit‰is sinut p‰‰st‰‰?
+Ei siit‰ herjas puhdistuis, mut min‰
+Lain rikkojaksi voisin pian tulla.
+Paras on apu, Noora, tyyni mieli;
+Siis syd‰mmelles neuvo malttamusta:
+T‰‰ kummastus ei monta p‰iv‰‰ kest‰.
+
+    (Airut tulee.)
+
+AIRUT.
+Min‰ kutsun teid‰n ylh‰isyytenne h‰nen majesteettinsa parlamenttiin,
+joka pidet‰‰n Buryss‰ ensimm‰isen‰ p‰iv‰n‰ tulevaa kuuta.
+
+GLOSTER.
+Mun mielt‰nikˆ ensin kysym‰tt‰?
+Salaista tointa! -- Hyv‰, kyll‰ tulen.
+
+    (Airut menee.)
+
+Hyv‰sti, Noora! -- Herra sheriffi,
+Valtuuden mukaan h‰nt‰ kohdeltakoon.
+
+SHERIFFI.
+Mun valtuuteni, herttua, t‰h‰n p‰‰ttyy;
+Ja sir John Stanleylla on k‰sky vied‰
+Nyt h‰net Manin saareen mukanaan.
+
+GLOSTER.
+Te, sir John, vaimoniko vartijaksi?
+
+STANLEY.
+Niin, sain sen toimen, armollinen herra.
+
+GLOSTER.
+H‰nt' ‰l‰ silt‰ kovista, jos pyyd‰n
+Sun h‰nt‰ s‰‰st‰m‰‰n; ehk' onni k‰‰ntyy,
+Ja hyv‰‰ sulle tehd‰ voin, jos sin‰
+Teet h‰lle hyv‰‰. Hyv‰sti, sir John!
+
+HERTTUATAR.
+Menetkˆ mua hyv‰stelem‰tt‰?
+
+GLOSTER.
+En sit‰ voi, n‰‰ kyyneleet sen sanoo.
+
+    (Gloster ja palvelijat menev‰t.)
+
+HERTTUATAR.
+Sin‰kin menit? Kaikk' on lohtu poissa.
+Mun kaikki j‰tt‰‰; iloni on kuolo,
+Tuo kuolo, jonka nime‰kin kammoin,
+Siks ett‰ ajast' etsin ij‰isyytt‰.
+Ma pyyd‰n, Stanley, t‰‰lt‰ minut vie,
+Yks kaikki, minne; suosiot' en kerj‰‰,
+Vain saata minut, minne k‰skettiin.
+
+STANLEY.
+Man-saareen matka, armollinen rouva,
+Siell' arvon mukaan teit‰ kohdellaan.
+
+HERTTUATAR.
+Se pahaa tiet‰‰; pelkk‰‰ olen herjaa,
+Siis herjaavastiko mua kohdellaan.
+
+STANLEY.
+Kuin herttuatarta, Humphreyn puolisoa,
+Sen arvon mukaan teit‰ kohdellaan.
+
+HERTTUATAR.
+Voi hyvin, sheriffi, mua paremmin,
+Vaikk' olet h‰pe‰ni opas ollut.
+
+STANLEY.
+Sen vaati virka; anteeks suokaa, rouva.
+
+HERTTUATAR.
+Niin, niin, voi hyvin; virkas olet tehnyt.
+No, joko menn‰‰n, Stanley?
+
+STANLEY.
+Katumus lopuss' on; nyt pois tuo paita,
+Ja k‰yd‰‰n pukeumaan matkaa varten.
+
+HERTTUATAR.
+Ei paidan kanssa vaihdu h‰pe‰,
+Pukuuni kalleimpaan se kiinni juuttuu;
+Se n‰kyy, vaikka kuinka pukeuisin.
+No, n‰yt‰ tiet‰; vankeuteeni halaan.
+
+                          (Menev‰t.)
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Buryn luostari.
+
+    (Torventoitaus. Kuningas Henrik, kuningatar Margareeta,
+    kardinaali Beaufort, Suffolk, York, Buckingham ja muita
+    parlamentin j‰seni‰ tulee.)
+
+KUNINGAS HENRIK.
+Mua ihmetytt‰‰, ettei tule Gloster,
+Ei tapa h‰ll‰ olla viimeinen;
+Mik' onkaan syyn‰, ett‰ nyt h‰n viipyy.
+
+KUNINGATAR MARGAREETA.
+Mut ettekˆ te n‰e tai tahdo n‰hd‰,
+Kuink' outo h‰ll' on k‰ytˆs nyt, ja kuinka
+On olentonsa majesteetillinen?
+Kuink' ylpe‰ks on tullut, ynse‰ksi
+Ja korskaks, -- toisenlaiseksi kuin ennen?
+Ma muistan, kuink' ol' ennen hieno, nˆyr‰,
+Ja jos vain kaukaa katseen loin, niin oiti
+H‰n oli polvillaan, ja koko hovi
+Ihaili h‰nen alamaisuuttaan.
+Mut kohtaa h‰nt‰ nyt, vaikk' aamusella,
+Kun kaikki tervehtiv‰t toisiaan,
+Niin otsa rypyss' on ja katse tuima,
+Ja, polvi j‰ykk‰n‰, h‰n ohi kulkee,
+Ja meit' ei kunnioita niinkuin pit‰is.
+Ken pelk‰is pennun mˆrin‰‰? Mut suuret
+Ne vapisee, kun jalopeura kiljuu;
+Ja pieni Englanniss' ei ole Humphrey.
+Ensinkin l‰hisukua on teille,
+Ja jos te kaadutte, niin nousee h‰n.
+Siis minusta ei valtaviisast' ole --
+Kun muistetaan, kuink' on h‰n vihansuopa,
+Ja kuink' on kuolemanne eduks h‰lle --
+Ett' arvoisan on persoonanne luo
+Ja teid‰n neuvostoonne h‰ll‰ p‰‰sy.
+H‰n mairilla on kansan suosin saanut,
+Ja, kapinan kun tehd‰ suvaitsee,
+Niin pelk‰‰n, ett‰ kaikki h‰nt‰ seuraa.
+On kev‰t; hˆll‰ss' ohdakkeen on juuret;
+Jos sit' et raivaa pois, se pellon peitt‰‰
+Ja viljan tukehuttaa kasvussaan.
+On nˆyr‰ huolenpito herrastani
+T‰‰n pelon Humphreyn suhteen her‰tt‰nyt.
+Jos tyhm‰‰ t‰‰, nais-pelkoa se olkoon,
+Ja paremmat jos syyt sen poistaa voi,
+Niin myˆnn‰n herttuata loukanneeni.
+Te, loordi Suffolk, Buckingham ja York,
+Kumotkaa t‰m‰ v‰itteeni, jos voitte,
+Mut muuten p‰tev‰ks se myˆnt‰k‰‰.
+
+SUFFOLK.
+Olette herttuan oikein oivaltanut;
+Ja lausua jos mun ois ensin tullut,
+Niin oisin samaan tapaan puhunut.
+H‰nenp‰ yllytteest‰‰n herttuatar
+On hornanjuonens' alkanut, sen vannon;
+Ja vaikk' ei rikokseen h‰ll' oiskaan osaa.
+Niin, kerskatessaan suurest' asemastaan --
+Kun kuninkaan on l‰hin perillinen --
+Ja muilla mahtavuuden haaveiluillaan,
+Hupelon vaimons' on h‰n yllytt‰nyt
+Kutomaan juonta kuninkaamme tuhoks.
+Syv‰ss‰ vedess' isot kalat uivat,
+Ja suoran tuon on pinnan alla petos;
+Ei kettu hauku, lammasta kun vaanii.
+Ei, kuninkaani! Tutkimaton viel' on
+Tuo Gloster, pohjaton siin' asuu vilppi.
+
+KARDINAALI.
+Lakia vastoin pikkurikoksista
+H‰n m‰‰r‰s julmat hengenrangaistukset.
+
+YORK.
+Ja protektorina h‰n maalta kiskoi
+Soturin palkoiks Ranskaan suuret summat,
+Joit' ei h‰n sinne koskaan l‰hett‰nyt;
+Siks aina melskeit oli kaupungeissa.
+
+BUCKINGHAM.
+Hoh, n‰‰ vaan pikkuvikoja on, muiden
+Salaisten rinnalla, joit' aika viel‰
+Paljastaa tuossa Humphrey-herttuassa.
+
+KUNINGAS HENRIK.
+Niin, hyv‰t loordit, harras pyrintˆnne
+N‰in niitt‰‰ ohdakkeet pois tielt‰mme
+On kiitett‰v‰; vaan, jos puhun suoraan,
+Niin Gloster-lankomme on yht‰ puhdas
+Petoksen aikeistakin meit‰ kohtaan,
+Kuin s‰isy kyyhky taikka maitovuona;
+H‰n hyv‰, nˆyr‰, hurskas on, ei pahaa
+H‰n uneksi, ei turmaa meille hanki.
+
+KUNINGATAR MARGAREETA.
+Noin tyhm‰ luottamus on vaarallista.
+Vai kyyhky h‰n? Siis h‰ll' on lainasiivet,
+Sill' ilke‰ on sisultaan kuin korppi.
+Vai lammas h‰n? Siis lainanahka h‰ll‰,
+Sill' ahnas susi h‰n on mielelt‰‰n.
+Se puvun ryˆst‰‰ voi, ken pett‰‰ tahtoo.
+Varokaa, valtias: meid‰n kaikkein onni
+Tuon viekkaan miehen kukistuksess' on.
+
+    (Somerset tulee.)
+
+SOMERSET.
+Tervehdykseni, armon majesteetti!
+
+KUNINGAS HENRIK.
+Somerset, terve! Mit‰ kuuluu Ranskaan?
+
+SOMERSET.
+Ett' arvo, valta, kaikki siin‰ maassa
+On teilt‰ mennyt; kaikki lopussa!
+
+KUNINGAS HENRIK.
+Pahoja siis; mut Herran olkoon tahto!
+
+YORK (syrj‰‰n).
+Pahoja mulle: Ranskaa min‰ toivoin,
+Samoin kuin vehmast' Englantia toivon.
+N‰in kukkani jo kuihtuu umpussaan
+Ja madot syˆv‰t lehv‰ni; mut pian
+Ma t‰h‰n avun hankin, taikka myyn
+Pois oikeuteni maineikkaaseen hautaan.
+
+    (Gloster tulee.)
+
+GLOSTER.
+Tervehdykseni nˆyrin, majesteetti!
+Anteeksi suokaa, ett‰ n‰in ma viivyin.
+
+SUFFOLK.
+Ei, Gloster, liian varhain oisit tullut,
+Jos et ois uskollisempi kuin olet.
+Maankavalluksesta sun vangitsen.
+
+GLOSTER.
+Haa, Suffolk! Luuletko mun vangittuna
+S‰vy‰ muuttavan tai punastuvan?
+Ei, syd‰n tahraton ei hevin s‰iky.
+Ei kirkkain l‰hde ruopasta niin puhdas,
+Kuin min‰ majesteetin petoksesta.
+Ken syytt‰‰ mua voi? Mit' olen tehnyt?
+
+YORK.
+Ranskalta saitte lahjoja, niin luullaan,
+Ja sotamiesten palkan pid‰titte,
+Ja n‰in me menetimme Ranskanmaan.
+
+GLOSTER.
+Vai luullaan vain? Ja ketk‰ sit‰ luulee!
+Soturein palkkaa riist‰nyt en koskaan,
+Enk' ole Ranskalt' ‰yri‰k‰‰n saanut.
+Niin totta kuin mua Jumal' auttakoon,
+Niin ˆit‰ valvoin, ˆit‰ ˆiden j‰lkeen,
+Englannin parast' ahkeroiden vain!
+Jos penni‰k‰‰n kuninkaalta kiskoin
+Tai omaks hyˆdyks ‰yri‰k‰‰n k‰ytin,
+Mua siit‰ syytett‰kˆˆn tuomiolla.
+Ei, monta monta puntaa omistani --
+Kun tahdoin varatonta kansaa s‰‰st‰‰ --
+Ma linnueille etuk‰teen annoin,
+Takaisin sit‰ koskaan vaatimatta.
+
+KARDINAALI.
+Mylord, tuo kerska hyvin sopii teille.
+
+GLOSTER.
+Vain sulan toden lausun, jumalauta!
+
+YORK.
+Protektorina pahantekijˆille
+Keksitte suunnattomat kidutukset,
+Ett' oli maamme kuulu julmuudestaan.
+
+GLOSTER.
+Sen kaikki tiet‰‰, ett‰ laupeus oli
+Protektorina suurin vikani;
+Ma rikollisen kyyneleest‰ hellyin,
+Ja nˆyr‰ sana monen vapaaks osti.
+Lain ankaruutt' en muille k‰ytt‰nyt
+Kuin verisille murhamiehille
+Ja kavalille maantien rosvoojille;
+Mut verisynti kyll‰ rangaistuksen
+Sai julmemman kuin varkaus tai muu rikos.
+
+SUFFOLK.
+On pikkusyit‰ helppo kaunistella;
+Mut suuremmista teit‰ syytet‰‰n,
+Joist' ette voi niin hevin puhdistua.
+Kuninkaan nimess' otan teid‰t vangiks
+Ja j‰t‰n teid‰t kardinaalin huostaan,
+Siks kunnes asianne tutkitaan.
+
+KUNINGAS HENRIK.
+Ma varmuudella toivon, herttua Gloster,
+Ett' ep‰luulosta te selviytte;
+Olette syytˆn, tuntoni sen sanoo.
+
+GLOSTER.
+Kuningas kulta, nyt on vaaranp‰iv‰t;
+Nyt kunnon polkee ruma vallanhimo,
+Ja viha vainoo ihmisrakkautta;
+On inha juonittelu vallalla,
+Ja kohtuus karkoitettu Englannista.
+Nuo henke‰ni v‰ijyv‰t, sen tied‰n;
+Ja kuoloni jos maalle onnen toisi
+Ja noiden hirmuvallan lopettaisi,
+Niin mielell‰ni kuoloon menisin.
+Mut t‰‰ vain n‰ytelm‰n on johdanto;
+Tuhannet, jotk' ei viel‰ ouno vaaraa,
+T‰‰n julman murhen‰ytelm‰n saa p‰‰tt‰‰.
+Beaufortin s‰kenˆiv‰t verisilm‰t
+Syd‰mmen kielii ilkeydest‰;
+Suffolkin synkk‰ otsa vihaa kiehuu;
+Ter‰vin kielin purkaa Buckingham
+Kateuden taakkaa, jok' on syd‰mmell‰‰n;
+ƒk‰inen York, mi kuuta tavoittaa,
+Ja jonka rˆyhk‰‰ k‰tt‰ pid‰ttelin,
+V‰‰r‰ll‰ syytteell' uhkaa henke‰ni;
+Ja tekin, kuningatar, muiden kanssa,
+Syyditte syytt‰ herjaa p‰‰ni p‰‰lle,
+Ja innoll' yllytitte ahkeralla
+Rakasta valtaherraani mua vastaan.
+Niin, kaikki yht‰ juonta olette;
+Ma tiesin teid‰n salakokouksenne,
+Joiss' oli kaupan syytˆn henkeni.
+V‰‰rist‰ todistajist' ei lie puute,
+Ja viekkain vehkein syyt‰ lis‰t‰‰n.
+Todeksi k‰ynee vanha sananlasku:
+"Jos koiria on, kyll' on kalikoita".
+
+KARDINAALI.
+Kuningas, moista herjaa ei voi siet‰‰.
+Jos niit‰, jotka suojella teit' aikoo
+Salavihalta ja konnain tikareilta,
+Noin syˆd‰‰n, ivataan ja pilkataan,
+Ja syyllisell' on t‰ysi puhevalta,
+Niin j‰‰htyy into teit‰ puolustaa.
+
+SUFFOLK.
+H‰n kuningatart' eikˆ soimannut
+Ivalla, vaikka taidoin peitetyll‰,
+Ett' ostetuin h‰n valamiehin muka
+Kukistaa h‰net aikoo arvostaan?
+
+KUNINGATAR MARGAREETA.
+H‰vinneen min‰ sallin haukkua.
+
+GLOSTER.
+Todemmin sanottu kuin tarkoitettu.
+Ma h‰vi‰n, mut voittajia voi,
+Kun v‰‰rin pelaavat! Ja h‰vinneell‰
+On silloin t‰ysi lupa puhua.
+
+BUCKINGHAM.
+Sanamme v‰‰nt‰‰ h‰n ja aikaa hukkaa. --
+H‰n teid‰n vankinne on, kardinaali.
+
+KARDINAALI (muutamille seuralaisille).
+Pois h‰net viek‰‰; hyv‰‰n s‰ilyyn pankaa.
+
+GLOSTER.
+Voi, Henrik, pois n‰in heit‰t sauvas ennen,
+Kuin jalkas vahvat on sua kantamaan.
+Sivultas paimen vied‰‰n n‰in, ja sudet
+Nyt tappelee, ken ensin sais sun syˆd‰.
+Oi, pelkoni ett' oisi aiheeton!
+Mut, Henrik hyv‰, tuhos l‰hell' on.
+
+    (Muutamat seuralaiset viev‰t pois Glosterin.)
+
+KUNINGAS HENRIK.
+Tehk‰‰ tai j‰tt‰k‰‰ min parhaaks n‰ette,
+Hyv‰t loordit, niinkuin itse oisin l‰sn‰.
+
+KUNINGATAR MARGAREETA.
+Kuin? Aiotteko j‰tt‰‰ parlamentin?
+
+KUNINGAS HENRIK.
+Niin, Margareeta; syd‰n suruun hukkuu,
+Sen virrat silmist' alkaa tulvia;
+Ruumiini kurjuuden on kahleiss' aivan,
+Sill' onko kurjempaa kuin paha mieli?
+Ah, set‰ Humphrey, kunnon, kunnian
+Ja arvon kuvan kasvoissasi n‰en,
+Ja sent‰‰n, Humphrey hyv‰, tulee aika,
+Ett' ep‰ilen ja viekkaaks sua varon.
+Mi turman t‰hti onneas nyt vainoo,
+Kun suuret loordit nuo ja kuningatar
+Tuhota koittaa syytˆnt' el‰m‰‰si?
+Et heit‰ koskaan loukannut, et ket‰‰n.
+Kuin teurastaja raastaa vasikkaa
+Veriseen teurastaloon ja sen sitoo
+Ja raukkaa lyˆ, jos ponnistaa se vastaan,
+Niin h‰netkin nuo tunnottomat veiv‰t.
+Ja niinkuin em‰ kirmaisee ja mylvii
+Ja katsoo mihin kantamoistaan vied‰‰n,
+Ja muut' ei voi kuin lastaan ruikuttaa;
+Niin min‰i hyv‰n Humphreyn tilaa suren,
+Ja turhaan kyynelˆin, ja vesisilmin
+J‰lkeens‰ katson, enk‰ voi h‰nt' auttaa,
+Niin mahtavat on h‰ll‰ vihamiehet.
+Ma kohtalotaan tahdon itke‰
+Ja huudan joka huokaukseltain:
+"Ken oli petturi? Ei Gloster vain." --
+
+                               (Menee.)
+
+KUNINGATAR MARGAREETA.
+Hyv‰t loordit, auringossa sulaa lumi.
+Kuin j‰‰ on Henrik suuriss' asioissa,
+Mut heltyy liian pian; Humphreyn loisto
+Lumoaa h‰net, niinkuin krokotiilin
+Suruinen voihke pett‰‰ matkaajan,
+Tai niinkuin kimaltava kirjok‰‰rme
+Kukissa kiemuroiden pist‰‰ lasta,
+Jok' ihaillen sen katsoo kauneutta.
+Jos toist' ei ole viisaampaa kuin min‰ --
+Mut omaa ‰ly‰ni sent‰‰n kiit‰n --
+Niin pian p‰‰sis Gloster maailmasta,
+Ja mekin p‰‰sisimme pelostamme.
+
+KARDINAALI.
+H‰n kuolkoon, valtaviisaus sen vaatii!
+Mut siihen vain on tarvis tekosyy;
+H‰n laillista on tiet‰ tuomittava.
+
+SUFFOLK.
+Minusta tuo ei valtaviisast' oisi:
+Kuningas puuhaa h‰nen puolestaan,
+Ja kansa nousee h‰nen puolestaan;
+Ja meill‰, paitse ep‰luuloa,
+Vain heikot syyt on hengenrangaistukseen.
+
+YORK.
+Siis ette toivo, ett‰ kuolis h‰n.
+
+SUFFOLK.
+Ah, York, ken sit‰ toivois enemm‰n?
+
+YORK.
+Mut Yorkill' enimm‰n on siihen syyt‰. --
+Sanokaa, kardinaali, ja te, Suffolk,
+K‰s' syd‰mmell‰: eikˆ oisi yht‰
+Asettaa ahnas kotka vartioimaan
+Kanoja n‰lk‰iselt‰ haukalta
+Kuin panna protektoriks herttua Humphrey?
+
+KUNINGATAR MARGAREETA.
+N‰in kana-raukat varmaan surman saisi.
+
+SUFFOLK.
+Niin, teid‰n armonne; siis hulluutt' eikˆ
+Ketusta tehd‰ lammaskarjan paimen?
+Sit' ilkimurhaajaks jos syytett‰is,
+Niin sille huono puolustus se oisi,
+Ett' aikomustaan viel' ei t‰ytt‰nyt.
+Ei, kuolkoon se, siks ett‰ se on kettu
+Ja luonnostaan jo karjan vihollinen,
+Ennenkuin turpaa verenpuna tahraa;
+Ja sama Humphreyn suhde kuninkaaseen.
+Sit' ‰lk‰‰ surko, miten surma tehd‰‰n,
+Jos pauloin, satimin tai salavehkein,
+Valveilla taikka maatessa, se yht‰,
+Kun vain h‰n kuolee; luvallista juonta
+On kaataa se, jok' ensin k‰ytt‰‰ juonta.
+
+KUNINGATAR MARGAREETA.
+Puhut kuin mies, sa ylv‰‰n ylv‰ Suffolk.
+
+SUFFOLK.
+Ja mies se on, ken panee tuuman toimeen,
+Sill' usein puheet toisin k‰y kuin aikeet.
+Mut, jotta syd‰n sointuis kielen kanssa, --
+Sill' ansiokkaaks katson t‰m‰n tyˆn,
+Kun sill‰ turvaan majesteetin hengen, --
+Vain k‰skek‰‰, niin rupeen h‰lle papiks.
+
+KARDINAALI.
+Mut min‰ h‰net kuolleeks soisin, Suffolk,
+Ennenkuin ehditte te papiks tulla.
+Sanokaa, ett‰ tekoon suostutte,
+Niin kyll‰ min‰ teloittajan hankin, --
+Niin arka majesteetin hengest' olen.
+
+SUFFOLK.
+Siis, tuohon k‰teen! Tekonne on hyv‰.
+
+KUNINGATAR MARGAREETA.
+Niin minustakin.
+
+YORK.
+                 Minusta niinik‰‰n.
+Me kolme n‰in kun teemme tuomion,
+Niin v‰h‰t siit‰, kuka sit‰ moittii.
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Ma tulen, loordit, suin p‰in Irlannista;
+On kapinoitsijoita siell‰ noussut,
+Jotk' engelsmanneja kuin hein‰‰ kaataa.
+Apuhun, loordit; vimma ehk‰isk‰‰,
+Paranemattomaks ett' ei k‰y haava;
+Kun tuore on se, voi sit' auttaa viel‰.
+
+KARDINAALI.
+Se rikko vaatii joutuin korjaamista.
+Kun n‰in on asiat, niin mik‰ neuvoks?
+
+YORK.
+Somerset hallitsijaks sinne pannaan.
+Niin onnekasta miest‰ t‰ytyy k‰ytt‰‰;
+H‰ll' oli hyv‰ onni Ranskassa.
+
+SOMERSET.
+Jos York, tuo valtataituri, ois ollut
+Mun sijassani hallitsijana,
+H‰n tuskin siell' ois pysynyt niin kauan.
+
+YORK.
+Ei, niinkuin sin‰, menett‰‰kseen kaikki.
+Ennemmin oisin kuollut ennen aikaa,
+Kuin tuonut kotiin sit‰ h‰pe‰‰.
+Ett', ollessani siell‰, kaikki meni.
+Sull' onko edes yht‰‰n naarmuloita?
+Ken nahkaans' s‰‰st‰‰ noin, ei hevin voita.
+
+KUNINGATAR MARGAREETA.
+Tuo s‰en pian raivotuleks yltyy,
+Jos poltakset ja tuuli sit‰ auttaa. --
+Seis, hyv‰ York! -- vait, rakas Somerset! --
+York, sinun onnes, hallitsijana,
+Ois ehk‰ ollut huonompi kuin h‰nen.
+
+YORK.
+Huonompi tyhj‰‰? H‰pe‰‰n siis kaikki!
+
+SOMERSET.
+Ja sin‰ myˆs, kun huudat h‰pe‰‰!
+
+KARDINAALI.
+Te, York, nyt onneanne koitelkaa.
+Aseiss' on villit kernit Irlannissa,
+Lihoittain maataan verill' Englannin.
+Valiojoukko viek‰‰ Irlantiin,
+Jokunen joka kreivikunnasta;
+Koitelkaa onneanne Irlannissa.
+
+YORK.
+Sen teen, jos majesteetti suvaitsee.
+
+SUFFOLK.
+Kuningas meille valtuuden on suonut;
+Me mit‰ p‰‰t‰mme, h‰n vahvistaa.
+Siis, jalo York, t‰‰ toimi ota vastaan.
+
+YORK.
+No, kyll‰; v‰ke‰ vain hankkikaa;
+Sill'aikaa j‰rjestelen asiani.
+
+SUFFOLK.
+V‰est‰ min‰ huolta pid‰n, York.
+Mut Humphreyn kavaluuteen palatkaamme,
+
+KARDINAALI.
+H‰nest' ei enemp‰‰; ma h‰nt‰ hoidan,
+Niin ettei kauemmin h‰n meit‰ vaivaa.
+Pois l‰htek‰‰mme, p‰iv‰ on jo mennyt.
+Lord Suffolk, kahden viel‰ haastelkaamme.
+
+YORK.
+Lord Suffolk, kahden viikon kuluessa
+Odotan joukkojani Bristolissa;
+Sielt' aion kuljettaa ne Irlantiin.
+
+SUFFOLK.
+Hyv‰sti kaikki toimitetaan, York.
+
+    (Kaikki menev‰t, paitsi York.)
+
+YORK.
+Nyt mielt‰s rohkaise, jos koskaan, York,
+Ja ep‰ilykses vaihda p‰‰tˆkseen.
+Se ole, mit‰ toivot olevasi,
+Tai se, mit' olet, tuonen saaliiks anna;
+Ei sill‰ olemisen arvoa.
+Asukoon kalvas pelko alhaisossa.
+Ei poveen kuninkaalliseen se sovi.
+Kuin kev‰‰n kuurot aatos aatost' ajaa,
+Ja joka aatos korkeuksiin t‰ht‰‰.
+Ajuni, ahkerampi lukkia,
+Vihollisille paulaks ansaa kutoo.
+Hyv‰, loordit, hyv‰! Valtaviisast' oli
+Pois minut laittaa suuren joukon kanssa;
+K‰‰rmett‰ konttaista n‰in l‰mmit‰tte,
+Jok' elpyneen‰ poveen teit‰ pist‰‰.
+V‰ke‰ tarvitsin, sen teilt‰ sain;
+Suur' kiitos vain! Mut n‰in te hullun k‰teen
+Panitte ter‰aseen, se on varma.
+Suurt' armeijaa kun Irlannissa ruokin,
+Niin Englannissa nostan mustan myrskyn,
+Jok' ihmisi‰ kymmentuhansin
+Puhaltaa taivaaseen tai helvettiin;
+Ja myrsky t‰‰ ei riehumasta lakkaa,
+Ennenkuin kultavanne p‰‰ss‰ni,
+Kuin kirkkaan p‰iv‰n heloittavat s‰teet,
+Tuon hullun pyˆrt‰j‰isen raivon tyynt‰‰.
+Ja n‰ille hankkeilleni apuriksi
+Vietellyt olen j‰yk‰n kentil‰isen,
+John Caden Ashfordista,
+John Mortimerin arvonimell‰
+Kapinan tekem‰‰n, jot' osaa hyvin.
+Sen huiman miehen Irlannissa n‰in,
+Kuink' otteli h‰n kernil‰isten kanssa,
+Siks ett‰ s‰‰ret keih‰st' oli t‰ynn‰
+Kuin piikkisian selk‰ harjasta;
+Kun siit‰ pelastui, tek' ilmahypyn
+Kuin hurja maurilainen tanssija,[5]
+Kalistain keih‰it‰‰n kuin kulkusia.
+Pˆrrˆisen, viekkaan kernin hahmossa h‰n
+Seurusti usein vihollisen kanssa,
+Ja ilmitulematta palasi
+Ja kertoi mulle heid‰n konnantˆist‰‰n.
+Tuon pirun etulaisekseni teen;
+H‰nell' on n‰kˆ, k‰ynti, puhetapa
+John Mortimerin, joka nyt on vainaa.
+N‰in kansan mielt‰ tiedustan, se onko
+York-suvun vaatimuksiin taipuva.
+Jos vangitaan h‰n, piinapenkkiin pannaan,
+Ei mik‰‰n kidutus saa h‰nest' irti,
+Ett' olen min‰ h‰nt‰ yllytt‰nyt.
+Jos taas h‰n menestyy, niin kuin ma luulen,
+Niin tulen voimallani Irlannista
+Ja niit‰n mit' on kylv‰nyt se konna.
+Kun Humphreyn saamme pois, tuon suositun,
+Ja Henrik syrj‰t‰‰n, niin kaikk' on mun.
+
+                                (Menee.)
+
+
+Toinen kohtaus.
+
+    Bury. Huone kuninkaanlinnassa.
+
+    (Kaksi murhaajaa tulee kiireell‰ sis‰‰n.)
+
+1 MURHAAJA.
+Lord Suffolkille rienn‰ kertomaan,
+Ett' tielt‰ pois on herttua.
+
+2 MURHAAJA.
+                             Mit‰ teimme?
+Oi, ett' ois tekem‰tt‰! -- Onko koskaan
+Niin katuvaista n‰hty?
+
+1 MURHAAJA.
+                       Loordi tulee.
+
+    (Suffolk tulee.)
+
+SUFFOLK.
+No, miehet, onko toimitettu tyˆ?
+
+1 MURHAAJA.
+On, hyv‰ loordi, kuollut on h‰n.
+
+SUFFOLK.
+                                 Hyv‰.
+Pois t‰‰lt‰ nyt, ja menk‰‰ asuntooni.
+T‰‰n miehen-tyˆn ma teille palkitsen.
+Koht' ovat t‰‰ll‰ kuningas ja p‰‰rit.
+Mut onko vuode siistitty, ja kaikki
+Niin kuntoon laitettu, kuin m‰‰r‰sin?
+
+1 MURHAAJA.
+On, armollinen herra.
+
+SUFFOLK.
+                      Pois, pois joutuin!
+
+    (Murhaajat menev‰t.)
+
+    (Torventoitauksia. Kuningas Henrik, kuningatar Margareeta,
+    kardinaali Beaufort, Somerset, loordeja ja muita tulee.)
+
+KUNINGAS HENRIK.
+Set‰mme heti t‰nne kutsukaa!
+Tutkimme t‰n‰‰n h‰nen ylh‰isyytt‰‰n,
+H‰n onko syyp‰‰, niinkuin v‰itet‰‰n.
+
+SUFFOLK.
+Ma heti h‰net kutsun, majasteetti.
+
+    (Menee.)
+
+KUNINGAS HENRIK.
+Paikkaanne, herrat! Pyyd‰n, hyv‰t loordit:
+Kovemmin ‰lk‰‰ set‰‰ kohdelko,
+Kuin mit‰ tositodistusten j‰lkeen
+Ja teoistaan h‰n syyp‰‰ks havaitaan.
+
+KUNINGATAR MARGAREETA.
+Varjelkoon taivas, ett‰ ilkimielin
+Tuomittais syyp‰‰ks syytˆn ylimys!
+Suo, Jumal', ett‰ voisi puhdistautua!
+
+KUNINGAS HENRIK.
+Margareeta, kiitos! Tuo mua ilahuttaa.
+
+    (Suffolk palaa.)
+
+Mit‰? Kalvas olet? Miksi vapiset?
+Kuink' asiat on, Suffolk? Miss' on set‰?
+
+SUFFOLK.
+Vuoteessaan kuollut; Gloster kuollut on.
+
+KUNINGATAR MARGAREETA.
+Jes' auta!
+
+KARDINAALI.
+           Herran salatuomio! --
+N‰in viime yˆn‰ unta, ett‰ Gloster
+Ol' ‰‰netˆn, ei saanut sanaa suustaan.
+
+    (Kuningas pyˆrtyy.)
+
+KUNINGATAR MARGAREETA.
+Ah! Mit‰ nyt? -- Kuningas kuolee! Apuun!
+
+SOMERSET.
+Kohottakaa, ja puristelkaa nen‰‰.
+
+KUNINGATAR MARGAREETA.
+Pois, pian, apuun! -- Henrik, silm‰s avaa.
+
+SUFFOLK.
+H‰n virkoo. -- Rouva hyv‰, rauhoittukaa!
+
+KUNINGAS HENRIK.
+Oi, suuri Luoja!
+
+KUNINGATAR MARGAREETA.
+                 Kuinka voitte, armo?
+
+SUFFOLK.
+Tyyntyk‰‰, majesteetti, tyyntyk‰‰!
+
+KUNINGAS HENRIK.
+Mua Suffolk-herttuako tyynnytt‰‰?
+Vastik‰‰n mulle kaarneen virtt‰ lauloi,
+Jonk' onsi s‰vel vei mult' elinvoiman,
+Ja nytkˆ peukaloisen sirkutukset
+Ja tyhj‰n rinnan ontto lohdutus
+Vois karkoittaa tuon ensin kuullun ‰‰nen?
+Makeilla sanoilla sa myrkkys peit‰t.
+Pois k‰tes minusta! Pois, sanon ma!
+Sen koskentaa kuin k‰‰rmeen kielt‰ kammon
+Pois n‰kyvist‰, kurja sanantuoja!
+Silmiss‰s julman ylev‰n‰ istuu
+Maailman kauhuks murhan hirmuvalta.
+ƒl‰ katso minuun; silm‰s haavoittaa. --
+Ei, ‰l‰ mene! -- Tule, basiliski,
+Katseillas syytˆn katselija tapa!
+Ma kuoloss' ilon lˆyd‰n, elossa
+Vain kaksoiskuoleman, kun poiss on Gloster.
+
+KUNINGATAR MARGAREETA.
+Miks Suffolk-herttuaa noin soimaatte?
+Vaikk' oli Gloster h‰lle vihamies,
+Kuin kristitty h‰n t‰m‰n surmaa suree.
+Ja min‰ -- vaikka vihamiehet oltiin --
+Jos kyynelvedet, tuskan huokaukset,
+Veriset voihkinat sais h‰neen elon,
+Sokeaks silm‰ni ma itkisin,
+Huokailust' uuveltuisin, liljankalvaaks
+Muuttuisin hiuttavasta voihkinasta,
+Jos henkiin voisin Humphreyn her‰tt‰‰.
+En tied‰, kuin mua mailma tuomitsee;
+On tietty, ett'ei yst‰vi‰ oltu,
+Ja kenties mua murhaajaksi luullaan.
+N‰in mainettani pahat kielet kalvaa,
+Ja hovit h‰pe‰‰ni huutavat.
+Sen surmastaan ma saan. Mua onnetonta!
+Kuningatar, ja pilkka-kruunu p‰‰ss‰!
+
+KUNINGAS HENRIK.
+Voi, Glosteria s‰‰lin; voi, mies-raukkaa!
+
+KUNINGATAR MARGAREETA.
+Mua s‰‰li, paljo raukemp' olen min‰.
+Kuin? Poisko k‰‰nnyt? Kasvosiko peit‰t?
+En spitaalinen ole; katso minuun.
+Oletko tullut kuuroksi kuin kyy?
+Siis myrkkyinen myˆs ole, tapa vaimos.
+Humphreynko hauta kaiken lohtus k‰tkee?
+Ilosi siis ei Margareeta ollut!
+Humphreylle patsas laita, sit‰ palvo,
+Ja mun tee kuvastani juomakyltti.
+T‰‰n vuoksko olin haaksirikkoon tulla
+Ja vastatuuli kahdesti mun ajoi
+Englannin rannikolta omaan maahan?
+Se oli enne; tuulikin se n‰ytti
+Mua varoittavan: karta k‰‰rmeen pes‰‰,
+ƒl' astu jalkaas tuohon tylyyn maahan!
+Mut min‰ hyv‰nsuopaa tuulta toruin
+Ja h‰nt‰, joka vaskiluolasta
+Sen irroitti, ja huokua sen k‰skin
+Englannin siunattua rantaa kohti
+Tai k‰‰nt‰‰ jylh‰‰n luotoon laivan keulan.
+Mut Aeolus ei ollut murhamies,
+Sen inhan toimen sinulle h‰n j‰tti.
+Mua aallot vyˆryv‰t ei hukuttaneet,
+Ne tiesiv‰t, ett' tyly k‰ytˆksesi
+Kuivalla maalla viel‰ kyyneliin
+Mun hukuttaisi merta suolaisempiin.
+Ter‰v‰t luodon suiput hiekkaan peittyi;
+Ei tahtoneet mua murskata, ne tiesi
+Kovemman viel‰ kivisyd‰mmesi
+Mun t‰‰ll‰ linnassasi murskaavan.
+Niin pitk‰lle kuin liituvuores siinti,
+Kun myrsky meid‰t ajoi rannikolta.
+Kannella seisoin raju-ilmassa,
+Ja synke‰ kun meriusva alkoi
+K‰rkk‰ilt‰ silmilt‰ni kaihtaa maan,
+Juveelin kalliin otin kaulastani --
+Timanttikehysteisen syd‰mmen --
+Ja heitin maalle p‰in; sen meri otti,
+N‰in, toivoin, sin‰i syd‰mmeni otat.
+Samassa haihtui kaunis Englanti;
+Syd‰nt‰ silm‰in seurata nyt k‰skin,
+Ja himmiks kaukoputkiks niit‰ sanoin,
+Kun rakkaan rannikon ne kadottivat.
+Pakotin usein kielt‰ Suffolkin --
+Tuon inhan horjumieles edustajan --
+Mua lumomaan, niinkuin Ascanius teki,
+Kun Dido-hupsulle h‰n kaikki kertoi
+Is‰ns‰ teot Trojan palon j‰lkeen!
+Min' enkˆ ole lumottu kuin Dido?
+Ja sin‰ petollinen kuin Ascanius?
+Ah! En voi en‰‰. Kuole, Margareeta!
+N‰et, Henrik itkee, kun niin kauan el‰t.
+
+    (Melua ulkoa. Warwick ja Salisbury tulevat.
+    Kansaa tunkeutuu ovelle.)
+
+WARWICK.
+Huhutaan, majesteetti, ett‰ Suffolk
+Ja kardinaali Beaufort kavalasti
+On hyv‰n herttuan Humphreyn murhanneet.
+Nyt kansa, niinkuin hurja mettisparvi,
+Jolt' emo vietiin, hyˆrii sinne t‰nne
+Ja raivossaan ei katso, ket‰ pist‰‰.
+Kapinan hurjan min‰ asetin,
+Siks kunnes itse saavat toden kuulla.
+
+KUNINGAS HENRIK.
+Niin, liian totta, Warwick, h‰n on kuollut.
+Vaan kuin, sen tiet‰‰ Herra, eik‰ Henrik.
+K‰y tuonne, tutki kuolleen ruumista
+Ja t‰st‰ ‰kkisurmast' ota selv‰.
+
+WARWICK.
+Sen tahdon tehd‰. Sin‰, Salisbury,
+Sill'aikaa pysy hurjan kansan luona.
+
+    (Warwick menee lis‰huoneeseen ja Salisbury vet‰ytyy syrj‰‰n.)
+
+KUNINGAS HENRIK.
+S‰, joka kaikki tuomitset, oi, torju,
+Pois torju aatos, joka mieleen pyrkii,
+Ett' t‰ss' on v‰kivallan tyˆt‰ tehty!
+Jos v‰‰r‰‰ luulen, anna anteeks, Herra!
+Sa yksin olet tuomari. Oi, sent‰‰n!
+Kalpeita huuliaan ma l‰mmitt‰isin
+Tuhansin suuteloin, ja kasvoilleen
+Valaisin suolakyynelt' ulapoittain,
+Rakkautta kuuroon korvaan haastaisin,
+Ja tunnustaisin k‰tt‰ tunnotonta;
+Mut turhaa nuo ois tyhj‰t muistiaiset,
+Ja kuolleen mullan-kuvan n‰keminen
+Se vain mun suruani suurentais.
+
+    (Pariovet sis‰huoneeseen avataan, ja Gloster n‰hd‰‰n
+    kuolleena vuoteessaan. Warwick ja muita seisoo ruumiin
+    ymp‰rill‰.)
+
+WARWICK.
+Kuningas, n‰hk‰‰s t‰t‰ ruumista!
+
+KUNINGAS HENRIK.
+N‰en siin‰, kuinka hautani on syv‰.
+Kaikk' onni mainen Humphreyn sielun kanssa
+Pakeni pois, ja h‰net kun ma n‰en,
+Niin kuolleena n‰en oman el‰m‰ni.
+
+WARWICK.
+Niin totta, sieluni kuin el‰‰ soisi
+Sen majesteetin turvissa, jok' otti
+Miehuuden p‰‰lleen, meit‰ pelastaakseen
+Is‰ns‰ vihan kirouksesta,
+Niin totta luulen, ett' on v‰kin‰ist‰
+Kuululle t‰lle herttualle tehty.
+
+SUFFOLK.
+Oi, valaa julmaa, vakaan vannottua!
+Mut mill‰ Warwick todistaa sen!
+
+WARWICK.
+                                N‰hk‰‰s,
+Kuink' ehtynyt on veri kasvoihin!
+Olen usein n‰hnyt luontaisesti kuolleen:
+Veretˆn on se, kalvas, tuhkanharmaa,
+Kun veri kaikki syˆksyy syd‰mmeen,
+Ja t‰m‰, kuolon kanssa kamppaillessaan,
+Sen avuks ottaa vihollista vastaan.
+Kun syd‰n j‰‰htyy, j‰‰htyy myˆskin veri,
+Ja poskia ei palaa punaamaan.
+Mut tuon on kasvot vertyneet ja mustat,
+Ja silm‰t, kuopistansa pullollaan,
+Kamalan j‰yk‰t on kuin kuristetun,
+Sieraimet laajat, tukka sotkuinen,
+Ja sormet harillaan, kuin sen, mi painii
+Henkens‰ kaupall' ylivoimaa vastaan.
+Kas, kuink' on hiukset raitiin tarttuneet,
+Ja siro parta takkuinen ja pˆrrˆ
+Kuin myrskyn lakoama viljapelto!
+Niin, murhattu h‰n t‰ss' on; n‰ist‰ merkeist'
+On pieninkin jo todistuksen voipa.
+
+SUFFOLK.
+Ken, Warwick, herttuan ois murhannut?
+Min‰ ja Beaufort h‰nt‰ vartioimme,
+Ja me tok' emme murhaajia liene.
+
+WARWICK.
+Olitte Humphreyn veriviholliset,
+Te kumpikin, ja tekˆ vartioiksi?
+H‰n varmaan yst‰v‰in ei hoidoss' ollut,
+Ja vihamiehen saikin, niinkuin n‰hd‰‰n.
+
+KUNINGATAR MARGAREETA.
+Siis ep‰ilette n‰it‰ loordeja
+Glosterin ‰kkisurmaan vikap‰iksi?
+
+WARWICK.
+Ken n‰kee hiehon veriin kuolleena.
+Ja teurastajan kirveinens‰ l‰sn‰,
+Ep‰ilee heti, ett‰ tuo sen tappoi.
+Ken tapaa teiren haukan pes‰ss‰,
+Aavistaa heti, kuink' on lintu kuollut,
+Vaikk' onkin haukan nokka veretˆn.
+Niin ep‰ilt‰v‰ t‰‰kin murhen‰ytˆs.
+
+KUNINGATAR MARGAREETA.
+Suffolkko teurastaja? Miss' on veitsi?
+Beaufortko haukka? Miss' on haukan kynnet?
+
+SUFFOLK.
+Ei veist‰ mulla, nukkuvien surmaks,
+Vain koston miekka, rauhan ruostuttama;
+Sen kirkastan tuon herjan syd‰mmess‰,
+Mi minuun painaa murhan verileiman.
+Sano, jos tohdit, ylv‰ Warwick-herra,
+Ett' olen herttua Humphreyn kuoloon syyp‰‰!
+
+    (Kardinaali, Somerset y.m. tulee.)
+
+WARWICK.
+Sen Warwick tohtii, mink‰ Suffolk tohtii.
+
+KUNINGATAR MARGAREETA.
+Ei suistaa tohdi kielt‰‰n solvaavaa
+Eik' ylpe‰t‰ herjamielt‰‰n heitt‰‰,
+Vaikk' uhkais Suffolk h‰nt‰ tuhannesti.
+
+WARWICK.
+Vait, rouva, kunnioittaen sen sanon.
+Jokainen sana h‰nen edukseen
+Se kuninkaallist' arvoanne tahraa.
+
+SUFFOLK.
+Sa tomppeli ja tollo loordiksi!
+Jos koskaan vaimo petti miest‰ns‰,
+Niin saastaisessa vuoteessaan sun ‰itis
+Syleili moukkaa typer‰‰ ja siten
+Istutti jaloon runkoon maatis-oksan.
+Sen oksan sin‰ olet hedelm‰,
+Etk' ylev‰t‰ Nevillen kantaa.
+
+WARWICK.
+Jos ei sua verivelkas varjeleisi,
+Ja jos en palkkaa riist‰is pyˆvelilt‰,
+N‰in s‰‰st‰is sulta sadat h‰pe‰t;
+L‰sn'olo kuninkaan jos ei mua sitois,
+Niin, kurja konna, polvillasi saisit
+Puheesi pyyt‰‰ anteeksi ja myˆnt‰‰
+Ett' omaa ‰iti‰si tarkoitit,
+Ja itse ett‰ ‰p‰r‰n‰ synnyit;
+Ja anteekspyyntˆs j‰lkeen, pelkuri,
+Sa palkkas saisit, saisit hornaan menn‰,
+Katala, joka nukkuvain juot verta.
+
+SUFFOLK.
+Sinusta valveilla ma verta lasken,
+Jos l‰hte‰ nyt tohdit kanssani.
+
+WARWICK.
+No, tule heti, tai sun t‰‰lt‰ raastan!
+Vaikk' olet halpa, kanssas ottelen;
+N‰in Humphreyn haamulle teen palveluksen.
+
+    (Suffolk ja Warwick menev‰t.)
+
+KUNINGAS HENRIK.
+On puhdas syd‰n paras panssari;
+Mies hurskas kolmasti on varustettu;
+Mut alaston, vaikk' ylt‰‰n aseiss' ois,
+Se mies on, jonka tunnon tahraa v‰‰ryys.
+
+    (Melua kuuluu ulkoa.)
+
+KUNINGATAR MARGAREETA.
+Haa! Mit‰ melua?
+
+    (Suffolk ja Warwick palaavat, miekat paljastettuina.)
+
+KUNINGAS HENRIK.
+                 No, mit‰, loordit?
+Meid‰nko n‰hden paljastatte t‰‰ll‰
+Vihaista miekkaa? Mik‰ rohkeus!
+Mit' ‰‰nek‰st‰ meteli‰ t‰m‰?
+
+SUFFOLK.
+Kavala Warwick Buryn miesten kanssa
+Mua miekoin ahdistavat, majesteetti.
+
+    (Kansanjoukko meluaa ulkona. Salisbury palaa.)
+
+SALISBURY (ulkona olevalle kansalle).
+Seis! Kuninkaalle kerron pyyntˆnne. --
+N‰in, herra, sanoa mun kansa k‰skee:
+Jos Suffolk ei saa heti surmaansa,
+Tai h‰nt‰ Englannist' ei karkoiteta,
+Niin linnastanne riist‰v‰t he h‰net
+Ja vitkaan kiduttavat kuolemaan.
+Sanovat, ett‰ hyv‰n Humphrey-herttuan
+H‰n surmas; sanovat myˆs pelk‰‰v‰ns‰,
+Ett' ehk‰ majesteetinkin h‰n surmaa.
+Siis rakkkaast' alamaisen innosta, --
+Ei uhkan halust', eik‰ niskoittelun,
+Ik‰‰nkuin vastustaa teit' aikoisivat, --
+He h‰nen karkoitustaan vaativat.
+Sanovat, hengest‰nne huolehtien,
+Ett', armonne jos tahtois nukkua
+Ja k‰skis, ettei h‰irit‰ sais teit‰
+Vihan tai hengenmenon uhalla,
+Niin, t‰st‰ kiellostanne huolimatta,
+Jos n‰kisiv‰t kyyn, mi hankokielin
+Pujahtais salaa majesteetin p‰‰lle,
+Olisi pakko teid‰t her‰tt‰‰,
+Niin ettei vaarallista unen h‰rm‰‰
+Tuo surmamato iki-uneks muuttais.
+Siis kiellon uhallakin aikovat,
+Jos tahdotte tai ette, teit‰ kaita
+Moisilta k‰‰rmeilt‰ kuin viekas Suffolk,
+Jonk' onneton ja myrkyllinen pisto
+Set‰nne hengen salaa vei, jok' oli
+Tuhansin kerroin h‰nt‰ arvokkaampi.
+
+KANSA (ulkona).
+Kuninkaan vastaus, lord Salisbury!
+
+SUFFOLK.
+Kyll' uskon, ett‰ raaka roskajoukko
+Voi moisen sanan kuninkaalle laittaa;
+Vaan te, mylord, sen asioita k‰ytte
+Vain loistaaksenne puhetaidollanne.
+Mut muuta kunniaa ei Salisbury saanut,
+Kuin sen vain, ett‰ luona kuninkaan
+K‰vi padanpaikkurien l‰hettin‰.
+
+KANSA (ulkoa).
+Kuninkaan vastaus, taikka sis‰‰nmeno!
+
+KUNINGAS HENRIK.
+Salisbury, sana viek‰‰, ett‰ heit‰
+Hell‰st‰ huolenpidostaan ma kiit‰n,
+Ja vaikk'ei mua kehoittaneet oiskaan,
+Niin tehd‰ aion mit‰ vaativat.
+Suffolkist' olen totisesti aina
+Tuhoa kruunulleni aavistanut.
+Siis vannon nyt sen majesteetin kautta,
+Jonk' olen halpa edustaja vain:
+H‰n kauemmin kuin kolme p‰iv‰‰ ‰lkˆˆn
+T‰t' ilmaa saastuttako hengell‰‰n,
+Jos el‰‰ tahtoo!
+
+KUNINGATAR MARGAREETA.
+                 Rukoilen tuon hyv‰n.
+Suffolkin puolesta.
+
+KUNINGAS HENRIK.
+                    Et ole hyv‰,
+Jos Suffolkia sanot hyv‰ksi.
+Vait, sanon; h‰nen puolestaan jos puhut,
+Niin vihaani vain lis‰‰t. Sanassani
+Jo yksin sanotussa pysyisin;
+Mut kun sen vannoin, on se j‰rkkym‰tˆn. --
+Jos kolmen p‰iv‰n p‰‰st‰ sinut n‰hd‰‰n
+Maatilkulla mun hallitsemallani,
+Niin mailma henkes lunnaiksi ei riit‰. --
+Tule, Warwick, hyv‰ Warwick, tule mukaan!
+Minull' on suurta sulle ilmaistavaa.
+
+    (Kuningas Henrik, Warwick, loordit y.m. menev‰t.)
+
+KUNINGATAR MARGAREETA.
+Tuho ja tuska teit‰ seuratkoon!
+Syd‰mmen katkeruus ja karvas piina
+Ne olkoot teid‰n seurakumppaninne!
+Olette kaksi, piru kolmas olkoon!
+V‰ijyilkˆˆn teit‰ kolminainen kosto!
+
+SUFFOLK.
+Pois, hyv‰ kuningatar, sadatukset!
+Nyt raskaan eron Suffolk sinust' ottaa.
+
+KUNINGATAR MARGAREETA.
+Hyi, arka akka, hell‰ raukka, sin‰!
+Kirota vihamiest‰s etkˆ tohdi?
+
+SUFFOLK.
+Kirotut nuo! Miks heit‰ sadattaisin?
+Jos kirous tappaa vois kuin peikon parku,
+Niin keksisin niin h‰ijyt myrkkysanat,
+Niin karvaat, karkeat ja kauhistavat,
+Hammasten kirskeell' esiin k‰ristetyt
+Ja paatunutta vihaa yht‰ t‰ynn‰
+Kuin kalvas kateus inhass' onkalossaan.
+Kiivaudest' ‰nkytt‰isi kieleni;
+Kuin piit‰ iskein silm‰ s‰kenˆisi;
+Hivukset tˆrrˆtt‰is kuin mielipuolen;
+Niin, joka j‰sen sadattais ja kirois.
+Mult' ihan syd‰n s‰rkyis, jos en saisi
+Sadattaa heit‰. Myrkky juomans' olkoon!
+Vihava sappi hienoin herkkunsa!
+Sypressimets‰ armain siimeksens‰!
+Suloisin silm‰nruoka basiliskit!
+Vienoinkin kosketus kuin k‰‰rmeenpisto!
+Kyyt sihisev‰t soittokuntanaan,
+Ja s‰ist‰jin‰ turman-huuhkain kuoro!
+Kaikk' ilkikauhut mustan helvetin --
+
+KUNINGATAR MARGAREETA.
+Rakas Suffolk, tyynny; itse‰s vain kiusaat.
+Kirosi nuo -- kuin peilist' aurinko
+Tai liika panos pyssyss‰ -- ne taapp‰in
+Vain ponnahtaa ja itse‰si kohtaa.
+
+SUFFOLK.
+Kirota k‰skit; nytkˆ k‰sket j‰tt‰‰?
+Nyt, kautta maan, jost' olen karkoitettu!
+Kirota voisin koko talvis-yˆn,
+Vaikk' alastonna vuoren huipull' oisin,
+Miss' ei suo kylm‰n viima ruohon nousta,
+Ja pit‰‰ kaikki hetken leikkin‰.
+
+KUNINGATAR MARGAREETA.
+Oi, pyyd‰n, tyynny! Mulle k‰tes anna,
+Sit' ett‰ huolivesin kostuttaisin.
+Paikasta tuosta ‰lkˆˆn taivaan sade
+Suruni muistoksia haihduttako!
+
+    (Suutelee h‰nen k‰tt‰‰n.)
+
+Tuo muisku k‰tees painukoon, ett' aina
+N‰‰ huulet muistaisit, jotk' ovat sulle
+Tuhannet huokaukset huokuneet!
+Nyt mene, tuskan ett‰ tuta saisin;
+T‰‰ll' ollessasi vain sit' aavistan
+Kuin kyll‰inen, jok' ajattelee n‰lk‰‰.
+Takaisin kutsun sun, tai minut myˆskin
+Maanpakoon syˆskˆˆt; ja maanpaossa
+Ma olenkin, jos sinust' olen erin.
+Pois! Vaiti! Pois, pois, pois! -- Oi, ‰l‰ viel‰!
+Kaks tuomittua yst‰v‰‰ n‰in erii
+Tuhansin suuteloin ja j‰‰hyv‰isin,
+Mi sadasti on raskaampaa kuin kuolo.
+Hyv‰sti! Hyv‰st' el‰m‰ ja Suffolk!
+
+SUFFOLK.
+N‰in kymmenesti maasta karkoitettu
+On Suffolk parka: kerta kuninkaan,
+Ja kolme kertaa kolme sinun kauttas.
+En maata sure, sun vain pois kun saisin;
+On kyllin v‰kirikas er‰maa,
+Jos sun on taivaallinen seuras mulla;
+Miss' olet sin‰, siell' on itse mailma
+Ja mailman riemut; miss‰ et sin' ole,
+Siell' er‰maa on. Enemp‰‰ en jaksa. --
+Oi, el‰ sin‰, elost' iloitse;
+Mun iloni on, ett‰ sin‰ el‰t.
+
+    (Vaux tulee.)
+
+KUNINGATAR MARGAREETA.
+Mihink‰ Vaux'lla kiire? Mit‰ tied‰t?
+
+VAUX.
+Vain ilmoittaisin kuninkaalle, ett' on
+Juur' kuolemaisillansa kardinaali:
+ƒkisti k‰‰ntynyt on kovaan tautiin,
+Tuijottaa, l‰‰hˆtt‰‰ ja ilmaa haukkoo,
+Maan kiroo lapsia ja Luojaa herjaa.
+V‰list‰ puhuu, niinkuin Humphreyn haamu
+Ois vieress' aivan; huutaa kuningasta,
+Patjalleen kuiskaa, niinkuin t‰lle kuiskais
+Syd‰mmen raskaan salaisuuksia.
+Ja ilmoittamaan tulin kuninkaalle,
+Ett' ihan nyt h‰n h‰nt‰ ‰‰neen huusi.
+
+KUNINGATAR MARGAREETA.
+Vie surusanomasi kuninkaalle.
+
+    (Vaux menee.)
+
+Voi inhaa ik‰‰! tuskan sanomaa!
+Vaan miksi kurjaa hetken hukkaa itken,
+Suffolkin unhottaen, kalleuteni?
+Miks en ma sure sua yksin, Suffolk,
+Ja suvituulen kanssa kilpaa itke?
+Se maata kastaa; min‰ suruani.
+Pois joutuin! Tulossa on kuningas;
+Jos luotani sun tapaa, vie sun surma.
+
+SUFFOLK.
+En el‰‰ voi, jos sinust' eri‰n;
+Ja kuolema sun luonas mit' ois muuta
+Kuin vieno uinahdus sun syliss‰si?
+T‰ss' ilmaan henkeni ma huokuisin
+Niin hiljaa, tuskatta kuin imulapsi,
+Jok', ‰idin n‰nni suussa, kuoloon vaipuu.
+Mut, sinust' erin, sinua kuin hullu
+Huutaisin ummistamaan silm‰ni
+Ja huulillasi suuni sulkemaan.
+Niin sielun lennossaan sa pid‰tt‰isit,
+Tai sinun ruumiisees sen huokuisin;
+Elysiumiss' el‰isi se silloin.
+Sun luonas kuolo oisi leikki-kuolo,
+Mut sinust' erin tuskan kidutus.
+Oi, suo mun j‰‰d‰, tulkoon mit‰ tulkoon!
+
+KUNINGATAR MARGAREETA.
+Pois! Vaikk' on ero niinkuin poltinrauta,
+Niin kuolettavaan haavaan on se tarpeen.
+Pois Ranskaan, Suffolk! Mulle kirjoita;
+Jos miss‰ mailman sopess' oletkaan,
+Niin mull' on Iris, joka sinut lˆyt‰‰.
+
+SUFFOLK.
+Ma menen.
+
+KUNINGATAR MARGAREETA.
+          Ota syd‰mmeni myˆt‰.
+
+SUFFOLK.
+Juveeli kurjimmassa lippaassa,
+Mik' arvokalun k‰tkenyt on koskaan.
+Kuin laiva s‰rkynyt, nyt erit‰‰n:
+T‰‰ mun on kuolintieni.
+
+KUNINGATAR MARGAREETA.
+                        Minun t‰‰.
+
+    (Menev‰t eri taholle kumpikin.)
+
+
+Kolmas kohtaus.
+
+    Lontoo. Kardinaali Beaufortin makuuhuone.
+
+    (Kuningas Henrik, Salisbury, Warwick y.m. tulevat.
+    Kardinaali makaa vuoteessaan, palvelijoita seisoo
+    vuoteen vieress‰.)
+
+KUNINGAS HENRIK.
+Kuin voit sa, Beaufort? Puhu kuninkaalles.
+
+KARDINAALI.
+Jos kalma olet, Englannin saat aarteet,
+Joll' ostaa toisen voit sa moisen saaren,
+Jos mun vain annat el‰‰ tuskitta.
+
+KUNINGAS HENRIK.
+Oi, mik‰ merkki huonon el‰m‰n,
+Kun noin on kauhistava tuonen tulo!
+
+WARWICK.
+Se kuningas on, joka puhuu, Beaufort.
+
+KARDINAALI.
+Jos mieli, viek‰‰ minut oikeuteen.
+H‰n kuoli vuoteessansa: miss‰s muuten?
+Pakottaa voinko ihmist' el‰m‰‰n? --
+Oi, laatkaa r‰‰kk‰‰m‰st‰! Tunnustan. --
+Taas elossako? N‰ytt‰k‰‰, miss' on:
+Tuhannen puntaa, jos saan h‰net n‰hd‰! --
+Ei silmi‰! Ne soaissut on multa.
+Oi, silitt‰k‰‰ hiukset! Pystyss' on ne
+Kuin tym‰puikot, joihin sieluni
+Takeltuu siivet. Tuokaa juotavaa!
+Sanokaa rohtoherralle, ett' antaa
+Sen tuiman myrkyn, jonka h‰lt‰ ostin.
+
+KUNINGAS HENRIK.
+Oi, ikihallitsija taivasten,
+Luo armon katse tuohon onnettomaan!
+Pois aja tunkeileva vihollinen,
+Jok' ahdistaa tuon raukan sielua!
+Povestaan huuhdo musta ep‰toivo!
+
+WARWICK.
+Kas, kuinka kuolontuska muodon murtaa!
+
+SALISBURY.
+H‰nt' ‰l‰ h‰iri; rauhass' eritkˆˆn.
+
+KUNINGAS HENRIK.
+Sielulleen rauha, jos niin Herra tahtoo! --
+Jos taivast' ajattelet, kardinaali,
+Niin k‰tt‰ nosta, anna toivon merkki. --
+Ei merkki‰! H‰n kuolee. Armo h‰lle!
+
+WARWICK.
+Hirmuista el‰m‰t‰ todistaa
+Noin julma kuolo.
+
+KUNINGAS HENRIK.
+                  ƒlk‰‰ tuomitko;
+Me syntisi‰ kaikki olemme. --
+H‰lt' ummistakaa silm‰t; uudin eteen!
+Ja kaikki hartauteen vaipukaamme.
+
+                       (Menev‰t.)
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Kent. Merenrannikko l‰hell‰ Doveria.
+
+    (Laukauksia kuulun merelt‰. Sen j‰lkeen astuu venheest‰
+    maalle merikapteeni, per‰mies ja alaper‰mies, Valter Mereinen
+    ynn‰ muita; niiden joukossa Suffolk valepukuisena, ja muita
+    ylimyksi‰ vankeina.)
+
+KAPTEENI.
+On kailava ja arka p‰iv‰-lˆrpp‰
+Jo meren helmaan hiipinyt, ja sudet
+Nyt ulvonnallaan her‰tt‰v‰t kaakit,
+Jotk' yˆt‰ murheen-synkk‰‰ hinaavat
+Ja veltot lerppasiipens' yli hautain
+Levittelev‰t, kidast' usmaisesta
+Tymp‰‰v‰‰ pimeytt' ilmaan huokuen.
+Nyt anastetun laivan miehet tuokaa;
+Sill' aikaa s‰rk‰ll‰ kun ankkuroimme,
+He t‰ss‰ lunastakoot henkens‰
+Tai verin s‰rk‰n hiekkaa kirjavoitkoot.
+Tuon vangin sulle annan, per‰mies; --
+Ja, sin‰, alaper‰mies, saat t‰m‰n; --
+Ja tuo (osoittaen Suffolkia) on, Valter Mereinen, sun osas.
+
+1 YLIMYS.
+Per‰mies, mit‰ lunnaiks vaadit? sano.
+
+PERƒMIES.
+Tuhannen kruunuako tai kaula poikki!
+
+ALAPERƒMIES.
+Te saatte saman antaa -- taikka p‰‰nne.
+
+KAPTEENI.
+Tuhannen kruunuako Teist‰ liikaa,
+Ja sent‰‰n k‰ytte ylimyksist‰? --
+P‰‰ poikki konnain! -- Kuolla teid‰n t‰ytyy.
+Ei niiden p‰it‰, jotka meilt‰ kaatui,
+Noin turhan turha raham‰‰r‰ korvaa.
+
+1 YLIMYS.
+Ma maksan sen, kun s‰‰st‰t henkeni.
+
+2 YLIMYS.
+Ja min‰ myˆs; ja heti tilaan rahat.
+
+MEREINEN.
+Kun iskin laivaan, meni multa silm‰;
+(Suffolkille) Ja siit‰ kostoksi sun t‰ytyy kuolla,
+Ja noiden myˆs, jos min‰ p‰‰tt‰‰ saan.
+
+SUFFOLK.
+Ylimys olen: t‰ss' on Yrjˆn-risti;
+Sa vaadi mit‰ vain, ma kaikki maksan.
+
+MEREINEN.
+Ja min‰ myˆskin olen ylimys;
+Nimeni Valter Mereinen. No, mit‰?
+Miks tuijottelet? Kuolemaako pelk‰‰t?
+
+SUFFOLK.
+Nime‰s pelk‰‰n, siin' on kuolon sointaa.
+Minulle tiet‰j‰ on ennustanut
+Mereiseen h‰t‰‰n ett‰ hukkuisin.
+Mut verenhimos ‰lkˆˆn t‰st‰ nousko;
+Nimes' on, oikein ‰‰nt‰in, Merinen.
+
+MEREINEN.
+Mereinen taikka Merinen, yks kaikki!
+Nimeemme viel' ei tahraa ole j‰‰nyt,
+Jot' ei ois siit‰ miekoin pesty pois.
+Siis kostollani jos ma kauppaa hieron,
+Niin miekka multa murskatkaa ja kilpi,
+Ja pelkuriksi minut huutakaa.
+
+    (Iskee kiinni Suffolkiin.)
+
+SUFFOLK.
+Seis, Mereinen, sun vankisi on prinssi,
+Suffolkin herttua, William de la Poole.
+
+MEREINEN.
+Suffolkin herttuako ryysyiss‰?
+
+SUFFOLK.
+Niin, mut n‰‰ ryysyt herttuaan ei kuulu;
+Zeus valepuvuss' oli, miks en min‰?
+
+KAPTEENI.
+Mut Zeus ei surmaans' saanut kuin nyt sin‰.
+
+SUFFOLK.
+Katala moukka, kuninkaan ei verta,
+Ei Lancasterin arvokasta verta
+Saa moinen tallirenki vuodattaa.
+Suutelit k‰tt‰in, jalustinta pidit,
+Lakitta juoksit juhdan vieress‰,
+P‰‰n nyˆkk‰yksest‰ jo autuaana.
+Mua maljain ‰‰ress' usein palvelit,
+Nuoleksit t‰hteit‰, ja pˆyd‰n luona
+Matelit polvillas, kun atrioin
+Ma kuningatar Margareetan kanssa.
+Sa tuota muistele ja harjas laske,
+Ja ajatonta rˆyhkeytt‰s hilli.
+Sa usein seisoit eteisess‰ni
+Ja nˆyr‰st' odottelit tuloani.
+T‰‰ k‰si usein on sua suositellut,
+Ja nyt se tukkii sulta riettaan suun.
+
+MEREINEN.
+Kapteeni, pist‰nkˆ ma tuota konnaa?
+
+KAPTEENI.
+Jahk' ensin min‰ h‰nt‰ sanoin pist‰n,
+Niinkuin h‰n mua pisti.
+
+SUFFOLK.
+                        Halpa orja,
+Sanas on tyls‰t niinkuin sin‰ itse.
+
+KAPTEENI.
+Pois viek‰‰ tuo ja isonveneen laitaan
+P‰‰ katkaiskaa.
+
+SUFFOLK.
+                Siin' omas uskallat.
+
+KAPTEENI.
+Niin, Poole.
+
+SUFFOLK.
+             Poole?
+
+KAPTEENI.
+Poole, puolherra, rupaherra,
+Lika ja loka, jonka saasta sokaa
+Englannin hopeaisen juomal‰hteen.
+Nyt tukin ammottavan suusi tuon,
+Jok' ahminut on valtakunnan aarteet;
+Tomua suudella saa huules, jotk' on
+Kuningatarta suudelleet; ja sin‰,
+Jok' ilkuit hyv‰n Humphrey-herttuan surmaa,
+Nyt suotta irjut tunnotonta tuulta,
+Jok' ivaten sua viuhuu vasten naamaa.
+Vihille mene hornan noitain kanssa,
+Siks ett‰ valtaherralle sa naitit
+Tytt‰ren halvan kuninkaan, mi vailla
+On maata, kruunua ja alamaista.
+Sa pirun-taidollasi suureks kasvoit
+Kuin vallan-ahnas Sulla, herkutellen
+Emosi syd‰nveren pisaroilla.
+Anjoun ja Mainen Ranskalle sa mˆit;
+Sun tauttas ynse‰t normannit meit‰
+Ei kutsu herroikseen; ja Picardie
+Voutimme tappoi, linnat vei, ja miehet
+Verisn‰, ryysyisin‰ kotiin laittoi.
+Ylev‰ Warwick ja Nevilit, jotka
+Ei koskaan suotta miekkaa paljastaneet,
+Vihasta sinuun, s‰il‰‰n tarttuvat;
+York-suku -- jonka hallinnosta syˆksi
+Kuninkaan viattoman halpa murha
+Ja kopea ja rˆyhk‰ hirmuvalta --
+Kostosta palaa; lipuiss' ylv‰iss‰
+Pilkoittaa pilven piilost' aurinkomme,[6]
+Ja alla seisoo: _nubibus invitis_.
+Aseissa kansa t‰‰ll‰ Kentiss' on,
+Ja p‰‰tteeks h‰pe‰ ja mieronkˆyhyys
+On kuninkaamme linnaan hiipinyt;
+Sun syysi kaikki. -- Pois! -- Pois h‰net viek‰‰.
+
+SUFFOLK.
+Josp' oisin Jumala, ja salamoilla
+Nuo kehnot orjat murskata jos saisin!
+V‰h‰ll‰‰n kurja pˆyhkeilee; tuo konna.
+Vain purren p‰‰llikkˆ, on uhkaavampi
+Kuin Bargulus,[7] Illyrian merirosvo.
+Ei kotkain verta ime kuhnurit,
+Vain mehil‰isten pesi‰ ne ryˆst‰‰.
+On mahdotonta, ett‰ minut surmais
+Mokoma halpa palkkamies kuin sin‰.
+Ei nosta sanas katumaa, vaan vihaa.
+Kuningatar mun Ranskaan l‰hetti;
+Ma vaadin, ett‰ joutuin viet mun sinne.
+
+KAPTEENI.
+Mereinen! --
+
+MEREINEN.
+Pois, Suffolk, min‰ kuolemaan sun vien.
+
+SUFFOLK.
+_Gelidus timor occupat artus_: -- sua pelk‰‰n.
+
+MEREINEN.
+Ja syyst‰ pelk‰‰t, sen saat kohta n‰hd‰.
+No, joko poiss' on miehuus? Joko taivut?
+
+1 YLIMYS.
+Rukoile, Suffolk, puhu kauniisti.
+
+SUFFOLK.
+Suffolkin vallaskiel' on tyly, tuima,
+Se voi vain k‰ske‰, ei kerj‰t‰.
+Pois se, ett' alamaisin rukouksin
+Ma mokomia kunnioisin! Ennen
+Panisin p‰‰ni mestauspˆlkylle,
+Kuin polveani muille notkistaisin
+Kuin jumalalleni ja kuninkaalle;
+Niin, ennen p‰‰ni veripuussa keikkuu,
+Kuin halvan orjan eess‰ paljastuu.
+Pelosta tosi-aateli on vapaa:
+Enemm‰n kest‰n, kuin sa tehd‰ tohdit!
+
+KAPTEENI.
+Pois h‰net vie, ja tuki h‰lt‰ suu.
+
+SUFFOLK.
+Soturit, n‰ytt‰k‰‰ nyt julmuutenne,
+Ett' ikikuuluks tulis kuolemani. --
+Saa konnilt' usein suuret miehet surman:
+Niin roomalainen miekkailija-orja
+Hyv‰n tappoi Tullion; ‰p‰r‰ Brutus
+Caesarin surmas; villi saarikansa
+Pompejon; rosvot murhaa Suffolkin.
+
+    (Suffolk menee Mereisen ja muiden kanssa.)
+
+KAPTEENI.
+Nyt niist‰, joiden lunnaat m‰‰r‰simme,
+Saa toinen menn‰, niin on tahtomme;
+Te tulkaa siis, ja tuo saa l‰hte‰.
+
+    (Kaikki menev‰t, paitsi ensimm‰inen ylimys.)
+    (Mereinen palaa, kantaen Suffolkin ruumista.)
+
+MEREINEN.
+Tuoss' olkoon p‰‰ ja ruumis, siksi kuin
+Ne kuningatar, lemmikkins‰, hautaa.
+
+                           (Menee.)
+
+I YLIMYS.
+Oi, verist‰ ja julmaa n‰ytelm‰‰!
+Tuon ruumiin kuninkaalle vied‰ tahdon.
+Jos h‰n ei kosta, kostaa yst‰v‰t
+Ja kuningatar, joka h‰nt‰ lempi.
+
+          (Kantaa pois ruumiin.)
+
+
+Toinen kohtaus.
+
+    Blackheath.
+
+    (Yrjˆ Bevis ja Juho Holland tulevat.)
+
+YRJ÷.
+Kas niin, hanki nyt miekka itsellesi, vaikka puusta tehty; he ovat jo
+kaksi p‰iv‰‰ olleet jalkeilla.
+
+JUHO.
+Sit‰ tarpeellisempi heille, ett‰ p‰‰sev‰t lepoon.
+
+YRJ÷.
+Tied‰pp‰s, ett‰ Jack Cade, verkakankuri, aikoo siistit‰ yhteiskuntaa,
+ja k‰‰nt‰‰ ja uudelleen sit‰ nukittaa.
+
+JUHO.
+Se onkin tarpeellista, sill‰ se alkaa jo olla nukkavieru. Sen totta
+sanon, ett‰ t‰‰ll‰ Englannissa ei ole ollut mit‰‰n rattoa, sitten kuin
+aateliset rupesivat nousemaan.
+
+YRJ÷.
+Oi, surkeita aikoja! K‰sityˆl‰isten kuntoon ei panna mit‰‰n arvoa.
+
+JUHO.
+Aateli pit‰‰ h‰pe‰n‰ kantaa etunahkaa.
+
+YRJ÷.
+Ja mik‰ viel‰ pahempaa: kuninkaan neuvosmiehet eiv‰t ole hyvi‰
+tyˆmiehi‰.
+
+JUHO.
+Niin oikein, ja kuitenkin sanotaan kirjassa: "tee tyˆt‰ ammatissasi",
+joka merkitsee sit‰, ett‰ hallitusmiesten pit‰‰ olla tyˆmiehi‰; ja siis
+pit‰isi meid‰n olla hallitusmiehin‰.
+
+YRJ÷.
+Oksaan osattu! Ei ole parempaa kelpo syd‰mmen tunnusmerkki‰ kuin kova
+k‰si.
+
+JUHO.
+N‰en heid‰t, n‰en heid‰t! Siin‰ on Bestin poika, nahkuri
+Winghamista, --
+
+YRJ÷.
+H‰n saa vihollistemme nahat, tehd‰kseen niist‰ koirannahkaa.
+
+JUHO.
+Ja Dick, teurastaja, --
+
+YRJ÷.
+No, silloin sit‰ synti‰ nuijataan otsaan kuin h‰rk‰‰ ja v‰‰ryydelt‰
+leikataan kurkku kuin vasikalta.
+
+JUHO.
+Ja Smith, kankuri, --
+
+YRJ÷.
+_Argo_, niiden el‰m‰nlanka on kehr‰tty.
+
+JUHO.
+Tulkaa, lyˆtt‰ytyk‰‰mme noiden seuraan.
+
+    (Rummunp‰rrytyst‰. Cade, Dick teurastaja,
+    Smith kankuri ja suuri joukko muita tulee.)
+
+CADE.
+Me, John Cade, siksi kutsuttu luulotellun is‰mme mukaan, -- sill‰
+vihollistemme pit‰‰ kaatua maahan meid‰n eteemme, -- hengen
+kutsumuksesta kutsuttu kukistamaan kuninkaita ja ruhtinaita -- vaadimme
+hiljaisuutta!
+
+DICK.
+Hiljaa!
+
+CADE.
+Is‰ni oli Mortimereja, --
+
+DICK (syrj‰‰n).
+H‰n oli kunnon mies ja hyv‰ muurari.
+
+CADE.
+ƒitini oli Plantageneteja, --
+
+DICK (syrj‰‰n).
+Tunsin h‰net hyvin, h‰n oli lasten‰mm‰.
+
+CADE.
+Vaimoni oli Lacyn sukua.
+
+DICK (syrj‰‰n).
+Niin tosiaankin, h‰n oli kulkukauppiaan tyt‰r ja myyskenteli lasia.
+
+SMITH (syrj‰‰n).
+Mutta nyt, kun ei en‰‰ jaksa reppua kantaa, on h‰n ruvennut
+kotipyykk‰riksi.
+
+CADE.
+Niinmuodoin olen min‰ kunniakkaasta huoneesta.
+
+DICK (syrj‰‰n).
+Niin, totisesti, sill‰ paljas maa on kunniakas paikka, ja siin‰ h‰n
+syntyi, pensaan takana; sill‰ h‰nen is‰ll‰‰n ei ollut muuta huonetta
+kuin tyrm‰.
+
+CADE.
+Mielt‰ minussa on.
+
+SMITH (syrj‰‰n).
+Niin kyll‰, mielt‰ sit‰ kerj‰tess‰kin tarvitaan.
+
+CADE.
+Paljon min‰ voin kest‰‰.
+
+DICK (syrj‰‰n).
+Siit‰kˆs puhettakaan; olen n‰hnyt h‰nt‰ piiskattavan kolmena
+markkinap‰iv‰n‰ per‰tysten.
+
+CADE.
+En pelk‰‰ miekkaa enk‰ tulta.
+
+SMITH (syrj‰‰n).
+Miekkaa h‰nen ei tarvis pel‰t‰, sill‰ h‰nen takissaan ei ole pist‰m‰n
+paikkaa.
+
+DICK (syrj‰‰n).
+Mutta tulta h‰nen tulisi pel‰t‰, sill‰ h‰nell‰ on k‰dess‰ poltinmerkki
+lampaan varkaudesta,
+
+CADE.
+Olkaa siis urhoollisia, sill‰ p‰‰llikkˆnne on urhoollinen ja lupaa
+panna toimeen parannuksia. Englannissa pit‰‰ saada vastedes ostaa
+seitsem‰n puolen-pennin s‰mpyl‰‰ yhdell‰ pennill‰; kolmen korttelin
+kannun pit‰‰ vet‰‰ kymmenen korttelia; ja kaljaa ei saa juoda, se on
+kuolemanrikos. Kaikki valtakunnassa tulee olla yhteist‰,[8] ja minun
+paraatihevoseni pit‰‰ k‰yd‰ Cheapsidess‰ laitumella. Ja kun min‰ tulen
+kuninkaaksi, -- ja kuninkaaksi min‰ tulen. --
+
+KAIKKI.
+Jumala varjelkoon teid‰n majesteettianne!
+
+CADE.
+Kiitoksia vain, hyv‰t kansalaiset! -- niin ei en‰‰ tarvita mit‰‰n
+rahaa, sill‰ kaikki saavat syˆd‰ ja juoda minun kustannuksellani; ja
+min‰ puetan kaikki samaan pukuun, niin ett‰ he olisivat yksimieliset
+kuin veljekset ja kunnioittaisivat minua herranaan.
+
+DICK.
+Ensi tyˆksi tapamme kaikki lakiherrat.
+
+CADE.
+No, senh‰n min‰ aionkin tehd‰. Eikˆ ole surkuteltavaa, ett‰ viattoman
+lampaan nahasta tehd‰‰n pergamenttia; joka pergamentti, kun sit‰ v‰h‰n
+tˆhrit‰‰n, voi tehd‰ lopun ihmisest‰. Sanotaan, ett‰ mehil‰iset
+pist‰v‰t; mutta min‰ sanon, ett‰ mehil‰isten vaha sen tekee, sill‰
+yhden ainoan kerran olen pannut sinettini paperiin, ja siit‰ asti en
+ole hetke‰k‰‰n ollut omassa nahassani. Mit‰ nyt? Kuka se siell‰?
+
+    (Muutamia tulee, tuoden mukanaan Chathamin kirjurin.)
+
+SMITH.
+Chathamin kirjuri; h‰n osaa kirjoittaa ja lukea ja laskea.
+
+CADE.
+Oi, inhottavaa!
+
+SMITH.
+Me tapasimme h‰nen korjaamassa oppilaittensa kirjoituksia.
+
+CADE.
+Sekˆs vasta konna!
+
+SMITH.
+H‰nell‰ on taskussa kirja, jossa on punaisia puustaveita.
+
+CADE.
+Mutta h‰np‰s on oikea velho.
+
+SMITH.
+H‰n osaa laittaa supliikkeja ja kirjoittaa virkakirjoitusta.
+
+CADE.
+Ik‰v‰ seikka: se mies on, totta viekˆˆn, kunnon mies; h‰n ei saa
+kuolla, jos vain en h‰nt‰ syylliseksi lˆyd‰. -- Tule t‰nne, mies,
+tahdon sinua tutkia. Mik‰ on nimesi?
+
+KIRJURI.
+Emanuel.
+
+DICK.
+Niin ruukataan kirjoittaa julkisten kuulutusten otsaan. -- Sinun tulee
+k‰ym‰‰n hullusti.
+
+CADE.
+Anna sin‰ minun puhua. -- Ruukaatko itse kirjoittaa nimesi, vai
+k‰yt‰tkˆ puumerkki‰, niinkuin muut kunnialliset arki-ihmiset?
+
+KIRJURI.
+Olen, Jumalan kiitos, saanut niin hyv‰n kasvatuksen, ett‰ osaan
+kirjoittaa nimeni.
+
+KAIKKI.
+H‰n on tunnustanut; viek‰‰ pois h‰net! H‰n on konna ja petturi.
+
+CADE.
+Viek‰‰ pois h‰net, sanon min‰! Hirtt‰k‰‰ h‰net, kyn‰ ja mustepullo
+kaulassa.
+
+    (Kirjuri vied‰‰n pois.)
+
+    (Mikko tulee.)
+
+MIKKO. Miss‰ on ylip‰‰llikkˆmme?
+
+CADE.
+T‰ss‰ min‰ olen, sin‰ alas‰lli.
+
+MIKKO.
+Pakoon, pakoon, pakoon! Sir Humphrey Stafford ja h‰nen veljens‰ ovat
+kuninkaan sotavoiman kanssa aivan l‰hell‰.
+
+CADE.
+Seis, konna, seis, tai hakkaan sinut maahan! H‰np‰s tulee tekemisiin
+miehen kanssa, joka on yht‰ hyv‰ kuin h‰n itse. Eih‰n h‰n ole muuta
+kuin ritari, vai mit‰?
+
+MIKKO.
+Ei.
+
+CADE.
+Tullakseni h‰nen vertaisekseen, tahdon lyˆd‰ itseni ritariksi heti
+paikalla. (Polvistuu.) Nouse, sir John Mortimer! Ja nyt h‰nen
+kimppuunsa!
+
+    (Sir Humphrey Stafford ja h‰nen veljens‰ William tulevat
+    sotajoukkoineen rumpujen soidessa.)
+
+STAFFORD.
+Kapina-roistot, Kentin loka, saasta,
+Aseenne heitt‰k‰‰, te hirtehiset!
+Pois kˆlsiinne, ja j‰tt‰k‰‰ tuo moukka!
+Kuningas armias on, jos sen teette.
+
+WILLIAM STAFFORD.
+Mut julma, raivokas ja verenahnas,
+Jos niskuroitte; antaukaa tai kuolkaa!
+
+CADE.
+Viis piittaan noista silkki-orjista!
+Vain teille puhun, hyv‰t kansalaiset,
+Joit' aion t‰st‰ puolin hallita,
+Lain mukaan kruunun perij‰ kun olen.
+
+STAFFORD.
+Katala, is‰s oli muurari,
+Ja itse olet leikkuri, vai mit‰?
+
+CADE.
+Puutarhuri se oli Aatamikin.
+
+STAFFORD.
+Mut se ei kuulu t‰h‰n.
+
+CADE.
+                       Kuuluu kyll‰.
+Mortimer, Marchin kreivi, eikˆ ollut
+H‰n nainut Clarence-herttuan tytt‰ren?
+
+STAFFORD.
+Oli oikein.
+
+CADE.
+Ja t‰st‰ syntyi h‰lle kaksoset.
+
+WILLIAM STAFFORD.
+Valetta!
+
+CADE.
+         Siin‰p‰ se kysymys;
+Mut min‰ sanon, ett‰ se on totta.
+Vanhempi imett‰j‰n hoitoon pantiin
+Ja kerjuu-akka h‰net varasti,
+Kun suvustaan ei tiennyt, ja kun kasvoi,
+Rupesi muurariksi; min‰ olen
+Sen miehen poika, kielt‰k‰‰, jos voitte.
+
+DICK.
+Se on p‰iv‰n selv‰‰; siis h‰nest‰ tehd‰‰n kuningas.
+
+SMITH.
+H‰n muurasi takka-uunin is‰ni taloon, ja siit‰ ovat tiiliskivet el‰vin‰
+todistuksina viel‰ t‰n‰ p‰iv‰n‰: ‰lk‰‰ siis huoliko kielt‰‰.
+
+STAFFORD.
+Siis luotatte tuon kehnon orjan sanaan,
+Jok' asioista puhuu, joit' ei tunne.
+
+KAIKKI.
+Tietysti luotamme; siis, korjatkaa luunne!
+
+WILLIAM STAFFORD.
+Jack Cade, tuon sulle Yorkin herttua neuvoi.
+
+CADE (syrj‰‰n).
+Valehtelee; itse sen olen keksinyt. -- Mene, ukkoseni, sano kuninkaalle
+minun puolestani, ett‰ is‰ns‰, Henrik viidennen, t‰hden, jonka aikana
+pojat pelasivat nappikuoppaa ranskalaisista kruunuista, min‰ suostun
+siihen, ett‰ h‰n saa hallita, mutta min‰ tahdon olla h‰nen
+protektorinsa.
+
+DICK.
+Ja lis‰ksi tahdomme lord Sayn p‰‰n, siksi ett‰ h‰n myi pois Mainen
+herttuakunnan.
+
+CADE.
+Ja siihen meill‰ on laki ja oikeus; sill‰ sen kautta Englanti on tehty
+rammaksi, ja saisi nyt kulkea sauvan varassa, jos en min‰ sit‰
+voimallani kannattaisi. Sen sanon teille, te kuningaskumppanit, ett‰
+tuo lord Say on kuohinut yhteiskunnan ja tehnyt siit‰ salvion; ja
+p‰‰lle p‰‰tteeksi, h‰n osaa puhua ranskaa, ja niinmuodoin h‰n on
+petturi.
+
+STAFFORD.
+Oi, surkeata tiet‰m‰ttˆmyytt‰!
+
+CADE.
+Niin, vastatkaa, jos voitte. Ranskalaiset ovat meid‰n vihollisemme; no
+siis, min‰ vain kysyn: voiko se, joka puhuu vihollisen kielell‰, olla
+hyv‰ neuvonantaja, vai ei?
+
+KAIKKI.
+Ei, ei, ja sen vuoksi me vaadimme h‰nen p‰‰ns‰.
+
+WILLIAM STAFFORD.
+Siis, koska hyv‰t sanat eiv‰t auta,
+Kuninkaan joukot viemme heit‰ vastaan.
+
+STAFFORD.
+Julista, airut, joka kaupungissa,
+Ett' on se petturi, ken Cadeen liittyy;
+Ja joka tappelusta pakenee,
+Se, vaimon, lasten n‰hden, varotukseks
+Tupansa ovipieleen hirtet‰‰n. --
+Kuninkaan yst‰v‰t, mua seuratkaa!
+
+    (Molemmat Staffordit menev‰t sotavoimmeen.)
+
+CADE.
+Te, kansan yst‰v‰t, mua seuratkaa. --
+Vapaus kutsuu, miehi‰ nyt olkaa;
+Kaikk' alas, loordit, aatelit! Ei muita
+Saa armahtaa, kuin kell' on paikkakeng‰t:
+Ne s‰‰st‰v‰‰ on, kunnon v‰ke‰;
+Jos tohtisivat, liittyisiv‰t meihin.
+
+DICK.
+He ovat jo j‰rjestyksess‰, ja marssivat meit‰ vastaan.
+
+CADE.
+Mutta me olemme vasta silloin j‰rjestyksess‰, kun olemme oikein
+ep‰j‰rjestyksess‰. Eteenp‰in, mars!
+
+    (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Toinen kohta Blackheathia.
+
+    (Sotamelskett‰. Molemmat puolueet tulevat ja taistelevat;
+    molemmat Staffordit kaatuvat.)
+
+CADE.
+Miss‰ on Dick, teurastaja Ashfordista?
+
+DICK.
+T‰ss‰.
+
+CADE.
+He kaatuivat tielt‰si kuin lampaat ja h‰rj‰t; ja sin‰ liikuit, niinkuin
+olisit ollut omassa teurastushuoneessasi; ja sen vuoksi min‰ sinut
+palkitsen seuraavalla tavalla: paastoaika tehd‰‰n kahta pitemm‰ksi, ja
+sin‰ saat oikeuden teurastaa sata, yht‰ vailla.
+
+DICK.
+En enemp‰‰ pyyd‰.
+
+CADE.
+Ja, totta puhuen, v‰hemp‰‰ et ansaitse. T‰t‰ min‰ kannan voiton
+merkkin‰, (Ottaa maasta Staffordin asevaruksen.) ja nuo ruumiit saavat
+laahata hevoseni per‰ss‰, kunnes tulen Lontooseen, miss‰ annamme kantaa
+lordmajorin miekkaa edell‰mme.
+
+DICK.
+Jos tahdomme menesty‰ ja jotain hyv‰‰ tehd‰, niin murtakaamme auki
+vankilat ja p‰‰st‰k‰‰mme vangit ulos.
+
+CADE.
+Ole huoleti, kyll‰ min‰ siit‰ vastaan. Tulkaa pois, nyt marssimme
+Lontoota kohti.
+
+    (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Lontoo. Huone kuninkaanlinnassa.
+
+    (Kuningas Henrik lukee anomuskirjaa; herttua Buckingham ja
+    lord Say h‰nen vieress‰‰n; et‰‰ll‰ kuningatar Margareeta,
+    joka suree, Suffolkin p‰‰n yli kumartuneena.)
+
+KUNINGATAR MARGAREETA.
+Sanotaan: suru mielen laimentaa,
+Ja turmelee ja tekee pelokkaaksi.
+Siis itku pois, ja mieti kostoa!
+Mut ken vois itkun heitt‰‰, tuon kun n‰kee?
+Lev‰tkˆˆn tuossa rinnoillani p‰‰;
+Mut miss‰ syleilt‰v‰ni on ruumis?
+
+BUCKINGHAM.
+Mink‰ vastauksen antaa teid‰n armonne kapinoitsijain anomuskirjaan?
+
+KUNINGAS HENRIK.
+L‰het‰n heille jonkun pyh‰n piispan.
+Varjelkoon taivas, ett‰ miekkaan hukkuis
+Niin monta sielu-parkaa! Ennen itse
+Jack Caden kanssa neuvoon k‰yn, kuin sallin
+Verisen sodan heid‰t hukuttaa. --
+Mut varro, luen kertaalleen sen viel‰.
+
+KUNINGATAR MARGAREETA.
+Oi, julmureita! Tuoko kaunis muoto
+Mua hallinnut on niinkuin kiertot‰hti,
+Ja noit' ei voinut s‰‰liin taivuttaa,
+Jotk' eiv‰t ansainneet sit' edes n‰hd‰?
+
+KUNINGAS HENRIK.
+Lord Say, Jack Cade on vannonut, ett' aikoo
+H‰n p‰‰si ottaa.
+
+SAY.
+                 Mutta min‰ toivon,
+Ett' aikoo majesteetti ottaa h‰nen.
+
+KUNINGAS HENRIK.
+Mit', armas puolisoni? Yh‰kˆ
+Suffolkin surmaa valitat ja itket?
+Jos min‰ kuolisin, niin pelk‰‰n, armas,
+Ett'et mua itkis noin.
+
+KUNINGATAR MARGAREETA.
+                       En, yst‰v‰ni,
+En itkisi, vaan eest‰s kuolisin.
+
+    (Sanansaattaja tulee.)
+
+KUNINGAS HENRIK.
+No, mit‰ uutta? Miksi moinen kiire?
+
+SANANSAATTAJA.
+Kapinalliset on Southwarkissa; pakoon!
+Cade julistaa, ett' on h‰n Mortimer
+Ja Clarence-herttuasta polveutuu;
+Valtaajaks sanoo armonne, ja vannoo
+Westminsteriss‰ kruunun ottavansa.
+Sotavoimanansa ryysyinen on joukko
+Tyly‰, raakaa moukkav‰ke‰;
+Lord Staffordin ja t‰m‰n veljen surma
+On heit‰ rohkaissut ja innostanut.
+Lait, opit, hovit, aatelit, ne heist‰
+Rojua vain on, tuhon omaa kaikki.
+
+KUNINGAS HENRIK.
+Oi, jumalattomia ihmisi‰!
+He eiv‰t tied‰ mit‰ tekev‰t.
+
+BUCKINGHAM.
+Palatkaa Killingworthiin, majesteetti,
+Siks kuin on vahva sotavoima koottu.
+
+KUNINGATAR MARGAREETA.
+Oi, Suffolk-herttua jos eloss' oisi,
+Niin kapina ois pian ehk‰isty.
+
+KUNINGAS HENRIK.
+Lord Say, nuo petturit sua vihaavat,
+Siis Killingworthiin tule kanssamme.
+
+SAY.
+N‰in kuninkaani henki joutuis vaaraan:
+Mun n‰kˆni jo heiss‰ vihan nostaa;
+Ja sen vuoks t‰h‰n kaupunkiin ma j‰‰n,
+Ja piilen t‰‰ll‰ miten parhaaks n‰‰n.
+
+    (Toinen sanansaattaja tulee.)
+
+2 SANANSAATTAJA.
+Jack Cade on valloittanut Lontoon sillan;
+Taloistaan l‰htee porvaristo pakoon;
+Alhainen kansa, saalist' ahnehtien,
+Liitt‰ytyy petturiin; he vannovat
+H‰vitt‰v‰ns‰ kaupungin ja linnan.
+
+BUCKINGHAM.
+Pois viipy! Ratsun selk‰‰n!
+
+KUNINGAS HENRIK.
+                            Tule, armas!
+Jumal' on toivomme, H‰n meit‰ auttaa.
+
+KUNINGATAR MARGAREETA.
+Mun meni toivoni, kun Suffolk kaatui.
+
+KUNINGAS HENRIK (Lord Saylle.)
+Hyv‰sti! Kapinoivia ‰l' usko.
+
+BUCKINGHAM.
+ƒl' usko ket‰‰n, pelost' ett‰ petyt.
+
+SAY.
+Viattomuuteeni ma yksin uskon;
+Siks olen rohkea ja pelvoton.
+
+                   (Menev‰t.)
+
+
+Viides kohtaus.
+
+    Tower.
+
+    (Lord Scales ja muita k‰velee muurilla; alhaalle ilmestyy
+    muutamia porvareita.)
+
+SCALES.
+Mit‰ kuuluu? Onko Jack Cade voitettu?
+
+1 PORVARI.
+Ei, mylord, eik‰ silt‰ n‰yt‰k‰‰n; he ovat valloittaneet sillan ja
+tappavat kaikki, jotka heit‰ vastustavat. Lordmajori pyyt‰‰ apua teid‰n
+armoltanne Towerista, puolustaaksen City‰ kapinoitsijoita vastaan.
+
+SCALES.
+Mit' ilman olla voin, sen kaiken annan;
+Mut minuakin ahdistavat he:
+Jo Towerin yrittiv‰t valloittaa.
+Pois Smithfieldiin, ja kootkaa v‰ke‰!
+L‰het‰n avuks sinne Matthew Gough'n.
+Kuninkaan, maan ja hengen eest‰ lyˆk‰‰!
+Hyv‰sti vain! Mun t‰ytyy t‰st‰ menn‰.
+
+                           (Menev‰t.)
+
+
+Kuudes kohtaus.
+
+    Tykkikatu.
+
+    (Jack Cade tulee seuralaisineen. H‰n lyˆ sauvallaan
+    Lontoon-kiveen.[9])
+
+CADE.
+Nyt on Mortimer t‰m‰n kaupungin herra. Ja t‰ss‰, Lontoon-kivell‰
+istuen, s‰‰d‰n ja k‰sken ett‰, kaupungin kustannuksella, Lontoon
+putkikaivosta ei saa juosta muuta kuin punaista viini‰ t‰n‰ meid‰n
+hallituksemme ensimm‰isen‰ vuosikautena. Ja vast'edes on se
+valtiopetosta, jos joku kutsuu minua muuksi kuin lord Mortimeriksi.
+
+    (Soturi tulee juoksujalassa.)
+
+SOTURI.
+Jack Cade! Jack Cade!
+
+CADE.
+Lyˆk‰‰ kuoliaaksi se mies!
+
+    (Lyˆv‰t h‰net kuoliaaksi.)
+
+SMITH.
+Jos tuo mies on viisas, niin ei h‰n en‰‰ koskaan sano teit‰ Jack
+Cadeksi; luulenpa ett‰ h‰n on saanut sangen hyv‰n varoituksen.
+
+DICK.
+Mylord, tuolla on sotajoukko koolla Smithfieldiss‰.
+
+CADE.
+Menn‰‰n siis ja tapellaan niiden kanssa. Mutta ensin menk‰‰ ja pankaa
+Lontoon silta palamaan,[10] ja jos voitte, niin polttakaa myˆskin Tower
+poroksi. Kas niin, mars matkaan!
+
+    (Menev‰t.)
+
+
+Seitsem‰s kohtaus.
+
+    Smithfield.
+
+    (Sotamelskett‰. Toisaalta tulee Cade liittolaisineen;
+    toisaalta porvareita ja kuninkaan sotajoukkoja, Matthew
+    Gough johtajana. Tappelevat; porvarit ajetaan pakoon ja
+    Matthew Gough kaatuu.)
+
+CADE.
+Kas niin, miehet! -- Menk‰‰ nyt toiset ja repik‰‰ maahan Savoija;[11]
+toiset menk‰‰ oikeuslaitoksiin; alas kaikki!
+
+DICK.
+Minulla olisi anomus teid‰n ylh‰isyydellenne.
+
+CADE.
+Vaikka mit‰ ylh‰ist‰ anoisit, niin se sinulle myˆnnet‰‰n tuosta
+sanasta.
+
+DICK.
+Ei muuta mit‰‰n, kuin ett‰ Englannin lait k‰visiv‰t ulos teid‰n
+suustanne.
+
+JUHO (syrj‰‰n).
+Siit‰ tulisi, piru viekˆˆn, veriset lait, sill‰ h‰n sai keih‰‰st‰
+haavan suuhunsa, ja se ei ole viel‰ parantunut.
+
+SMITH (syrj‰‰n).
+Ei, Juho, siit‰ tulisi haisevat lait, sill‰ h‰nen henkens‰ haisee
+paistetulta juustolta.[12]
+
+CADE.
+Min‰ olen asiaa miettinyt; olkoon niin! Menk‰‰ ja polttakaa koko
+valtakunnan arkisto; minun suuni on Englannin parlamenttina.
+
+JUHO (syrj‰‰n).
+Sitte kai saamme purevia asetuksia, jos ei vedet‰ h‰nelt‰ hampaita
+suusta.
+
+CADE.
+Ja t‰st‰l‰hin on kaikki oleva yhteist‰.
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Mylord, saalis, saalis! T‰‰ll‰ on lord Say, joka on myynyt ne Ranskan
+kaupungit; sama mies, joka pani meid‰n maksamaan yksikolmatta
+viisitoistanneksia ja yhden killingin punnalta viimeist‰ sotaveroa.
+
+    (Yrjˆ Bevis tulee lord Sayn kanssa.)
+
+CADE.
+Hyv‰, h‰n on siit‰ hyv‰st‰ kymmenesti mestattava. Haa, sin‰ Say, senkin
+seepekki, senkin seevesi! Nyt sin‰ olet meid‰n kuninkaallisen
+tuomiovaltamme maalitaulun pilkkuna. Mill‰ voit sin‰ minun
+majesteetilleni vastata siit‰, ett‰ olet antanut pois Normandian
+munsˆˆri Baisemonculle, Ranskanmaan Dauphinille? Teht‰kˆˆn se sinulle
+tiett‰v‰ksi t‰ss‰ meid‰n l‰sn‰ollessamme, nimitt‰in lord Mortimerin
+l‰sn‰ollessa, ett‰ min‰ olen se luuta, jonka tulee laasta hovi
+puhtaaksi semmoisesta tˆryst‰ kuin sin‰. Sin‰ olet sangen
+petturimaisesti t‰rvellyt valtakunnan nuorison laittamalla
+latinankoulun; ja vaikka esi-isill‰mme ennen ei ollut muita kirjoja
+kuin pyk‰l‰puu, olet sin‰ keksinyt t‰nne pr‰ntit ja, kuninkaan ja
+kruunun ja majesteetin vastukseksi, rakentanut paperimyllyn. Sinulle
+todistettakoon vasten partaa, ett‰ pid‰t seuranasi ihmisi‰, joilla on
+alinomaa suussa nominat ja verpat ja muut mokomat inhottavat sanat,
+joita ei kristityn korva kest‰ kuulla. Sin‰ olet asettanut
+rauhantuomarit, jotka kutsuvat eteens‰ kˆyhi‰ ihmisi‰ vastaamaan
+asioista, joihin he eiv‰t mit‰‰n voi vastata. P‰‰lle p‰‰tteeksi olet
+sin‰ pannut heit‰ vankeuteen; ja kun eiv‰t ole osanneet lukea, olet
+sin‰ heid‰t hirt‰tt‰nyt: vaikka he juuri siit‰ syyst‰ olisivat enimmin
+ansainneet el‰‰. Sin‰ ratsastat satulaloimella, eikˆ totta?
+
+SAY.
+Mit‰ pahaa siin‰ on?
+
+CADE.
+Ei ole soveliasta, ett‰ sin‰ annat hevosesi k‰yd‰ viitassa, kun
+kunniallisemmat ihmiset kuin sin‰ k‰yv‰t housuissa ja mekossa.
+
+DICK.
+Viel‰p‰ tekev‰t tyˆt‰ paitasillaankin, niinkuin min‰ itse, esimerkiksi,
+joka olen teurastaja.
+
+SAY. Te, Kentin miehet, --
+
+DICK.
+Mit‰ sanot sin‰ Kentist‰?
+
+Say. En muuta kuin t‰m‰n: se on _bona terra, mal agens_.
+
+CADE.
+Viek‰‰ pois, viek‰‰ pois! H‰n haastaa latinaa.
+
+SAY.
+Mua kuulkaa, viek‰‰ sitte, minne mieli.
+Kent, Caesarin on selitysten mukaan,
+Suloisin paikka koko saarella:
+Ihana seutu, hyvyyksi‰ t‰ynn‰;
+Sen kansa rikas, aulis, uljas, uuras;
+Te ette siis voi s‰‰list' olla tyhj‰t.
+En Mainea, en Normandiaa myynyt,
+Takaisin ostaisin ne hengell‰ni.
+Hyv‰ll‰ aina k‰ytin oikeutta;
+Mun rukous, kyynel voitti, eik‰ lahjat.
+Jos mit‰ teilt‰ kiskoin, tarkoitin
+Vain kuninkaan ja maan ja teid‰n turvaa?
+Jakelin oppineille suuret summat,
+Kosk' itse kirjallani armoon p‰‰sin,
+Ja koska n‰in, ett' tiet‰m‰ttˆmyys on
+Jumalan kirous ja ett' on tiede
+Se siipi, jolla noustaan taivaaseen.
+Jos teit' ei itse hornan henget riivaa,
+Niin ette voine mua murhata.
+T‰‰ kieli vieraille on kuninkaille
+Puhunut puolestanne.
+
+CADE.
+Topp! Milloin sin‰ olet iskuakaan iskenyt sotatantereella?
+
+SAY.
+Isoill' on pitk‰t k‰det; usein iskin
+Ma umpim‰hk‰‰n vain, ja hengilt' iskin.
+
+YRJ÷.
+Mik‰ inhottava pelkuri! Mit‰? Karkaa ihmisiin takaap‰in!
+
+SAY.
+N‰‰ posket kalvaaks valvoin teid‰n t‰hden.
+
+CADE.
+Anna h‰nelle korvapuusti, niin tulevat taas punaisiksi.
+
+SAY.
+Heikoks ja sairaaks pitk‰ istuminen
+Mun teki, kˆyh‰in juttuja kun ajoin.
+
+CADE.
+Siis teid‰n pit‰‰ saada v‰h‰n hamppulient‰ ja tapparan apua.
+
+DICK.
+Miksi vapiset, mies?
+
+SAY.
+Mun valtaa halvaus, eik‰ suinkaan pelko.
+
+CADE.
+Kas vain, kuinka h‰n nyˆkk‰‰, niinkuin aikoisi sanoa: kyll‰ teille
+viel‰ n‰yt‰n! Tahdon n‰hd‰, istuuko h‰nen p‰‰ns‰ vakavammin seip‰‰n
+nokassa. Viek‰‰ pois, ja p‰‰ poikki!
+
+SAY.
+Sanokaa, mik' on suurin rikokseni?
+Tavaraa pyysinkˆ vai kunniaa?
+Mull' onko ryˆstˆkultaa kirstut t‰ynn‰?
+Mull' onko vaatteus kalliinn‰kˆinen?
+Ket‰ loukkasin, kun hengen vaaditte?
+K‰si‰ n‰it' ei syytˆn veri tahraa,
+Ja t‰ss' ei rinnass' ole vilpin vikaa.
+Oi, antakaa mun el‰‰!
+
+CADE.
+S‰‰li‰ minussa nuo sanat nostattaa; mutta tahdon sit‰ hillit‰: h‰nen
+t‰ytyy kuolla, jos ei muun vuoksi, niin siksi, ett‰ puhuu niin
+kauniisti henkens‰ puolesta. Pois viek‰‰ h‰net; h‰nell‰ on paholainen
+kielen takana, h‰n ei puhu Jumalan nimess‰. Kas niin, pois se mies,
+sanon min‰, ja p‰‰ poikki heti paikalla! Ja sitten murtaukaa h‰nen
+v‰vyns‰, James Cromerin, taloon ja lyˆk‰‰ h‰nelt‰kin p‰‰ poikki, ja
+tuokaa sitten molemmat t‰nne kahden seip‰‰n nen‰ss‰.
+
+KAIKKI.
+Se on tapahtuva.
+
+SAY.
+Maanmiehet, oi, jos rukouksillenne
+Jumala ois niin kuuro kuin te itse,
+Niin kuink' ois kuoltuanne sielun laita?
+Siis leppyk‰‰, ja suokaa minun el‰‰.
+
+CADE.
+Pois viek‰‰ h‰net ja tehk‰‰ niinkuin teit‰ k‰skin.
+
+    (Lord Say vied‰‰n pois.)
+
+Ylpein p‰‰ri valtakunnassa ei saa kantaa p‰‰t‰k‰‰n hartioillaan, jos ei
+siit‰ maksa minulle veroa; ei yksik‰‰n tyttˆ saa naimisiin menn‰, jos
+ei anna minulle piikuuttaan, ennenkuin muut sen saavat. Miesten tulee
+olla minun allani _in capite_; ja me s‰‰d‰mme ja k‰skemme, ett‰ heid‰n
+vaimonsa pit‰‰ olla niin vapaat, kuin syd‰n voi toivoa tai kieli voi
+kertoa.
+
+DICK.
+Mylord, milloin menemme Cheapsideen ja teemme jakoa pistimill‰mme?
+
+CADE.
+Heti paikalla.
+
+KAIKKI.
+Ihanaa, ihanaa!
+
+    (Kapinoitsijat palaavat, tuoden mukanaan lord Sayn
+    ja h‰nen v‰vyns‰ p‰‰t.)
+
+CADE.
+Mutta eikˆ t‰m‰ ole viel‰ ihanampaa? Pankaa heit‰ suutelemaan toisiaan;
+he pitiv‰t el‰ess‰‰n niin paljon toisistaan. Erottakaa heid‰t taas,
+muuten neuvottelevat, miten antaisivat pois viel‰ useampia kaupunkeja
+Ranskassa. Soturit, j‰tt‰k‰‰ kaupungin ryˆst‰minen illaksi, sill‰ me
+tahdomme ratsastaa katuja pitkin, n‰m‰ seip‰‰t valtikkoina edell‰mme;
+ja joka kadun kulmassa tulee niiden suudella. -- Mars matkaan!
+
+    (Menev‰t.)
+
+
+Kahdeksas kohtaus.
+
+    Southwark.
+
+    (Sotamelskett‰. Cade roistojoukkoineen tulee.)
+
+CADE.
+Kalastaja-katua ylˆs! Pyh‰n Maunun kulmasta alas! Lyˆk‰‰ ja tappakaa!
+Heitt‰k‰‰ Thamesiin! -- (Soitetaan keskusteluun ja sitten
+paluumatkalle.) Mit‰ melua kuulen? Uskaltaako kukaan soittaa
+keskusteluun tai paluumatkalle, kun min‰ olen k‰skenyt tappaa?
+
+    (Buckingham ja vanha Clifford tulevat sotajoukkoineen.)
+
+BUCKINGHAM.
+T‰ss' ovat ne, jotk' uskaltaa ja tahtoo
+Sua h‰irit‰. Siis tied‰, Cade: me tullaan
+Kuninkaan l‰hettein‰ kansalle,
+Jot' olet sin‰ harhaan johtanut;
+Ja armon julistamme jokaiselle,
+Ken luopuu sinusta ja menee kotiin.
+
+CLIFFORD.
+No, kansalaiset, mit‰? Suostutteko
+Ja tartutteko armoon tarjottuun,
+Vai roistojenko kera surmaan k‰ytte?
+Ken kuninkaan on mies ja armoon taipuu,
+Se hattuansa heilutelkoon, huutain:
+Jumala kuningasta varjelkoon!
+Ken t‰t‰ vihaa sek‰ t‰m‰n is‰‰,
+Viidett‰ Henrikki‰, Ranskan vitsaa,
+Asettaan puistakoon ja menkˆˆn matkaan.
+
+KAIKKI.
+Jumala kuningasta varjelkoon!
+
+CADE.
+Mit‰, Buckingham ja Clifford, oletteko te noin urheita poikia? -- Ja
+te, halvat moukat, uskotteko te h‰nt‰? Tahdotteko v‰ltt‰m‰tt‰ menn‰
+hirteen, armo kaulassa? Siksikˆ miekkani on murtanut Lontoon portit,
+ett‰ te minut hylk‰isitte Valkean-hirven luona Southwarkissa? Luulin,
+ettette koskaan heitt‰isi aseitanne, ennenkuin olisitte takaisin
+voittaneet vanhan vapautenne; mutta te olette kaikki raukkoja ja
+pelkureita ja mielell‰nne el‰tte aateliston orjuudessa. Taittakoot he
+vain selk‰nne taakoillaan, viekˆˆt huoneet p‰‰nne p‰‰lt‰, raiskatkoot
+vaimonne ja tytt‰renne teid‰n silm‰inne edess‰; mit‰ minuun tulee, niin
+min‰ nyt ponnistain vain yhden puolesta, ja niin -- Jumalan kirous
+teit‰ kaikkia kohdatkoon!
+
+KAIKKI.
+Me seuraamme Cadea, me seuraamme Cadea.
+
+CLIFFORD.
+Cade h‰nkˆ Henrik viidennen on poika,
+Kun kiljaisitte h‰nt‰ seuraavanne?
+H‰n Ranskaan teid‰t johtaako ja tekee
+Halvimmastakin herttuan ja kreivin?
+Ah! H‰ll' ei kotia, ei pakopaikkaa;
+Ja muu ei h‰nt‰ el‰t‰ kuin saalis,
+Jonk' yst‰vilt‰nne ja meilt‰ ryˆst‰‰.
+Oi h‰pe‰‰, jos, teid‰n kiistelless‰,
+Nuo voittamanne vauhkot ranskalaiset
+Meritse saapuis teid‰t voittamaan!
+Jo t‰ss‰ kansais-sodassa ma heid‰t
+N‰en Lontoon kaduill' ylv‰stelev‰n,
+Kiljaisten jokaiselle: _Villageois!_
+Ei, ennen tuhat Cadea kaatukoon,
+Kuin ett‰ Ranskan armoon taipuisitte!
+Pois Ranskaan, voittamaan min menetitte!
+Englannin kotiranta s‰‰st‰k‰‰!
+Rahaa on Henrikill‰, teill‰ voimaa;
+Jumal' on apumme, ja voitto varma.
+
+KAIKKI.
+El‰kˆˆn Clifford! El‰kˆˆn! Me seuraamme kuningasta ja Cliffordia.
+
+CADE.
+Voiko hˆyhent‰k‰‰n niin herk‰sti sinne ja t‰nne puhaltaa kuin tuota
+joukkoa? Henrik viidennen nimi vet‰‰ heid‰t senkin satoihin
+onnettomuuksiin ja panee heid‰t j‰tt‰m‰‰n minut pulaan. N‰en jo, kuinka
+lyˆv‰t p‰‰ns‰ yhteen hyˆk‰t‰kseen minun kimppuuni. Miekkani minulle
+tiet‰ raivatkoon, sill‰ t‰nne ei auta j‰‰d‰. -- Helvetin ja
+perkeleitten uhallakin hyˆkk‰‰n suoraa p‰‰t‰ teid‰n l‰vitsenne; ja
+taivas ja kunnia olkoot todistajani, ettei rohkeuden puute minussa,
+vaan ainoastaan seuralaisteni halpa ja h‰pe‰llinen petos ajaa minut
+k‰p‰l‰m‰keen.
+
+    (Menee.)
+
+BUCKINGHAM.
+Pakoonko l‰hti? Takaa ajakaa!
+Ken h‰nen p‰‰ns‰ kuninkaalle tuo,
+Se tuhat kruunua saa vaivastansa.
+
+    (Muutamat joukosta menev‰t.)
+
+Soturit, tulkaa; mietin, mill‰ keinoin
+Kuninkaan kanssa teid‰t sovitan.
+
+                      (Menev‰t.)
+
+
+Yhdeks‰s kohtaus.
+
+    Kenilworthin linna.
+
+    (Torventoitauksia, Kuningas Henrik, kuningatar Margareeta
+    ja Somerset tulevat linnan terassille.)
+
+KUNINGAS HENRIK.
+Maan p‰‰ll‰ liekˆ kuningasta toista,
+Joll' iloa ois v‰hemm‰n kuin mulla?
+Kehdosta tuskin kˆmpyrˆin, kun tulin
+Yhdeks‰n-kuisena jo kuninkaaksi.
+Niin kruunua ei halaa alamainen,
+Kuin min‰ alamaisen tilaa halaan.
+
+    (Buckingham ja Clifford tulevat.)
+
+BUCKINGHAM.
+Kuningas, terve! Ilon sanomia!
+
+KUNINGAS HENRIK.
+Cade petturiko vangittu? Vai onko
+Paennut ko'otakseen lis‰‰ voimaa?
+
+    (Alhaalle ilmestyy joukko Caden seuralaisia, nuora kaulassa.)
+
+CLIFFORD.
+H‰n pakeni, ja joukkons' antautui;
+Nyt, naru kaulass', odottavat nˆyr‰st'
+Elon tai kuolon tuomiota teilt‰.
+
+KUNINGAS HENRIK.
+Oi, taivas, porttis avaa ikuiset
+Ja ota vastaan ylistys ja kiitos! --
+Henkenne t‰n‰‰n lunastitte, miehet,
+Ja osoititte, kuinka maatanne
+Ja kuningastanne te rakastatte.
+Pysyk‰‰ siin‰ kunnon mieless' yh‰,
+Ja Henrik, vaikka onkin onneton,
+Ei koskaan ole armoton, se varma.
+N‰in kiitoksen ja armon teille suoden,
+Nyt p‰‰st‰n teid‰t kunkin maallensa.
+
+KAIKKI.
+Jumala kuningasta varjelkoon!
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Kuningas, saanko luvan kertoa,
+Ett' ‰sken York on tullut Irlannista.
+Mukanaan valtava ja suuri joukko
+On kernej‰ ja gallowglasseja,[13]
+Ja uljaassa nyt marssiss' astuu t‰nne,
+Julistain kaikkialla, ett‰ h‰ll‰
+Vain mieless‰ on luotas karkoittaa
+Somerset, jota sanoo petturiksi.
+
+KUNINGAS HENRIK.
+N‰in Caden v‰lill‰ ja Yorkin v‰rjyn
+Kuin laiva, joka, v‰ltetty‰‰n myrskyn,
+Tyyness‰ joutuu merirosvoin k‰siin.
+Cade joukkoineen on tuskin pakoon lyˆty,
+Kun York jo asestuu h‰nt' auttaakseen. --
+Buckingham hyv‰, mene h‰nt‰ vastaan
+Ja kysy, miksi aseiss' on, ja sano
+Ett' Edmund-herttuan laitan Toweriin; --
+Ja, Somerset, sua siell‰ s‰ilyt‰n,
+Siks kunnes joukkons' on h‰n hajoittanut.
+
+SOMERSET.
+Kuningas hyv‰,
+Ma omin ehdoin menen vankeuteen
+Tai kuolemaan, jos maani etu vaatii.
+
+KUNINGAS HENRIK.
+Mut muista, ett‰ tylysti et haasta:
+Kopea on h‰n, kovaa kielt' ei sied‰.
+
+BUCKINGHAM.
+Tahtonne teen; ja toivon ett‰ k‰‰ntyy
+Hyv‰ksi kaikki.
+
+KUNINGAS HENRIK.
+                Tule, puolisoni;
+Paremmin hallitsemaan oppikaamme;
+Viel' Englanti mun hallintaani kiroo.
+
+                           (Menev‰t.)
+
+
+Kymmenes kohtaus.
+
+    Kent. Idenin puisto.
+
+    (Cade tulee.)
+
+CADE.
+Riivatun kunnianhimo! Riivattu min‰ itse, kun kannan miekkaa, ja
+kuitenkin olen kuolla n‰lk‰‰n! Kokonaista viisi p‰iv‰‰ olen piillyt
+n‰iss‰ metsiss‰, enk‰ tohdi t‰‰lt‰ ulos kurkistaakaan, sill‰ koko maa
+minua v‰ijyy. Mutta nyt olen niin n‰liss‰ni, ett‰, vaikka saisin tuhat
+vuotta el‰m‰n vuokra-aikaa, en voisi en‰‰ kest‰‰ kauempaa. Sen vuoksi
+olen kiivennyt muurin yli t‰h‰n puutarhaan n‰hd‰kseni, voinko syˆd‰
+ruohoa tai poimia muutteesta v‰h‰n kyp‰r‰kaalia, joka ei ole hullumpaa
+vatsanj‰‰hdykett‰ t‰ss‰ kuumuudessa. Luulenpa, ett‰ se kyp‰r‰-sana on
+tehty aivan minua varten; monta kertaa olisi tappara halkaissut
+kalloni, jos ei olisi minulla kyp‰r‰‰ ollut; ja monta kertaa, kun olen
+vahvasta marssista saanut palavan, olen juonut siit‰ niinkuin
+halstoopinpullosta; ja nyt se sana kyp‰r‰ saa k‰yd‰ ruoan verosta.
+
+    (Iden tulee palvelijoilleen.)
+
+IDEN.
+Oi, kuka tahtois hovin humuss' el‰‰,
+Maan tyynt‰ rauhaa kun saa nauttia?
+T‰‰ pieni maa, jonk' is‰lt‰ni perin,
+Kuningaskunnan arvoinen on mulle.
+En tahdo nousta muiden h‰viˆst‰,
+En koota kultaa, tiesi mill‰ keinoin;
+Ma tyydyn, kun saan elantoni vain,
+Ja kerj‰l‰ist' en tyˆnn‰ oveltain.
+
+CADE.
+Tuossa tulee kartanon herra ja ottaa minut kiinni maankuljeksijana, kun
+olen luvatta tullut h‰nen tiluksilleen. -- Haa, konna, sin‰ tahdot
+pett‰‰ minut ja saada tuhat kruunua kuninkaalta, kun viet h‰nelle minun
+p‰‰ni! Mutta min‰p‰ opetan sinua syˆm‰‰n rautaa niinkuin kamelikurki,
+ja nielem‰‰n miekkani niinkuin suuren nuppineulan, ennenkuin t‰st‰
+eri‰mme.
+
+IDEN.
+Haa, raaka mies, ken lietkin! En sua tunne;
+Kuin siis sun pett‰isin! Siin' eikˆ kyll‰,
+Ett' omaan puistooni sa tunkeut
+Ja niinkuin rosvo mua ryˆst‰‰ tahdot,
+Kavuten varkain yli muurini?
+Ja herjasanoinko mua viel‰ uhmaat?
+
+CADE.
+Sua uhmaanko? Niin, sen teen, kautta parhaimman veren, mit‰ ik‰n‰ on
+juoksutettu; nyk‰isenp‰ viel‰ sua parrastakin. Katso tarkasti minuun:
+en ole viiteen p‰iv‰‰n einett‰k‰‰n haukannut, ja kuitenkin, tule sin‰
+vain viiden miehesi kanssa, ja jos en teit‰ kaikkia nutista hengen
+pisarattomiksi, niin rukoilen Jumalaa, etten koskaan en‰‰ ruohoa sˆisi.
+
+IDEN.
+Niin kauan kuin on pystyss' Englanti,
+Ei sanota, ett' Aleksander Iden,
+'sqvire Kentist‰, on n‰lk‰suolen kanssa
+Ruvennut ep‰tasaan tappeluun.
+Silm‰‰ni vastaan pane siirosilm‰s,
+Niin n‰et, mun s‰ikyt‰tkˆ katseellasi;
+Vastakkain raajat, niin n‰et heikkoutesi.
+T‰‰n nyrkin suhteen k‰tes on vain sormi;
+Vain tikku s‰‰res t‰t‰ rankaa vastaan;
+Mun jalkani sun koko voimas voittaa;
+Kun ilmaan nostan k‰sivarteni,
+Niin hautas on jo maahan kaivettuna.
+Sanaasi pˆyhk‰‰n sanaa antamatta
+T‰‰ miekka puhukoon mit' ei voi kieli.
+
+CADE.
+Kautta miehuuteni, muhkein miekkailija, mist‰ ik‰n‰ni olen kuullut! --
+Rauta, jos nyt ter‰si pett‰‰ eik‰ tuota jykev‰luista kolhoa survo
+pelkiksi lihaviipaleiksi, ennenkuin taasen tupessasi lep‰‰t, niin
+rukoilen polvillani Jupiteria, ett‰ muuttuisit hevosenkenk‰naulaksi.
+(Taistelevat. Cade kaatuu.) Oi, olen mennyt mies! N‰lk‰, eik‰ mik‰‰n
+muu, on minut tappanut. Tulkoon vaikka kymmenen tuhatta perkelett‰
+kimppuuni, niin, kun vain saan nuo kymmenen hukkaan mennytt‰ ateriaa
+korvatuksi, k‰yn niit‰ kaikkia vastaan! -- Lakastu, puisto, ja ole
+t‰st‰ l‰htien hautauspaikkana kaikille, jotka t‰ss‰ talossa asuvat,
+siksi ett‰ Caden voittamaton sielu t‰‰lt‰ pakoon lensi.
+
+IDEN.
+Cadenko, julkipetturinko tapoin?
+Sun, miekka, t‰st‰ tyˆst‰ pyhit‰n
+Ja haudalleni panetan, kun kuolen.
+K‰rjest‰s tuot' ei verta pois saa pest‰,
+Vaan se sua peitt‰kˆˆn kuin airutkaapu,
+Julistain is‰nt‰si kunniaa.
+
+CADE.
+Hyv‰sti, Iden, ja ole ylpe‰ voitostasi. Vie terveiseni Kentiin ja sano,
+ett‰ se on menett‰nyt parhaimman miehens‰, ja kehoita koko maailmaa
+rupeamaan pelkuriksi; sill‰ minut, joka en koskaan mit‰‰n pel‰nnyt, on
+voittanut n‰lk‰, eik‰ miehuus.
+
+    (Kuolee.)
+
+IDEN.
+Teet mulle v‰‰ryytt‰, sen tiet‰‰ taivas.
+Katala, kuole, sin‰, maasi kirous!
+Ja niinkuin ruumiisees tuon miekan tyˆnn‰n,
+Niin sielus tyˆnt‰isin ma helvettiin.
+P‰istikkaa sinut kantap‰ist‰ kiskon
+Pois tunkiolle, jossa hautas olkoon;
+Siell' inhottavan p‰‰si katkaisen,
+Ja vien sen riemusaatoin kuninkaalle,
+Mut ruumiis heit‰n korpin ruoaksi.
+
+    (Menee palvelijoineen, kiskoen per‰ss‰‰n ruumista.)
+
+
+
+
+VIIDES NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Tasanko Dartfordin ja Blackheathin v‰lill‰.
+
+    (Toisella sivulla kuninkaan leiri. Toiselta sivulta tulee
+    York liehuvin lipuin ja helisevin soitoin; h‰nen sotavoimansa
+    n‰kyy et‰‰lt‰.)
+
+YORK.
+N‰in Irlannista tulee York ja vaatii
+Nyt oikeuttaan ja kruunun riist‰‰ heikon
+Henrikin p‰‰st‰. Kellot, ‰‰neen soikaa!
+Kirkkaasti, ilotulet, leimutkaa
+Laillista kuningasta tervehtien!
+Ah, _sancta majestas_, kuink' olit kallis!
+Se totelkoon, ken hallita ei osaa;
+K‰si t‰‰ vain kultaa pit‰m‰‰n on luotu;
+En sanoilleni t‰ytt‰ pontta saa,
+Jos sit' ei valtikka tai miekka anna.
+Totta kuin el‰n, tahdon valtikan,
+Jonk' ymp‰rille Ranskan liljat k‰‰rin.
+
+    (Buckingham tulee.)
+
+Ken tulee? Buckingham, mua h‰iritsem‰‰n?
+Kuninkaan luota varmaan? Teeskelk‰‰mme!
+
+BUCKINGHAM.
+Jos hyv‰‰ aiot, York, niin tervetullut.
+
+YORK.
+Buckingham, tervehdykses otan vastaan.
+Tuletko k‰skyst‰, vai muuten vain?
+
+BUCKINGHAM.
+Henrikin, majesteetin, k‰skyst‰
+Kysym‰‰n, mit‰ rauhass' aseet tiet‰‰?
+Miks sin‰, alamainen niinkuin min‰,
+Ja vastoin pyh‰‰ uskollisuusvalaa,
+Ker‰sit omin p‰in noin suuren joukon,
+Ja hovin eteen n‰in sen tuoda tohdit?
+
+YORK (syrj‰‰n).
+Voin tuskin puhua, niin kiehuu sappi.
+Piin voisin pirstata ja vuoren murtaa,
+Niin halvat sanat nuo mua suututtaa.
+Kuin Ajax Telamonius nyt voisin
+Vihani purkaa lampaisiin ja h‰rkiin.
+Suursukuisempi olen kuningasta,
+Ja mielelt‰kin kuninkaallisempi;
+Mut nˆyrty‰ mun t‰ytyy, kunnes Henrik
+On heikennyt ja min‰ voimistunut. --
+Oi, Buckingham, ma pyyd‰n, anteeks suo,
+Odottaa sait n‰in kauan vastausta:
+Mun sieluani vaivaa raskas synkkyys.
+Syy, miksi sotajoukon toin, on se,
+Ett' aioin ylv‰n Somersetin poistaa,
+Jost' uhkaa maalle on ja kuninkaalle.
+
+BUCKINGHAM.
+Se liioin rohkea on teko sulta;
+Mut jos ei muuta mielt‰ hankkeillas,
+Niin t‰ytt‰nyt on Henrik vaatimukses:
+Jo Toweriss' on herttua Somerset.
+
+YORK.
+Sano kunniasi kautta: vankinako?
+
+BUCKINGHAM.
+Niin, kunniani kautta: vankina.
+
+YORK.
+Siis joukkoni ma p‰‰st‰n, Buckingham. --
+Soturit, kiitos teille; kotiin menk‰‰;
+Huomenna tulkaa Yrjˆn kedolle,
+Niin saatte palkkanne ja mit‰ mieli. --
+Jos valtiaani, hurskas Henrik, vaatii
+Uskollisuus- ja alamaisuus-pantiks
+Vanhimman poikani -- tai kaikki pojat, --
+Niin annan ne niin mielisti kuin el‰n.
+Maat, ratsut, aseet, tavarat, niin, kaikki
+H‰n ottakoon, jos Somerset vain kuolee.
+
+BUCKINGHAM.
+York, kiit‰n tuota nˆyr‰‰ alttiuttas.
+Nyt kahden k‰ymme telttaan kuninkaan.
+
+    (Kuningas Henrik tulee seuralaisineen.)
+
+KUNINGAS HENRIK.
+Buckingham, eikˆ pahaa aio York,
+Kun h‰nen kanssaan noin k‰yt k‰sityksin?
+
+BUCKINGHAM.
+Kaikessa alamaisen nˆyryydess‰
+York itse kuninkaalleen esiintyy.
+
+KUNINGAS HENRIK.
+Mut miksi sotavoima tuo?
+
+YORK.
+                         Sill' aioin
+Somerset-petturin ma karkoittaa
+Ja kaataa ilki-kavaltajan, Caden,
+Jok' onkin, kuulemma, jo kukistettu.
+
+    (Iden tulee, kantaen Caden p‰‰t‰.)
+
+IDEN.
+N‰in alhainen ja halpa-arvoinen
+Jos l‰hesty‰ tohtii kuningasta,
+Niin t‰ss‰ olis kavaltajan p‰‰,
+P‰‰ Caden, jonka taistelussa tapoin.
+
+KUNINGAS HENRIK.
+Cadenko p‰‰? -- Vanhurskas olet, Luoja!
+Mun n‰hd‰ suo sen kasvot kuolleena,
+Jok' el‰v‰n‰ niin mua tuskautti.
+Sin‰kˆ h‰net tapoit, yst‰v‰?
+
+IDEN.
+Niin, armollinen majesteetti, min‰.
+
+KUNINGAS HENRIK.
+Mik‰ on nimesi ja mik‰ s‰‰tys?
+
+IDEN.
+Aleksander Iden on mun nimeni,
+'sqvire Kentist‰, ja kˆyh‰ alamainen.
+
+BUCKINGHAM.
+Ois kohtuullista, jos niin suvaitsette,
+Teostaan lyˆd‰ h‰net ritariksi.
+
+KUNINGAS HENRIK.
+Polvistu, Iden! (Iden polvistuu.)
+                Ritarina nouse!
+Tuhannen markkaa palkinnoksi saat
+Ja seurueeseemme sun kutsumme.
+
+IDEN.
+T‰‰n armolahjan Iden ansaitkoon,
+Ja kuolkoon, jos h‰n uskottomaks n‰hd‰‰n!
+
+KUNINGAS HENRIK.
+Kas, Buckingham:
+Somerset ja kuningatar. Sano, ett‰
+H‰n oiti h‰net k‰tkee Yorkilta.
+
+    (Kuningatar Margareeta ja Somerset tulevat.)
+
+KUNINGATAR MARGAREETA.
+Sadalta Yorkilt' ei h‰n p‰‰t‰‰n peit‰,
+Vaan katsoo h‰nt‰ rohkeasti silmiin.
+
+YORK.
+Haa! Mit‰? Somersetko vapaana?
+York, vihdoin ajatukses p‰‰st‰ valtaan
+Ja kieles saata sointuun mieles kanssa!
+Tuon n‰kˆ‰kˆ pit‰‰ minun siet‰‰? --
+Miks sanas sˆit, sa viekas kuningas,
+Kun tied‰t, ett' en loukkausta k‰rsi?
+Kuningas, sanoin; kuningas et ole:
+Et kelpaa hallitsemaan joukkoja,
+Kun petturia hallita et tohdi;
+Sun p‰‰s ei kruunuun sovellu; sun k‰tes
+On luotu pyhiinvaeltajan sauvaa,
+Ei valtavaltikkata kantamaan.
+Tuon kullan tulee kiert‰‰ t‰t‰ otsaa,
+Jonk' uhkaus ja hymy vuorotellen
+Surmaa ja auttaa, kuin Akhilleen peitsi.[14]
+T‰‰ k‰si kannattaa voi valtikkaa
+Ja arvoon, voimaan nostaa lain. -- Pois tielt‰!
+Kautt' taivaan, sin' et hallita saa miest‰,
+Min taivas sulle haltijaks on luonut.
+
+SOMERSET.
+P‰‰kavaltaja! -- Vangitsen sun, York,
+Kuninkaan, maan ja kruunun petturina.
+Katala, polvistu, ja anteeks ano!
+
+YORK.
+Min‰kˆ? Mit‰? Kysyn ensin noilta,
+Mun sallivatko kelleen polvistua. --
+Mies, kutsu poikani, he mua taatkoot.
+
+    (Muudan seuralainen menee.)
+
+Ennenkuin sallivat mun tyrm‰‰n menn‰,
+He lunnaikseni miekkans' antavat.
+
+KUNINGATAR MARGAREETA.
+Heti Clifford kutsukaa; h‰n todistakoon,
+Nuo Yorkin ‰p‰r‰tkˆ kelpaavat
+Is‰ns‰, kavaltajan, takaukseksi.
+
+    (Buckingham menee.)
+
+YORK.
+Sa, veren saastuttama napolitar!
+Napolin hylky, maamme verivitsa!
+Sua suurisukuisemmat Yorkin pojat
+Is‰‰ns‰ taata voivat; surma niille,
+Jotk' aikoo moisen takuun ev‰t‰!
+
+    (Edward ja Richard Plantagenet tulevat sotajoukkoineen
+    toiselta puolelta; toiselta tulevat vanha Clifford ja h‰nen
+    poikansa, hekin sotajoukkoineen.)
+
+Tuoss' ovat! Puoltaan pit‰v‰t, sen takaan.
+
+KUNINGATAR MARGAREETA.
+Ja tuoss' on Clifford; h‰n sen takuun polkee.
+
+CLIFFORD (polvistuen).
+Menestys, onni majesteetille!
+
+YORK.
+Sua kiit‰n, Clifford! Kerro, mit‰ uutta?
+Meit' ‰l‰ vihan katsein s‰ikyttele;
+Me olemme sun valtiaasi, Clifford;
+Taas polvistu, niin erhees tuon saat anteeks.
+
+CLIFFORD.
+T‰‰ herrani on, York; en erehdy;
+Mut sin‰ erehdyt, kun moista luulet.
+Pois hourulaan! -- Mies onko mieletˆn?
+
+KUNINGAS HENRIK.
+On, Clifford; vallanhimon hulluudessa
+On noussut vastustamaan kuningastaan.
+
+CLIFFORD.
+H‰n petturi on; Toweriin h‰net viek‰‰.
+Ja kapinoitsijalta poikki p‰‰!
+
+KUNINGATAR MARGAREETA.
+H‰n vanki on, mut totella ei tahdo:
+Poikansa h‰nt‰ takaavat, h‰n sanoo.
+
+YORK.
+Niin, eikˆ totta, pojat?
+
+EDWARD.
+Kyll' is‰, jos vain meid‰n sana pystyy.
+
+RICHARD.
+Ja jos ei sana, kyll‰ miekka pystyy.
+
+CLIFFORD.
+Haa, noita kavaltaja-pentuja!
+
+YORK.
+Noin sano kuvastas, kun peiliin katsot.
+Min' olen herras; sin‰ kavaltaja. --
+Ajakaa t‰nne karhuparini,[15]
+Niin, kun vain kahleitaan he ravistavat,
+Nuo luihut h‰nt‰rakit s‰ikkyv‰t:
+Salisbury ja Warwick t‰nne kutsukaa.
+
+    (Rummun p‰rrytyst‰. Warwick ja Salisbury tulevat sotav‰kineen.)
+
+CLIFFORD.
+Nuo sinun karhusiko? Usutamme
+Nuo karhus hengilt‰, ja kahleillaan
+Sidomme itse karhunkaitsijan,
+Jos tohdit heid‰t h‰rn‰paaluun tuoda.
+
+RICHARD.
+Vihainen, ‰rj‰s koira k‰‰ntyy p‰in
+Ja puraisee, jos sit‰ pid‰tet‰‰n;
+Mut jos vain joutuu karhun k‰p‰liin,
+Niin, h‰nt‰ jalkain v‰liss‰, se kiljuu;
+Ja samaa koiran virkaa tekin teette,
+Warwickin kanssa voitteloon jos k‰ytte.
+
+CLIFFORD.
+Pois ‰k‰-mˆhk‰, tˆnkk‰ kuvaton,
+Joll' yht‰ kiero sielu on kuin muoto!
+
+YORK.
+Me teille viel‰ kuumat laitamme.
+
+CLIFFORD.
+Varokaa, ett'ette vain itse pala.
+
+KUNINGAS HENRIK.
+Mit‰, Warwick? Eikˆ polves en‰‰ taivu?
+H‰pe‰, Salisbury, valkohiuksiasi,
+Kun hurjaa poikaas, hullu, v‰‰r‰‰n johdat!
+Haudanko partaall' irstailijaa matkit
+Ja silm‰laseill' etsit surua?
+Oi, miss' on kuuliaisuus, uskollisuus?
+Jos pois ne karkoitetaan lumip‰‰st‰,
+Niin miss‰ suojaa saavat p‰‰ll‰ maan? --
+Aiotko haudast' esiin kaivaa sodan
+Ja verin ryˆtt‰‰ kunnon vanhuutes?
+Miks ik‰‰ sull' on, eik‰ ‰ly‰?
+Tai jos sit' on, miks sit‰ v‰‰rin k‰yt‰t?
+H‰pe‰! Nˆyr‰st' alistukoon polves,
+Mi vanhuuttaan jo hautaan k‰yristyy.
+
+SALISBURY.
+Kuningas, tyystin olen harkinnut
+T‰‰n suurisynnyn herttuan vaatimusta,
+Ja tunnon mukaan katson, ett' on h‰n
+Englannin kruunun tosi-perillinen.
+
+KUNINGAS HENRIK.
+Mut teith‰n uskollisuus-valan mulle.
+
+SALISBURY.
+Sen tein.
+
+KUNINGAS HENRIK.
+Valasi voitko taivaan n‰hden purkaa?
+
+SALISBURY.
+On synti suuri syntiin vannoa,
+Mut synti suurempi on syntisess‰
+Pysy‰ valassaan. Ei kell‰‰n pakko,
+Ei juhlallisen valan nojallakaan,
+Harjoittaa murhaa, ryˆst‰‰ l‰himm‰ist‰‰n,
+V‰kisin puhtaalt' immelt' ottaa piikuus,
+Perintˆ riist‰‰ is‰ttˆm‰lt‰
+Ja sortaa lesken peri-oikeutta,
+Jos muut' ei syyt‰ ole v‰‰ryyteen,
+Kuin ett' on juhlallisen valan tehnyt.
+
+KUNINGATAR MARGAREETA.
+Ei viekas vilppi kaipaa verukkeita.
+
+KUNINGAS HENRIK.
+Buckingham t‰nne! Asestukoon heti.
+
+YORK.
+Buckingham tuo, ja kaikki yst‰v‰skin;
+Min' aion kruunun voittaa taikka kuolla.
+
+CLIFFORD.
+J‰ljemm‰n takaan, jos ei unet pet‰.
+
+WARWICK.
+Pois mene maata, lis‰‰ uneksimaan,
+Niin s‰‰styt taistelujen myrskyilt‰.
+
+CLIFFORD.
+Min' aion kest‰‰ myrskyn ankaramman,
+Kuin mink‰ sin‰ t‰n‰‰n nostaa voit;
+Sen kirjoittaa ma aion kyp‰r‰‰si,
+Jos vain sun sukumerkist‰si tunnen.
+
+WARWICK.
+Kautt' is‰n kilven, Nevil-suvun merkin,
+Tuon ryhmypaaluun lyˆdyn pystykarhun!
+Ylh‰‰ll‰ t‰n‰‰n kannan kyp‰r‰ni,
+Kuin vuoren kukkulalla setripuu
+Uhalla myrskyn kantaa lehv‰stˆns‰,
+Ja sun jo s‰ikytt‰‰ sen pelkk‰ n‰ky.
+
+CLIFFORD.
+Ja kyp‰r‰st‰s min‰ karhun riist‰n
+Ja ilkkuen sen jalkan' alle poljen
+Uhalla itse karhunkaitsijan.
+
+NUORI CLIFFORD.
+Aseisiin siis, sa is‰ voitokas!
+Kapinamiehet joukkioineen kuolkoot!
+
+RICHARD.
+Hyi! Hiljaa! Hyi! Noin tyly olla voit,
+Kun t‰n‰‰n Kristuksen kanss' atrioit!
+
+NUORI CLIFFORD.
+Kuvaton rujo! Sin' et tied‰, miss‰.
+
+RICHARD.
+No, jos et taivaassa, niin helvetiss‰.
+
+                (Menev‰t eri taholle.)
+
+
+Toinen kohtaus.
+
+    Sanct Albans.
+
+    (Sotamelskett‰. Hyˆkk‰yksi‰. Warwick tulee.)
+
+WARWICK.
+Hoi, Clifford Cumberland, sua Warwick kutsuu!
+Ja jos et piill‰ aio karhulta,
+Niin nyt, -- kun ‰rj‰s h‰ikk‰torvi raikuu
+Ja surmattujen huudot ilman t‰ytt‰‰, --
+Nyt tule, Clifford, taisteluun sua vaadin!
+Sa, ylv‰ pohjolainen, Cumberland,
+Sorroksiin huudan ‰‰neni sun t‰htes.
+
+    (York tulee.)
+
+Mit‰ n‰en, jalo loordi? Jalkaisinko?
+
+YORK.
+Tuo turkka Clifford tappoi multa ratsun,
+Mut samalla ma maksoin mitalla,
+Ja uljaan lempihevosensa laitoin
+Varisten ruoaksi ja korppien.
+
+    (Clifford tulee.)
+
+WARWICK.
+Nyt toisen on tai toisen hetki tullut.
+
+YORK.
+Seis, Warwick! Toinen otus valikoi!
+Min' ajan t‰t‰ valtael‰int' itse.
+
+WARWICK.
+Niin oikein, York: sa kruunust' ottelet. --
+Niin totta onnea kuin toivon, Clifford,
+Niin tuskaist' on sua k‰sist‰ni p‰‰st‰‰.
+
+    (Menee.)
+
+CLIFFORD.
+Miks minuun katsot, York? Mit' aikailet?
+
+YORK.
+Sun rakastuisin reimaan ryhtiisi,
+Jos sin' et verivihollinen oisi.
+
+CLIFFORD.
+Kiitosta sunkin miehuutesi saisi,
+Jos sit' et k‰ytt‰is halpaan petokseen.
+
+YORK.
+Se miekkaas vastaan nyt mua auttakoon,
+Niin totta kuin on oikeus sen puolla!
+
+CLIFFORD.
+T‰ss' alttiiks panen sielun sek‰ ruumiin.
+
+YORK.
+Kamala panos! Ole valmis siis!
+
+CLIFFORD.
+_La fin couronne les oeuvres_.
+
+    (Taistelevat. Clifford kaatuu ja kuolee.)
+
+YORK.
+N‰in sota rauhan toi: nyt pois on tarmo.
+Sielulles rauhan suokoon taivaan armo!
+
+    (Menee.)
+
+    (Nuori Clifford tulee.)
+
+NUORI CLIFFORD.
+Tuho ja h‰pe‰! Pois kaikki kaikkoo.
+Sekasorron pelko tuo, ja sekasorto
+Se haavoittaa, kun pit‰isi sen auttaa.
+Oi, sota, sin‰ hornan sikiˆ,
+Jot' aseenansa taivaan viha k‰ytt‰‰,
+Nyt koston tulikek‰leit‰ viskaa
+Poviimme j‰isiin! -- Kukaan ei saa v‰ist‰‰:
+Ken oikea on soturi, ei helli
+Se itse‰‰n, ja itse‰‰n ken hellii,
+Se luonnostaan ei saa, vaan sattumalta
+Urohon nimen. --
+
+    (Huomaa is‰ns‰ ruumiin.)
+
+                  Sorru, inha mailma!
+Viimeisen p‰iv‰n lieska ennen aikaans'
+Yhdeksi sulattakoon maan ja taivaan!
+Nyt mailman tuomiotorven r‰ikk‰ soikoon,
+Ja heikot pikku-‰‰net vaietkoot! --
+Oi, kallis is‰, osasiko oli
+Menett‰‰ rauhaan nuoruutes, ja sitten,
+Vanhuuden hopeoihin puettuna
+Ja kunnian ja levon p‰ivin‰si,
+Noin kuolla hurjaan taisteluun? -- Tuo n‰ky
+Kivett‰‰ syd‰mmeni; kivest' olkoon,
+Niin kauan kuin se mun on! York h‰n meid‰n
+Ei s‰‰st‰ vanhuksia; min‰k‰‰n siis
+En heid‰n lapsiansa; immen kyynel
+On mulle samaa mit‰ kaste lieskaan;
+Ja kauneus, josta leppyy tyrannitkin,
+Vihani liekkiin ˆljy‰ vain kaataa.
+T‰st'edes s‰‰list‰ en tiet‰‰ tahdo;
+Jos lapsen kohtaan Yorkin suvusta,
+Niin useammiks kappaleiks sen silvon
+Kuin Absyrtuksen hurja Medea.
+Mainetta tahdon niitt‰‰ julmuudella.
+Sa, uusi pirsta vanhan Clifford-suvun,
+
+    (Nostaa maasta ruumiin.)
+
+Niin kuin Aeneas vanhaa Anchisesta,
+Sua min‰ miehen-harteillani kannan.
+Mut taakkaa el‰v‰‰ Aeneas kantoi.
+Ei vain niin raskasta kuin t‰m‰ tuska.
+
+    (Menee.)
+
+    (Richard Plantagenet ja Somerset tulevat taistellen;
+    Somerset kaatuu.)
+
+RICHARD.
+Niin, makaa sin‰ siin‰! --
+Nyt kurjan olutkrouvin kilven alla,
+"Albansin pyh‰n linnan", Somerset
+On tehnyt velhon kuuluks kuolemallaan.
+ƒl' uuvu, miekka! Papit palvokoot
+Vihamiehen eest‰; prinssit tappakoot!
+
+    (Menee.)
+
+    (Sotamelskett‰. Hyˆkk‰yksi‰. Kuningas Henrik,
+    kuningatar Margareeta y.m. tekev‰t pakoa.)
+
+KUNINGATAR MARGAREETA.
+Pois! Miksi aikailet? Hyi! H‰pe‰‰!
+
+KUNINGAS HENRIK.
+Ken taivaan tahdon v‰ltt‰‰? T‰nne j‰‰.
+
+KUNINGATAR MARGAREETA.
+Mik' olet mies? Et taistele, et v‰isty.
+Nyt miehuutt', ‰ly‰ ja puolustusta
+On v‰isty‰ ja turvaa etsi‰
+Miten vain voi, ja varmin tie on pako.
+
+    (Sodan h‰lin‰‰ kuuluu kaukaa.)
+
+Jos teid‰t vangitaan, niin onni kaikki
+On meilt‰ mennyt; mut jos pakoon p‰‰st‰‰n --
+Ja p‰‰st‰‰n, jos ei aikailla -- niin l‰hell'
+On Lontoo, miss‰ teill' on yst‰vi‰;
+Ja siell‰ t‰m‰ meid‰n onnen rikko
+Piankin korjataan.
+
+    (Nuori Clifford tulee.)
+
+NUORI CLIFFORD.
+                   Jos sieluni
+Ei turmaa vastaist' aavistais, niin ennen
+Jumalaa herjaisin, kuin pakoon teit‰
+Ma k‰skisin. Mut paeta nyt t‰ytyy:
+Parantumaton valtaa h‰mmennys
+Nyt koko meid‰n puolueemme mielen.
+Pois joutuin siis! Se p‰iv‰ kerran koittaa,
+Kun mekin viel‰ saamme heid‰t voittaa.
+Pois, kuninkaani, pois!
+
+             (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Tasanko l‰hell‰ Sanct Albansia.
+
+    (Sotamelskett‰ ja per‰ytymist‰. Torventoitauksia;
+    sen j‰lkeen tulevat York, Richard Plantagenet, Warwick
+    ja sotamiehi‰ liehuvin lipuin ja helisevin soitoin.)
+
+YORK.
+Tiet‰‰kˆ kukaan Salisburyst‰ mit‰?
+Se talvileijona ei raivoissaan
+Ik‰‰ns‰ muista eik‰ ajan taakkaa,
+Vaan niinkuin kukkea ja reipas sulho
+H‰d‰ss‰ nuortuu vain. T‰‰ ilon p‰iv‰
+Ei iloks ole, turhaan koko voitto,
+Jos Salisbury on mennyt.
+
+RICHARD.
+                         Jalo is‰,
+Kolmasti autoin h‰nt‰ ratsun selk‰‰n,
+Kolmasti suojasin ja kolmasti
+Talutin pois ja vaadin syrj‰‰n j‰‰m‰‰n:
+Mut aina, miss‰ vaara, siell‰ h‰nkin;
+Ja niinkuin mˆkiss' uljaat sein‰verhot,
+Niin tuossa ruumisr‰hj‰ss' oli tahto.
+Mut tuossa, kas, se jalo mies jo tulee.
+
+    (Salisbury tulee.)
+
+SALISBURY.
+Hyvin t‰n‰‰n sodit, kautta miekkani!
+Niin, totta, kaikki teimme. -- Kiitos, Richard!
+Kuin kauan el‰‰ saan, sen tiet‰‰ Herra;
+Mut H‰n sen salli, ett‰ surman uhkan
+Kolmasti minusta sa t‰n‰‰n torjuit. --
+Omaamme viel‰ emme omaa, loordit;
+Ei vihollisen pako viel‰ riit‰;
+Mokomat vastustajat pian tointuu.
+
+YORK.
+Niin, varminta on ajaa heit‰ takaa.
+Kuningas paennut on Lontooseen
+Ja kokoon kutsuu kohta parlamentin.
+Siis ajoon, ennenkuin on k‰sky valmis! --
+Lord Warwick, l‰hdet‰‰nkˆ per‰ss‰?
+
+WARWICK.
+Per‰ss‰? Ei, vaan edell‰, jos voidaan,
+T‰‰ suur' on p‰iv‰, loordit, jumal'auta!
+Albansin tappelu, min voitti York,
+On mainittava kautta vuosisatain. --
+Hoi, torvet soimaan! -- Lontooseen nyt vainen!
+Ja tulkoon moni p‰iv‰ t‰m‰nlainen!
+
+                        (Menev‰t.)
+
+
+
+
+SELITYKSIƒ:
+
+
+[1] _Kuin syd‰mmehen Calydonin prinssin_ j.n.e. Calydonin prinssin,
+Meleagerin, el‰m‰ riippui kek‰leest‰, jota h‰nen ‰itins‰ Althaea
+s‰ilytti. Kostoksi siit‰, ett‰ Meleager oli tappanut h‰nen veljens‰,
+heitti h‰n sen tuleen, ja Meleager kuoli suurissa tuskissa.
+
+[2] _Viel' el‰‰ herttua, Henrik, kukistajas_. T‰m‰n ennustuksen
+kaksimielisyys on tahallinen.
+
+[3] _Sauva, jonka p‰‰ss‰ on hiekkapussi_. Ritarit ja ylimykset
+suorittivat kaksintaistelunsa peitsell‰ ja miekalla, mutta alhaiso yll‰
+mainitulla aseella.
+
+[4] _Charneco_, makea, espanjalainen viini.
+
+[5] _Kuin hurja maurilainen tanssija_. Maurilaistanssi, jota
+tanssittiin p‰‰si‰is- ja helluntaipyhin‰ ja eritt‰inkin kev‰tjuhlissa,
+oli Espanjasta tuotu Englantiin.
+
+[6] _Pilkoittaa pilven piilost' aurinkomme_. Edward III:n vaakunassa
+oli aurinko, jota pilvet puoliksi peittiv‰t.
+
+[7] _Bargulus_. Illyrialainen merirosvo, josta Cicero puhuu.
+
+[8] _Kaikki valtakunnassa tulee olla yhteist‰_. Kommunistisia oppeja
+saarnattiin Englannissa jo kuningas Richard III:n aikana.
+
+[9] _Lontoon-kivi_. Luultavasti jokin vanha kivinen muistopatsas
+Lontoossa.
+
+[10] _Pankaa Lontoon silta palamaan_. Lontoon silta oli siihen aikaan
+puusta.
+
+[11] _Savoija_ oli entinen kuninkaallinen linna Thamesin rannalla,
+jonka Savoijan kreivi Pietari rakensi v. 1245.
+
+[12] _Paistettu juusto_ oli walesil‰isten mieliruoka.
+
+[13] _Kernit ja gallowglassit_ olivat irlantilaista jalkav‰ke‰, joista
+edelliset k‰yttiv‰t tapparaa, j‰lkimm‰iset miekkaa.
+
+[14] _Surmaa ja auttaa kuin Akhilleen peitsi_. Akhilles, kun oli
+kuolettavasti haavoittanut mysialaisen kuninkaan Telephoksen, paransi
+t‰m‰n j‰lleen raudanlastuilla.
+
+[15] _Ajakaa t‰nne karhuparini_. Nevillen, Warwickin kreivien,
+vaakunana oli karhu, ryhmyiseen paaluun kytkettyn‰.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Henrik Kuudes II, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HENRIK KUUDES II ***
+
+***** This file should be named 40115-8.txt or 40115-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/1/1/40115/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
